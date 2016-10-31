@@ -1,2 +1,3 @@
-# novelasportuguesas
-Collection of nineteenth century portuguese novels
+# Romances Portugueses
+
+A small collection of nineteenth century Portuguese novels.
