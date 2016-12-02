@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">As Pupilas do Senhor Reitor</title>
+                <title type="sub"/>
+                <title type="short">PupilasSenhorReitor</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Dinis</name>
+                    <name type="full">Dinis, Júlio</name>
+                    <idno type="viaf">36941922</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0019</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "As Pupilas do Senhor Reitor." <seg rend="italic">Wikisource</seg>, <date when="2015">2015</date>, <ref target="https://pt.wikisource.org/wiki/As_Pupilas_do_Senhor_Reitor">https://pt.wikisource.org/wiki/As_Pupilas_do_Senhor_Reitor</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first"> "As Pupilas do Senhor Reitor". <seg rend="italic">Jornal
+                        do Porto</seg>, <date when="1866">1866</date>. (folhetim) </bibl>
+                <!-- 1863? -->
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>A história dos amores e dos desencontros das órfãs Clara e Guida educadas
+                            por um velho pároco, no cenário da vida campestre portuguesa do século
+                            XIX. Cenário este, povoado por personagens cuja bondade só é maculada
+                            pelo moralismo quase ingénuo de “comadres intriguistas” que contribuem
+                            para o conflito amoroso.</p>
+                        <p>Lançado ao público em formato de folhetim de jornal em 1863 e,
+                            posteriormente, editado e publicado como livro em 1867, o primeiro
+                            romance de Júlio Dinis “As Pupilas do Senhor Reitor” encontram-se não só
+                            entre as obras de maior sucesso do autor, como é também um dos romance
+                            mais vendidos dos séculos XIX e XX em Portugal. Parte desse êxito
+                            encontra-se, em parte, no estilo literário empregue, muito afastado da
+                            escrita erudita e rebuscada de outros romances da época. Utilizando o
+                            uso de chavões, expressões e descrição de costumes rurais, é visível que
+                            a obra foi claramente dirigida à classe popular – um modelo de escrita
+                            posteriormente usado por muitos outros autores. No entanto, não há neste
+                            romance, tal como em nenhum dos outros romances de Júlio Dinis, uma
+                            incursão no estilo realista ou naturalista – movimentos que ganhavam
+                            elevo nos círculos literários da altura -, muito pelo contrário. Júlio
+                            Dinis apresenta-nos a sua visão bucólica, pitoresca e romântica da vida,
+                            não descrevendo as dificuldades da vida campesina, não fazendo denúncias
+                            de foro social ou criticando costumes e mentalidades, como fazia Eça de
+                            Queirós, praticamente na mesma altura. No entanto, o romance, “As
+                            pupilas do Sr. Reitor” tal como os seguintes, revela um profundo
+                            conhecimento do autor relativamente a hábitos locais, expressões e
+                            costumes próprios do cenário que descreve, isto porque Júlio Dinis
+                            criava efetivamente narrativas de lugares que conhecia e amava, (neste
+                            caso, a zona de Ovar), sem quaisquer pretensões de agitar ou modelar
+                            consciências mas apenas de entreter e de deleitar.</p>
+                    </quote>
+                    <bibl> "As Pupilas do Senhor Reitor." <seg rend="italic">Luso Livros</seg>,
+                            <date when="2012">2012</date>, <ref target="https://www.luso-livros.net/Livro/as-pupilas-do-sr-reitor/">https://www.luso-livros.net/Livro/as-pupilas-do-sr-reitor/</ref>.
+                    </bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre" subtype="1" resp="#uh" cert="low">social</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-30" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0019_d1"/>
+      <div xml:id="rp0019_d2"/>
+      <div xml:id="rp0019_d3"/>
+      <div xml:id="rp0019_d4"/>
+      <div xml:id="rp0019_d5"/>
+      <div xml:id="rp0019_d6"/>
+      <div xml:id="rp0019_d7"/>
+      <div xml:id="rp0019_d8"/>
+      <div xml:id="rp0019_d9"/>
+      <div xml:id="rp0019_d10"/>
+      <div xml:id="rp0019_d11"/>
+      <div xml:id="rp0019_d12"/>
+      <div xml:id="rp0019_d13"/>
+      <div xml:id="rp0019_d14"/>
+      <div xml:id="rp0019_d15"/>
+      <div xml:id="rp0019_d16"/>
+      <div xml:id="rp0019_d17"/>
+      <div xml:id="rp0019_d18"/>
+      <div xml:id="rp0019_d19"/>
+      <div xml:id="rp0019_d20"/>
+      <div xml:id="rp0019_d21"/>
+      <div xml:id="rp0019_d22"/>
+      <div xml:id="rp0019_d23"/>
+      <div xml:id="rp0019_d24"/>
+      <div xml:id="rp0019_d25"/>
+      <div xml:id="rp0019_d26"/>
+      <div xml:id="rp0019_d27"/>
+      <div xml:id="rp0019_d28"/>
+      <div xml:id="rp0019_d29"/>
+      <div xml:id="rp0019_d30"/>
+      <div xml:id="rp0019_d31"/>
+      <div xml:id="rp0019_d32"/>
+      <div xml:id="rp0019_d33"/>
+      <div xml:id="rp0019_d34"/>
+      <div xml:id="rp0019_d35"/>
+      <div xml:id="rp0019_d36"/>
+      <div xml:id="rp0019_d37"/>
+      <div xml:id="rp0019_d38"/>
+      <div xml:id="rp0019_d39"/>
+      <div xml:id="rp0019_d40"/>
+      <div xml:id="rp0019_d41"/>
+      <div xml:id="rp0019_d42"/>
+    </body>
+  </text>
+</TEI>

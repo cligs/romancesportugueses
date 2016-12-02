@@ -5,31 +5,43 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Os Maias</title>
-                <title type="sub">EPISODIOS DA VIDA ROMANTICA</title>
+                <title type="sub">Episodios da Vida Romantica</title>
                 <title type="short">Maias</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">205787032</idno>
                 </title>
                 <author>
                     <name type="short">Queiros</name>
                     <name type="full">Queirós, José Maria Eça</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">88719234</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0004</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>http://www.gutenberg.org/ebooks/40409</ref>
+                <bibl type="digital-source">"Os Maias. Episodios da Vida Romantica." <seg
+                        rend="italic">The Project Gutenberg</seg>, <date when="2012-10-16">October
+                        16, 2012</date>, EBook <idno>40409</idno>, <ref
+                        target="http://www.gutenberg.org/ebooks/40409"
+                        >http://www.gutenberg.org/ebooks/40409</ref>. <note
+                        source="http://www.gutenberg.org/ebooks/40409">Devido à existência de erros
+                        tipográficos neste texto, foram tomadas várias decisões quanto à versão
+                        final. Em caso de dúvida, a grafia foi mantida de acordo com o
+                        original.</note>
                 </bibl>
-                <bibl type="print-source"/>
+                <bibl type="print-source">
+                    <seg rend="italic">Os Maias. Episodios da Vida Romantica.</seg> Porto: Livraria
+                    Internacional de Ernesto Chardron, <date when="1888">1888</date>. </bibl>
                 <bibl type="edition-first">
                     <date when="1888">1888</date>
                 </bibl>
@@ -40,19 +52,46 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>A história de três gerações da família Maia, uma família aristocrata da
+                            sociedade Lisboeta da segunda metade dos séc. XIX. Uma obra que serve de
+                            pretexto para o autor fazer uma crítica à situação do país a nível
+                            político e cultural e à alta burguesia lisboeta oitocentista, por onde
+                            perpassa um humor (ora caricatural, ora satírico) que configura a
+                            derrota e o desengano de todas as personagens.</p>
+                        <p>É a obra-prima de Eça de Queirós, publicada em 1888, e uma das mais
+                            importantes de toda a literatura narrativa portuguesa. É um romance
+                            realista (e naturalista) onde não faltam o fatalismo, a análise social,
+                            as peripécias e a catástrofe próprias do enredo passional. Estes
+                            “Episódios da vida romântica” são também um retrato da sociedade
+                            lisboeta do final do século XIX que se interliga com a história
+                            principal numa sucessão de acontecimentos de âmbito social que
+                            proporciona a radiografia da sociedade lisboeta da época. É sobretudo
+                            uma obra que expressa o desânimo social, politico e económico dos
+                            escritores da chama Geração de 70 (1870) da qual Eça é o seu maior
+                            representante.</p>
+                    </quote>
+                    <bibl>"Os Maias. Episodios da Vida Romantica." <seg rend="italic">Luso
+                            Livros</seg>, <date when="2012">2012</date>, <ref
+                            target="https://www.luso-livros.net/Livro/os-maias/"
+                            >https://www.luso-livros.net/Livro/os-maias/</ref>.</bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre_x">realist</term>
-                    <term type="subgenre_hist">not_historical</term>
-                    <term type="genre-subtitle"/>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh">realist</term>
+                    <term type="subgenre" subtype="1" resp="#uh">naturalistic</term>
+                    <term type="subgenre" subtype="1" resp="#uh">social</term>
+                    <term type="subgenre_x" resp="#uh">realist</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="genre-subtitle">Episodios da Vida Romantica</term>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

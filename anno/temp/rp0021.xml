@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Os Pobres</title>
+                <title type="short">OsPobres</title>
+                <title type="idno">
+                    <idno type="viaf">309275368</idno>
+                </title>
+                <author>
+                    <name type="short">Brandao</name>
+                    <name type="full">Brandão, Raul</name>
+                    <idno type="viaf">17219789</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0021</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "Os Pobres." <seg rend="italic">Luso Livros</seg>,
+                        <date when="2016">2016</date>, <ref target="https://www.luso-livros.net/Livro/os-pobres/">https://www.luso-livros.net/Livro/os-pobres/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1906">1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Romance de Raul Brandão, escrito em forma de crónica, numa análise
+                            filosófica, introspetiva e existencialista sobre a vida miserável de
+                            gente que o autor presencia no seu dia à dia. [...]</p>
+                        <p>Datada de 1906, a obra de Raul Brandão “Os Pobres” é considerada um ponto
+                            de viragem no trabalho do escritor que se consagrou por ser o primeiro
+                            autor português a enveredar pelo expressionismo literário, a corrente
+                            literária que dá primazia à expressão de sentimentos em relação à
+                            simples descrição objetiva da realidade.</p>
+                    </quote>
+                    <bibl>"Os Pobres." <seg rend="italic">Luso Livros</seg>, <date when="2016">2016</date>,
+                        <ref>https://www.luso-livros.net/Livro/os-pobres/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh" cert="low">expressionistic</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">expressionistic</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">autodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-22" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0021_d1"/>
+      <div xml:id="rp0021_d2"/>
+      <div xml:id="rp0021_d3"/>
+      <div xml:id="rp0021_d4"/>
+      <div xml:id="rp0021_d5"/>
+      <div xml:id="rp0021_d6"/>
+      <div xml:id="rp0021_d7"/>
+      <div xml:id="rp0021_d8"/>
+      <div xml:id="rp0021_d9"/>
+      <div xml:id="rp0021_d10"/>
+      <div xml:id="rp0021_d11"/>
+      <div xml:id="rp0021_d12"/>
+      <div xml:id="rp0021_d13"/>
+      <div xml:id="rp0021_d14"/>
+      <div xml:id="rp0021_d15"/>
+      <div xml:id="rp0021_d16"/>
+      <div xml:id="rp0021_d17"/>
+      <div xml:id="rp0021_d18"/>
+      <div xml:id="rp0021_d19"/>
+      <div xml:id="rp0021_d20"/>
+      <div xml:id="rp0021_d21"/>
+      <div xml:id="rp0021_d22"/>
+      <div xml:id="rp0021_d23"/>
+      <div xml:id="rp0021_d24"/>
+      <div xml:id="rp0021_d25"/>
+      <div xml:id="rp0021_d26"/>
+    </body>
+  </text>
+</TEI>

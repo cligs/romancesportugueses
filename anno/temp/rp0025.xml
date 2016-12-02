@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">O Mistério da Estrada de Sintra</title>
+                <title type="short">MisterioSintra</title>
+                <title type="idno">
+                    <idno type="viaf">4424147270556735700007</idno>
+                </title>
+                <author>
+                    <name type="short">Queiros</name>
+                    <name type="full">Queirós, Eça de</name>
+                    <idno type="viaf">88719234</idno>
+                </author>
+                <!--<author>
+                    <name type="short">Ortigao</name>
+                    <name type="full">Ortigão, Ramalho</name>
+                    <idno type="viaf">56623354</idno>
+                </author>-->
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0025</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "O Mistério da Estrada de Sintra." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/o-misterio-da-estrada-de-sintra/">https://www.luso-livros.net/Livro/o-misterio-da-estrada-de-sintra/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first"> Em folhetins no <seg rend="italic">Diário de
+                        Notícias</seg> entre Julho e Setembro <date when="1870">1870</date>. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Um médico que está a passar de carruagem numa estrada de Sintra é
+                            surpreendido e sequestrado por quatro figuras mascaradas que o levam
+                            para uma misteriosa casa no meio de Sintra. Lá dentro encontrava-se o
+                            cadáver de um homem. Daqui se levantam várias perguntas: Quem era aquele
+                            homem; como morreu e quem o matou. A procura de respostas a este caso
+                            leva a uma empolgante história de intriga, suspeitas, ameaças, duelos e
+                            sexo, numa viagem que vai de Portugal à ilha de Malta.</p>
+                        <p>Considerada a primeira obra portuguesa de cariz policial o “O Mistério da
+                            Estrada de Sintra” guarda ainda o interesse histórico de fazer parte de
+                            uma estratégia usada pelos seus autores – Eça de Queirós e Ramalho
+                            Ortigão – para enganar os leitores levando-os a pensar que se tratava de
+                            um caso real, tal como faria 68 anos depois Orson Welles no seu relato
+                            por rádio da “Guerra dos Mundos”.</p>
+                    </quote>
+                    <bibl>"O Mistério da Estrada de Sintra." <seg rend="italic">Luso Livros</seg>,
+                            <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/o-misterio-da-estrada-de-sintra/">https://www.luso-livros.net/Livro/o-misterio-da-estrada-de-sintra/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh" cert="medium">crime</term>
+                    <term type="subgenre_hist">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="medium">crime</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">autodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-22" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0025_d1"/>
+      <div xml:id="rp0025_d2"/>
+      <div xml:id="rp0025_d3"/>
+      <div xml:id="rp0025_d4"/>
+      <div xml:id="rp0025_d5"/>
+      <div xml:id="rp0025_d6"/>
+      <div xml:id="rp0025_d7"/>
+      <div xml:id="rp0025_d8"/>
+      <div xml:id="rp0025_d9"/>
+      <div xml:id="rp0025_d10"/>
+      <div xml:id="rp0025_d11"/>
+      <div xml:id="rp0025_d12"/>
+      <div xml:id="rp0025_d13"/>
+      <div xml:id="rp0025_d14"/>
+      <div xml:id="rp0025_d15"/>
+      <div xml:id="rp0025_d16"/>
+      <div xml:id="rp0025_d17"/>
+      <div xml:id="rp0025_d18"/>
+      <div xml:id="rp0025_d19"/>
+      <div xml:id="rp0025_d20"/>
+      <div xml:id="rp0025_d21"/>
+      <div xml:id="rp0025_d22"/>
+      <div xml:id="rp0025_d23"/>
+      <div xml:id="rp0025_d24"/>
+      <div xml:id="rp0025_d25"/>
+      <div xml:id="rp0025_d26"/>
+      <div xml:id="rp0025_d27"/>
+      <div xml:id="rp0025_d28"/>
+      <div xml:id="rp0025_d29"/>
+      <div xml:id="rp0025_d30"/>
+      <div xml:id="rp0025_d31"/>
+      <div xml:id="rp0025_d32"/>
+      <div xml:id="rp0025_d33"/>
+      <div xml:id="rp0025_d34"/>
+      <div xml:id="rp0025_d35"/>
+      <div xml:id="rp0025_d36"/>
+      <div xml:id="rp0025_d37"/>
+      <div xml:id="rp0025_d38"/>
+      <div xml:id="rp0025_d39"/>
+      <div xml:id="rp0025_d40"/>
+      <div xml:id="rp0025_d41"/>
+      <div xml:id="rp0025_d42"/>
+      <div xml:id="rp0025_d43"/>
+      <div xml:id="rp0025_d44"/>
+      <div xml:id="rp0025_d45"/>
+    </body>
+  </text>
+</TEI>

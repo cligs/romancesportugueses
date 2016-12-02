@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">O Bobo</title>
+                <title type="sub"/>
+                <title type="short">OBobo</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Herculano</name>
+                    <name type="full">Herculano, Alexandre</name>
+                    <idno type="viaf">2464795</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0011</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "O Bobo." <seg rend="italic">Wikisource</seg>, <date when="2008">2008</date>, <ref target="https://pt.wikisource.org/wiki/O_Bobo">https://pt.wikisource.org/wiki/O_Bobo</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1843">1843</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-29" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0011_d1"/>
+      <div xml:id="rp0011_d2"/>
+      <div xml:id="rp0011_d3"/>
+      <div xml:id="rp0011_d4"/>
+      <div xml:id="rp0011_d5"/>
+      <div xml:id="rp0011_d6"/>
+      <div xml:id="rp0011_d7"/>
+      <div xml:id="rp0011_d8"/>
+      <div xml:id="rp0011_d9"/>
+      <div xml:id="rp0011_d10"/>
+      <div xml:id="rp0011_d11"/>
+      <div xml:id="rp0011_d12"/>
+      <div xml:id="rp0011_d13"/>
+      <div xml:id="rp0011_d14"/>
+      <div xml:id="rp0011_d15"/>
+      <div xml:id="rp0011_d16"/>
+      <div xml:id="rp0011_d17"/>
+    </body>
+  </text>
+</TEI>

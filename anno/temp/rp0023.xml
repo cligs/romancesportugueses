@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">A Morte do Palhaço</title>
+                <title type="short">MortePalhaco</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Brandao</name>
+                    <name type="full">Brandão, Raul</name>
+                    <idno type="viaf">17219789</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0023</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "A Morte do Palhaço." <seg rend="italic">Luso
+                        Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/morte-palhaco/">https://www.luso-livros.net/Livro/morte-palhaco/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first"> “História d’um Palhaço (A Vida e o Diário de K.
+                    Maurício)”, <date when="1896">1896</date>. </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>A História de K. Maurício, palhaço de profissão e alheio da realidade por
+                            natureza, é um homem que sofre por ser incapaz de exprimir o seu amor à
+                            mulher que ama.</p>
+                        <p>Uma das mais curtas e belas obras de Raul Brandão sobre o amor trágico,
+                            por onde desfilam as mais extrínsecas personagens do mundo circense que,
+                            pelas suas discussões e ações, levantam questões filosóficas acerca do
+                            sonho e da vida mundana, do correcto ou incorrecto, da vida e da
+                            morte.</p>
+                        <p>K. Maurício é um palhaço de circo que adora fazer rir as pessoas,
+                            tornando-as felizes. Durante as suas atuações, em cada gesto ou palavra,
+                            exprime o seu estado de espírito e a sua vida fantasiosa e faz isto
+                            perfeitamente porque vive num constante mundo de sonho, sem dar
+                            importância ao que é mundano. Um dia apaixona-se por Camélia, uma
+                            trapezista, mas ao exprimir o seu amor, expondo os seus sentimentos como
+                            costuma fazer nas suas atuações, apercebe-se que Camélia apenas se ri
+                            das suas lágrimas e dos seus sentimentos. Isto acaba por leva-lo ao
+                            desespero e a cometer actos encabeçados pelo ciúme.</p>
+                    </quote>
+                    <bibl>"A Morte do Palhaço." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/morte-palhaco/">https://www.luso-livros.net/Livro/morte-palhaco/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre_hist">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">sentimental</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">mixed</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-22" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0023_d1"/>
+      <div xml:id="rp0023_d2"/>
+      <div xml:id="rp0023_d3"/>
+      <div xml:id="rp0023_d4"/>
+      <div xml:id="rp0023_d5"/>
+      <div xml:id="rp0023_d6"/>
+      <div xml:id="rp0023_d7"/>
+      <div xml:id="rp0023_d8"/>
+      <div xml:id="rp0023_d9"/>
+      <div xml:id="rp0023_d10"/>
+    </body>
+  </text>
+</TEI>

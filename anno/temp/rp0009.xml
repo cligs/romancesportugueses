@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Amor de Perdição</title>
+                <title type="sub"/>
+                <title type="short">AmorPerdicao</title>
+                <title type="idno">
+                    <idno type="viaf">214768619</idno>
+                </title>
+                <author>
+                    <name type="short">CasteloBranco</name>
+                    <name type="full">Castelo Branco, Camilo</name>
+                    <idno type="viaf">7399630</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0009</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "Amor de Perdição." <seg rend="italic">Wikisource</seg>, <date when="2016">2016</date>, <ref target="https://pt.wikisource.org/wiki/Amor_de_Perdi%C3%A7%C3%A3o">https://pt.wikisource.org/wiki/Amor_de_Perdi%C3%A7%C3%A3o</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1862">1862</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Simão Botelho e Teresa de Albuquerque, dois jovens enamorados de famílias
+                            rivais da cidade de Viseu do século XIX, mantêm um namoro proibido com
+                            consequências trágicas e mortais, não apenas para ambos mas também para
+                            aqueles que os rodeiam.</p>
+                        <p>A mais popular obra de Camilo Castelo Branco, que lhe conferiu fama,
+                            popularidade e que o consagrou como um dos mais relevantes escritores
+                            românticos portugueses. Foi escrita, segundo o autor, em apenas 15 dias,
+                            no ano de 1861, enquanto esteve preso na cadeia da Relação, na cidade do
+                            Porto, por se ter envolvido num escândalo de adultério. É um romance
+                            claramente inspirado na trágica história de Romeu e Julieta de
+                            Shakespeare, enquadrado à época do autor, com alguns elementos
+                            autobiográficos e descrições de costumes e hábitos sociais da
+                            altura.</p>
+                    </quote>
+                    <bibl>"Amor de Perdição." <seg rend="italic">Luso Livros</seg>, <date when="2012">2012</date>, <ref target="https://www.luso-livros.net/Livro/amor-de-perdicao/">https://www.luso-livros.net/Livro/amor-de-perdicao/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">sentimental</term>
+                    <term type="subgenre_x" resp="#uh">sentimental</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-24" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0009_d1"/>
+      <div xml:id="rp0009_d2"/>
+      <div xml:id="rp0009_d3"/>
+      <div xml:id="rp0009_d4"/>
+      <div xml:id="rp0009_d5"/>
+      <div xml:id="rp0009_d6"/>
+      <div xml:id="rp0009_d7"/>
+      <div xml:id="rp0009_d8"/>
+      <div xml:id="rp0009_d9"/>
+      <div xml:id="rp0009_d10"/>
+      <div xml:id="rp0009_d11"/>
+      <div xml:id="rp0009_d12"/>
+      <div xml:id="rp0009_d13"/>
+      <div xml:id="rp0009_d14"/>
+      <div xml:id="rp0009_d15"/>
+      <div xml:id="rp0009_d16"/>
+      <div xml:id="rp0009_d17"/>
+      <div xml:id="rp0009_d18"/>
+      <div xml:id="rp0009_d19"/>
+      <div xml:id="rp0009_d20"/>
+      <div xml:id="rp0009_d21"/>
+    </body>
+  </text>
+</TEI>

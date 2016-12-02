@@ -8,30 +8,41 @@
                 <title type="sub">(Primeiro das Viagens)</title>
                 <title type="short">ViagensTerraI</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">191530264</idno>
                 </title>
                 <author>
                     <name type="short">Garrett</name>
                     <name type="full">Garrett, Almeida</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">12303244</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0017</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>http://www.gutenberg.org/ebooks/24164</ref>
-                    <!--<ref>http://www.gutenberg.org/ebooks/24319</ref>
+                <bibl type="digital-source"> "Viagens na Minha Terra." <seg rend="italic">The
+                        Project Gutenberg</seg>, <date when="2008-04-01">January 4, 2008</date>,
+                    EBook <idno>24164</idno>, <ref target="http://www.gutenberg.org/ebooks/24164"
+                        >http://www.gutenberg.org/ebooks/24164</ref>. <!--<ref>http://www.gutenberg.org/ebooks/24319</ref>
                     <ref>http://www.gutenberg.org/ebooks/24401</ref>-->
+                    <note source="http://www.gutenberg.org/ebooks/24164"> Nota de editor: Devido à
+                        quantidade de erros tipográficos existentes neste texto, foram tomadas
+                        várias decisões quanto à versão final. Em caso de dúvida, a grafia foi
+                        mantida de acordo com o original. No final deste livro encontrará a lista de
+                        erros corrigidos. </note>
                 </bibl>
-                <bibl type="print-source"/>
+                <bibl type="print-source">
+                    <seg rend="italic">Viagens na Minha Terra (Primeiro das Viagens).</seg> Lisboa:
+                    Typographia da Gazeta dos Tribunais, <date when="1846">1846</date>. </bibl>
                 <bibl type="edition-first">
                     <date when="1846">1846</date>
                 </bibl>
@@ -42,19 +53,54 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>A famosa e verídica história da viagem do escritor Almeida Garrett rumo a
+                            Santarém para uns dias de descanso na casa do seu amigo, Passos Manuel.
+                            Enquanto viaja, também a sua mente vagueia pelo passado, pelo presente e
+                            pelo futuro, fazendo descrições de sítios e lugares que hoje já não se
+                            descobrem ao mesmo tempo que analisa o Portugal dos inícios de mil e
+                            oitocentos. Análise essa que acaba por se cruzar com a história
+                            trágico-romântica da “menina dos rouxinóis”.</p>
+                        <p>Considerado como o ponto mais alto da prosa de Almeida Garrett, é o livro
+                            que inaugurou um género completamente novo na literatura portuguesa e
+                            que viria a tornar-se corrente nos dias de hoje: O Romance Histórico;
+                            oscilando entre a narração de factos histórico-verídicos e situações
+                            ficcionais.</p>
+                        <p>Mas é um livro que foi ainda mais longe por dar uma nova dimensão ao
+                            género de Romance de Viagem, do qual também se insere com óbvia
+                            naturalidade. Mais do uma mera descrição de peripécias, típicas das
+                            narrativas de viagens da altura, o livro de Garrett foi construído
+                            sobretudo com o objectivo de fazer uma análise crítica, para além de
+                            descritiva, daquilo que observou, dando assim uns pequenos primeiros
+                            passos em direcção à corrente literária do Realismo que se implementaria
+                            uma década mais tarde.</p>
+                        <p>É pois considerado como o ponto de arranque da moderna prosa portuguesa
+                            por ter sido construído na altura com uma mistura de estilos e de
+                            géneros e por fazer um cruzamento de uma linguagem ora clássica ora
+                            popular, ora jornalística ora dramaticamente romântica, sem perder a
+                            vivacidade das expressões e imagens narradas.</p>
+                    </quote>
+                    <bibl> "Viagens na Minha Terra." <seg rend="italic">Luso Livros</seg>, <date
+                            when="2012">2012</date>, <ref
+                            target="https://www.luso-livros.net/Livro/viagens-na-minha-terra/"
+                            >https://www.luso-livros.net/Livro/viagens-na-minha-terra/</ref>.
+                    </bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre_x" cert="low">social</term>
-                    <term type="subgenre_hist">not_historical</term>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh">travel</term>
+                    <term type="subgenre" subtype="1" resp="Luso_Livros">historical</term>
+                    <term type="subgenre_x" resp="#uh">travel</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">autodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>
@@ -67,7 +113,7 @@
     </teiHeader>
     <text>
         <front>
-            <div><!-- weggelassen --></div>
+            <div><!-- omitted --></div>
         </front>
         <body>
             <div>

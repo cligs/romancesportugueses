@@ -8,28 +8,32 @@
                 <title type="sub"/>
                 <title type="short">CidadeSerras</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">203885927</idno>
                 </title>
                 <author>
                     <name type="short">Queiros</name>
                     <name type="full">Eça de Queirós, José Maria</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">88719234</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0018</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>https://pt.wikisource.org/wiki/A_Cidade_e_as_Serras</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source"> "A Cidade e as Serras". <seg rend="italic"
+                        >Wikisource</seg>, <date when="2015">2015</date>, <ref
+                        target="https://pt.wikisource.org/wiki/A_Cidade_e_as_Serras"
+                        >https://pt.wikisource.org/wiki/A_Cidade_e_as_Serras</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
                 <bibl type="edition-first">
                     <date when="1901">1901</date>
                 </bibl>
@@ -40,19 +44,47 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>A Cidade e as Serras, conta-nos a história de Jacinto, um indivíduo de
+                            posição social elevada e extremamente rico, que, tendo vivido uma
+                            existência de tédio em Paris, apesar de rodeado por todo o conforto,
+                            decide mudar-se para sua propriedade rural de Tormes, na serra
+                            portuguesa, encontrando aí o equilíbrio e a felicidade.</p>
+                        <p>Um romance de Eça, pertencente à última fase do escritor, que é
+                            caracterizada pela pacificação do artista, pela sua visão mais
+                            optimista, pelo corte com a corrente literária do realismo e o abandono
+                            do tipo de romance crítico.</p>
+                        <p>O livro foi editado postumamente, em 1901, e denuncia um aspecto
+                            importante da vida do escritor nos seus últimos anos de vida nos quais
+                            Eça escreveu várias cartas aos seus amigos em que denuncia essa ânsia
+                            por uma vida de família que o retempere do «descampado do
+                            sentimentalismo» de que estava cansado.</p>
+                        <p>Nesse contexto Queirós faz uma comparação entre a vida módica e agitada
+                            de Paris (cidade em que viveu desde 1895, exercendo o cargo de cônsul,
+                            até à sua morte em 1900) e a vida tranquila e pacata na cidade serrana
+                            de Tormes num percurso de regresso às origens. É pois um romance que
+                            assume várias conotações simbólicas ideológicas e simbólicas sobretudo a
+                            oposição cidade-campo.</p>
+                    </quote>
+                    <bibl> "A Cidade e as Serras." <seg rend="italic">Luso Livros</seg>, <date
+                            when="2013">2013</date>, <ref
+                            target="https://www.luso-livros.net/Livro/a-cidade-e-as-serras/"
+                            >https://www.luso-livros.net/Livro/a-cidade-e-as-serras/</ref>. </bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre_x" cert="low">social</term>
-                    <term type="subgenre_hist">not_historical</term>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">social</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">social</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">homodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

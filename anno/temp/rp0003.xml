@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">O Annel Mysterioso</title>
+                <title type="sub">Scenas da Guerra Peninsular</title>
+                <title type="short">AnnelMysterioso</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Pimentel</name>
+                    <name type="full">Pimentel, Alberto</name>
+                    <idno type="viaf">64047987</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0003</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "O Annel Mysterioso. Scenas da Guerra Peninsular." <seg rend="italic">The Project Gutenberg</seg>, <date when="2010-09-17">September
+                        17, 2010</date>, EBook <idno>33749</idno>, <ref target="http://www.gutenberg.org/ebooks/33749">http://www.gutenberg.org/ebooks/33749</ref>. <note source="http://www.gutenberg.org/ebooks/33749"> Notas de transcrição: O
+                        texto aqui transcrito, é uma cópia integral do livro impresso em 1904. Foi
+                        mantida a grafia usada na edição original de 1904, tendo sido corrigidos
+                        apenas pequenos erros tipográficos que não alteram a leitura do texto, e que
+                        por isso não foram assinalados. </note>
+                </bibl>
+                <bibl type="print-source">
+                    <seg rend="italic">O Annel Mysterioso. Scenas da Guerra Peninsular.</seg>
+                    Lisboa: Empreza da Historia de Portugal, <date when="1904">1904</date>. </bibl>
+                <bibl type="edition-first"> Lisboa <date when="1873">1873</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle">Scenas da Guerra Peninsular</term>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-23" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0003_d1"/>
+      <div xml:id="rp0003_d2"/>
+      <div xml:id="rp0003_d3"/>
+      <div xml:id="rp0003_d4"/>
+      <div xml:id="rp0003_d5"/>
+      <div xml:id="rp0003_d6"/>
+      <div xml:id="rp0003_d7"/>
+      <div xml:id="rp0003_d8"/>
+      <div xml:id="rp0003_d9"/>
+      <div xml:id="rp0003_d10"/>
+      <div xml:id="rp0003_d11"/>
+      <div xml:id="rp0003_d12"/>
+      <div xml:id="rp0003_d13"/>
+      <div xml:id="rp0003_d14"/>
+      <div xml:id="rp0003_d15"/>
+      <div xml:id="rp0003_d16"/>
+      <div xml:id="rp0003_d17"/>
+      <div xml:id="rp0003_d18"/>
+      <div xml:id="rp0003_d19"/>
+      <div xml:id="rp0003_d20"/>
+      <div xml:id="rp0003_d21"/>
+    </body>
+  </text>
+</TEI>

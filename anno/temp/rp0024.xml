@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">A Rosa do Adro</title>
+                <title type="short">RosaAdro</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Rodrigues</name>
+                    <name type="full">Rodrigues, Manuel Maria</name>
+                    <idno type="viaf">48368103</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0024</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "A Rosa do Adro." <seg rend="italic">Luso Livros</seg>,
+                        <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/a-rosa-do-adro/">https://www.luso-livros.net/Livro/a-rosa-do-adro/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1870">1870</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Rosa, é a mulher mais bela de uma aldeia situada “a cinco ou a seis
+                            léguas do Porto”, “no fundo montanhoso de uma colina” e sendo bela faz
+                            despertar a paixão dos homens que a cobiçam, sobretudo a de Fernando e
+                            António. Mas Fernando ganha o amor de Rosa, e António não, apesar de ser
+                            um homem que tanto é capaz de morrer por ela, como de por ela matar.</p>
+                        <p>Publicada pela primeira vez em 1870, A Rosa do Adro é a obra mais
+                            conhecida de Manuel Maria Rodrigues, um escritor que nunca teve o
+                            reconhecimento em vida que merecia, apesar deste seu livro ser um dos
+                            romance mais vendido do século XX em Portugal.</p>
+                    </quote>
+                    <bibl>"A Rosa do Adro." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/a-rosa-do-adro/">https://www.luso-livros.net/Livro/a-rosa-do-adro/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh" cert="medium">sentimental</term>
+                    <term type="subgenre_hist">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="medium">sentimental</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-22" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0024_d1"/>
+      <div xml:id="rp0024_d2"/>
+      <div xml:id="rp0024_d3"/>
+      <div xml:id="rp0024_d4"/>
+      <div xml:id="rp0024_d5"/>
+      <div xml:id="rp0024_d6"/>
+      <div xml:id="rp0024_d7"/>
+      <div xml:id="rp0024_d8"/>
+      <div xml:id="rp0024_d9"/>
+      <div xml:id="rp0024_d10"/>
+      <div xml:id="rp0024_d11"/>
+      <div xml:id="rp0024_d12"/>
+      <div xml:id="rp0024_d13"/>
+      <div xml:id="rp0024_d14"/>
+      <div xml:id="rp0024_d15"/>
+      <div xml:id="rp0024_d16"/>
+      <div xml:id="rp0024_d17"/>
+      <div xml:id="rp0024_d18"/>
+      <div xml:id="rp0024_d19"/>
+    </body>
+  </text>
+</TEI>

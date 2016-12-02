@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Húmus</title>
+                <title type="short">Humus</title>
+                <title type="idno">
+                    <idno type="viaf">188300215</idno>
+                </title>
+                <author>
+                    <name type="short">Brandao</name>
+                    <name type="full">Brandão, Raul</name>
+                    <idno type="viaf">17219789</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0026</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "Húmus." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/humus/">https://www.luso-livros.net/Livro/humus/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1917">1917</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>A obra-prima de Raul Brandão, é o primeiro romance existencialista
+                            português que inclui traços do expressionismo literário. Trata-se de um
+                            romance-monólogo, centrado em dois monólogos interiores: o primeiro
+                            orador, sem nome, e o seu alter-ego – um filósofo lunático chamado
+                            “Gabiru”. Ambos registam a vida que decorre numa pequena vila, ao longo
+                            de um ano, exprimindo o que veem e o que sentem, em perspetivas
+                            diferentes, expondo assim a contradição entre o mundo aparente e o
+                            autêntico.</p>
+                        <p>Publicado pela primeira vez em 1917 e escrito durante a primeira Grande
+                            Guerra (1914-1918), “Húmus” é a primeira obra portuguesa de carácter
+                            existencialista – um movimento tornado popular durante o século XX em
+                            plena convulsão das guerras mundiais, como maneira de reafirmar a
+                            importância da liberdade e individualidade humana, em abordagens sobre a
+                            angústia existencial, a existência de Deus, a vida e a consciência.</p>
+                    </quote>
+                    <bibl>"Húmus." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/humus/">https://www.luso-livros.net/Livro/humus/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh" cert="low">expressionistic</term>
+                    <term type="subgenre_hist">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">expressionistic</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">autodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-25" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0026_d1"/>
+      <div xml:id="rp0026_d2"/>
+      <div xml:id="rp0026_d3"/>
+      <div xml:id="rp0026_d4"/>
+      <div xml:id="rp0026_d5"/>
+      <div xml:id="rp0026_d6"/>
+      <div xml:id="rp0026_d7"/>
+      <div xml:id="rp0026_d8"/>
+      <div xml:id="rp0026_d9"/>
+      <div xml:id="rp0026_d10"/>
+      <div xml:id="rp0026_d11"/>
+      <div xml:id="rp0026_d12"/>
+      <div xml:id="rp0026_d13"/>
+      <div xml:id="rp0026_d14"/>
+      <div xml:id="rp0026_d15"/>
+      <div xml:id="rp0026_d16"/>
+      <div xml:id="rp0026_d17"/>
+      <div xml:id="rp0026_d18"/>
+      <div xml:id="rp0026_d19"/>
+    </body>
+  </text>
+</TEI>

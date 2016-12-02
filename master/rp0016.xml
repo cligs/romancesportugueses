@@ -13,23 +13,27 @@
                 <author>
                     <name type="short">CasteloBranco</name>
                     <name type="full">Castelo Branco, Camilo</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">7399630</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0016</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>https://pt.wikisource.org/wiki/A_Brasileira_de_Prazins</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source"> "A Brasileira de Prazins." <seg rend="italic"
+                        >Wikisource</seg>, <date when="2007">2007</date>, <ref
+                        target="https://pt.wikisource.org/wiki/A_Brasileira_de_Prazins"
+                        >https://pt.wikisource.org/wiki/A_Brasileira_de_Prazins</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
                 <bibl type="edition-first">
                     <date when="1882">1882</date>
                 </bibl>
@@ -40,19 +44,42 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>A Brasileira de Prazins é uma novela camiliana que conta a história de
+                            Marta de Prazins, chamada de “A brasileira” pois está prometida, pelo
+                            pai, a um tio que fez fortuna no Brasil, apesar de ter José Dias como
+                            seu apaixonado.</p>
+                        <p>Novela considerada uma das melhores obras de Camilo e tida como a sua
+                            última grande obra. É uma obra já profundamente influenciada pelo
+                            movimento do realismo que se instalara em Portugal no último período da
+                            vida do autor mas que, ao contrário de outras obras por ele realizadas,
+                            em que “experimenta” o realismo, esta surge como menos satírica e mais
+                            séria, servindo para dar um retrato verdadeiro das condições sociais,
+                            políticas e económicas do Minho no período do pós-Lutas liberais no
+                            século XVIII. É pois uma novela integrada a sua série denominada
+                            “Novelas do Minho“, sendo a única de estilo realista-naturalista.</p>
+                    </quote>
+                    <bibl> "A Brasileira de Prazins." <seg rend="italic">Luso Livros</seg>, <date
+                            when="2013">2013</date>, <ref
+                            target="https://www.luso-livros.net/Livro/a-brasileira-de-prazins/"
+                            >https://www.luso-livros.net/Livro/a-brasileira-de-prazins/</ref>.
+                    </bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre_x" cert="low">social</term><!-- realist -->
-                    <term type="subgenre_hist">not_historical</term>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh">realist</term>
+                    <term type="subgenre" subtype="1" resp="#uh" cert="low">social</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">realist</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

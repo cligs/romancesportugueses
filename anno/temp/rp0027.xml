@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mistérios de Lisboa</title>
+        <title type="short">MisteriosLisboa</title>
+        <title type="idno">
+          <idno type="viaf">299584394</idno>
+        </title>
+        <author>
+          <name type="short">CasteloBranco</name>
+          <name type="full">Castelo Branco, Camilo</name>
+          <idno type="viaf">7399630</idno>
+        </author>
+        <principal xml:id="uh">Ulrike Henny</principal>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+        </publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence>
+        </availability>
+        <date>2016</date>
+        <idno type="cligs">rp0027</idno>
+        <idno type="url"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digital-source"> "Mistérios de Lisboa." <seg rend="italic">Luso Livros</seg>,
+            <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/misterios-de-lisboa/">https://www.luso-livros.net/Livro/misterios-de-lisboa/</ref>. </bibl>
+        <bibl type="print-source">unknown</bibl>
+        <bibl type="edition-first">folhetim, <date when="1853">1853</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          <quote>
+            <p>Pedro é um órfão de 14 anos, aluno de um colégio católico. Na sua procura pela
+              identidade dos seus pais vai conhecer a trágica história da vida de ambos. À sua
+              volta, várias histórias, entrelaçadas e interligadas, que atravessam todo o século XIX
+              sobre 40 diferentes personagens: amor, paixão, crime e adultério, onde cada um tem o
+              seu papel no destino dos outros.</p>
+            <p>O maior romance de Camilo Castelo Branco, Mistérios de Lisboa, foi, curiosamente,
+              apesar do seu título, inicialmente publicado num jornal portuense, em 1853, sob a
+              forma de folhetim; só em 1854 é que teve a sua publicação em livro para todo o país.
+              Apesar de ser uma narrativa muito extensa e de ser o seu segundo trabalho literários,
+              a obra teve um razoável êxito junto dos leitores, o que ajudou a cimentar a sua
+              notoriedade como escritor.</p>
+          </quote>
+          <bibl>"Mistérios de Lisboa." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/misterios-de-lisboa/">https://www.luso-livros.net/Livro/misterios-de-lisboa/</ref>.</bibl>
+        </p>
+      </abstract>
+      <textClass>
+        <keywords scheme="keywords.csv">
+          <term type="supergenre">narrative</term>
+          <term type="genre">novel</term>
+          <term type="subgenre" resp="#uh" cert="low">autobiographical</term>
+          <term type="subgenre_hist">not_historical</term>
+          <term type="subgenre_x" resp="#uh" cert="low">autobiographical</term>
+          <term type="genre-subtitle"/>
+          <term type="genre-label"/>
+          <term type="narrative-perspective">autodiegetic</term>
+          <term type="form">prose</term>
+          <term type="author-gender">male</term>
+          <term type="author-continent">Europe</term>
+          <term type="author-country">Portugal</term>
+          <term type="language">Portuguese</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2016-11-29" who="#uh">Initial TEI version.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0027_d1"/>
+      <div xml:id="rp0027_d2"/>
+      <div xml:id="rp0027_d3"/>
+      <div xml:id="rp0027_d4"/>
+      <div xml:id="rp0027_d5"/>
+      <div xml:id="rp0027_d6"/>
+      <div xml:id="rp0027_d7"/>
+      <div xml:id="rp0027_d8"/>
+      <div xml:id="rp0027_d9"/>
+      <div xml:id="rp0027_d10"/>
+      <div xml:id="rp0027_d11"/>
+      <div xml:id="rp0027_d12"/>
+      <div xml:id="rp0027_d13"/>
+      <div xml:id="rp0027_d14"/>
+      <div xml:id="rp0027_d15"/>
+      <div xml:id="rp0027_d16"/>
+      <div xml:id="rp0027_d17"/>
+      <div xml:id="rp0027_d18"/>
+      <div xml:id="rp0027_d19"/>
+      <div xml:id="rp0027_d20"/>
+      <div xml:id="rp0027_d21"/>
+      <div xml:id="rp0027_d22"/>
+      <div xml:id="rp0027_d23"/>
+      <div xml:id="rp0027_d24"/>
+      <div xml:id="rp0027_d25"/>
+      <div xml:id="rp0027_d26"/>
+      <div xml:id="rp0027_d27"/>
+      <div xml:id="rp0027_d28"/>
+      <div xml:id="rp0027_d29"/>
+      <div xml:id="rp0027_d30"/>
+      <div xml:id="rp0027_d31"/>
+      <div xml:id="rp0027_d32"/>
+      <div xml:id="rp0027_d33"/>
+      <div xml:id="rp0027_d34"/>
+      <div xml:id="rp0027_d35"/>
+      <div xml:id="rp0027_d36"/>
+      <div xml:id="rp0027_d37"/>
+      <div xml:id="rp0027_d38"/>
+      <div xml:id="rp0027_d39"/>
+      <div xml:id="rp0027_d40"/>
+      <div xml:id="rp0027_d41"/>
+      <div xml:id="rp0027_d42"/>
+      <div xml:id="rp0027_d43"/>
+      <div xml:id="rp0027_d44"/>
+      <div xml:id="rp0027_d45"/>
+      <div xml:id="rp0027_d46"/>
+      <div xml:id="rp0027_d47"/>
+      <div xml:id="rp0027_d48"/>
+      <div xml:id="rp0027_d49"/>
+      <div xml:id="rp0027_d50"/>
+      <div xml:id="rp0027_d51"/>
+      <div xml:id="rp0027_d52"/>
+      <div xml:id="rp0027_d53"/>
+      <div xml:id="rp0027_d54"/>
+      <div xml:id="rp0027_d55"/>
+      <div xml:id="rp0027_d56"/>
+      <div xml:id="rp0027_d57"/>
+      <div xml:id="rp0027_d58"/>
+      <div xml:id="rp0027_d59"/>
+      <div xml:id="rp0027_d60"/>
+      <div xml:id="rp0027_d61"/>
+      <div xml:id="rp0027_d62"/>
+      <div xml:id="rp0027_d63"/>
+      <div xml:id="rp0027_d64"/>
+      <div xml:id="rp0027_d65"/>
+      <div xml:id="rp0027_d66"/>
+      <div xml:id="rp0027_d67"/>
+      <div xml:id="rp0027_d68"/>
+      <div xml:id="rp0027_d69"/>
+      <div xml:id="rp0027_d70"/>
+      <div xml:id="rp0027_d71"/>
+      <div xml:id="rp0027_d72"/>
+      <div xml:id="rp0027_d73"/>
+      <div xml:id="rp0027_d74"/>
+      <div xml:id="rp0027_d75"/>
+      <div xml:id="rp0027_d76"/>
+      <div xml:id="rp0027_d77"/>
+      <div xml:id="rp0027_d78"/>
+      <div xml:id="rp0027_d79"/>
+      <div xml:id="rp0027_d80"/>
+      <div xml:id="rp0027_d81"/>
+      <div xml:id="rp0027_d82"/>
+      <div xml:id="rp0027_d83"/>
+      <div xml:id="rp0027_d84"/>
+      <div xml:id="rp0027_d85"/>
+    </body>
+  </text>
+</TEI>

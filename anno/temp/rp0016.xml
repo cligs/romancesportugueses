@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">A Brasileira de Prazins</title>
+                <title type="sub"/>
+                <title type="short">BrasileiraPrazins</title>
+                <title type="idno">
+                    <idno type="viaf"/>
+                </title>
+                <author>
+                    <name type="short">CasteloBranco</name>
+                    <name type="full">Castelo Branco, Camilo</name>
+                    <idno type="viaf">7399630</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0016</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "A Brasileira de Prazins." <seg rend="italic">Wikisource</seg>, <date when="2007">2007</date>, <ref target="https://pt.wikisource.org/wiki/A_Brasileira_de_Prazins">https://pt.wikisource.org/wiki/A_Brasileira_de_Prazins</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1882">1882</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>A Brasileira de Prazins é uma novela camiliana que conta a história de
+                            Marta de Prazins, chamada de “A brasileira” pois está prometida, pelo
+                            pai, a um tio que fez fortuna no Brasil, apesar de ter José Dias como
+                            seu apaixonado.</p>
+                        <p>Novela considerada uma das melhores obras de Camilo e tida como a sua
+                            última grande obra. É uma obra já profundamente influenciada pelo
+                            movimento do realismo que se instalara em Portugal no último período da
+                            vida do autor mas que, ao contrário de outras obras por ele realizadas,
+                            em que “experimenta” o realismo, esta surge como menos satírica e mais
+                            séria, servindo para dar um retrato verdadeiro das condições sociais,
+                            políticas e económicas do Minho no período do pós-Lutas liberais no
+                            século XVIII. É pois uma novela integrada a sua série denominada
+                            “Novelas do Minho“, sendo a única de estilo realista-naturalista.</p>
+                    </quote>
+                    <bibl> "A Brasileira de Prazins." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/a-brasileira-de-prazins/">https://www.luso-livros.net/Livro/a-brasileira-de-prazins/</ref>.
+                    </bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh">realist</term>
+                    <term type="subgenre" subtype="1" resp="#uh" cert="low">social</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">realist</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-30" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0016_d1"/>
+      <div xml:id="rp0016_d2"/>
+      <div xml:id="rp0016_d3"/>
+      <div xml:id="rp0016_d4"/>
+      <div xml:id="rp0016_d5"/>
+      <div xml:id="rp0016_d6"/>
+      <div xml:id="rp0016_d7"/>
+      <div xml:id="rp0016_d8"/>
+      <div xml:id="rp0016_d9"/>
+      <div xml:id="rp0016_d10"/>
+      <div xml:id="rp0016_d11"/>
+      <div xml:id="rp0016_d12"/>
+      <div xml:id="rp0016_d13"/>
+      <div xml:id="rp0016_d14"/>
+      <div xml:id="rp0016_d15"/>
+      <div xml:id="rp0016_d16"/>
+      <div xml:id="rp0016_d17"/>
+      <div xml:id="rp0016_d18"/>
+      <div xml:id="rp0016_d19"/>
+      <div xml:id="rp0016_d20"/>
+      <div xml:id="rp0016_d21"/>
+      <div xml:id="rp0016_d22"/>
+    </body>
+  </text>
+</TEI>

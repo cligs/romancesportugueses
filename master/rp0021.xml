@@ -7,7 +7,7 @@
                 <title type="main">Os Pobres</title>
                 <title type="short">OsPobres</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">309275368</idno>
                 </title>
                 <author>
                     <name type="short">Brandao</name>
@@ -64,9 +64,9 @@
                 <keywords scheme="keywords.csv">
                     <term type="supergenre">narrative</term>
                     <term type="genre">novel</term>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">not_historical</term>
-                    <term type="subgenre_x"/>
+                    <term type="subgenre" resp="#uh" cert="low">expressionistic</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">expressionistic</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
                     <term type="narrative-perspective">autodiegetic</term>

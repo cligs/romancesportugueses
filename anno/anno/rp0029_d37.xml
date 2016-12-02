@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wrapper><s>
+  <w form="Deixá" lemma="deixar" tag="VMN0000" >Deixá</w>
+  <w form="o" lemma="o" tag="PP3MSA0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="ser" lemma="ser" tag="VMN0000" wnsyn="02604760-v" wnlex="XXX">ser</w>
+  <w form="feliz" lemma="feliz" tag="AQ0CS00" wnsyn="01148283-a" wnlex="XXX">feliz</w>
+  <w form=":" lemma=":" tag="Fd" wnsyn="xxx" wnlex="xxx">:</w>
+  <w form="deixá" lemma="deixar" tag="VMN0000" wnsyn="xxx" wnlex="xxx">deixá</w>
+  <w form="o" lemma="o" tag="PP3MSA0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="Calisto_Elói" lemma="calisto_elói" tag="NP00000" >Calisto_Elói</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="aquele" lemma="aquele" tag="DD0MS0" wnsyn="xxx" wnlex="xxx">aquele</w>
+  <w form="santo" lemma="santo" tag="AQ0MS00" wnsyn="02053818-a" wnlex="XXX">santo</w>
+  <w form="homem" lemma="homem" tag="NCMS000" wnsyn="10287213-n" wnlex="XXX">homem</w>
+  <w form="lá" lemma="lá" tag="RG" wnsyn="00082308-r" wnlex="XXX">lá</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="as" lemma="o" tag="DA0FP0" wnsyn="xxx" wnlex="xxx">as</w>
+  <w form="serras" lemma="serra" tag="NCFP000" wnsyn="09403734-n" wnlex="XXX">serras</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="anjo" lemma="anjo" tag="NCMS000" wnsyn="09538915-n" wnlex="XXX">anjo</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="fragmento" lemma="fragmento" tag="NCMS000" wnsyn="13760316-n" wnlex="XXX">fragmento</w>
+  <w form="paradisíaco" lemma="paradisíaco" tag="AQ0MS00" wnsyn="xxx" wnlex="xxx">paradisíaco</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="Portugal" lemma="portugal" tag="NP00000" wnsyn="xxx" wnlex="xxx">Portugal</w>
+  <w form="velho" lemma="velho" tag="AQ0MS00" wnsyn="xxx" wnlex="xxx">velho</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="caiu" lemma="cair" tag="VMIS3S0" wnsyn="01976841-v" wnlex="XXX">caiu</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="Caiu" lemma="cair" tag="VMIS3S0" wnsyn="01976841-v" wnlex="XXX">Caiu</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="anjo" lemma="anjo" tag="NCMS000" wnsyn="09538915-n" wnlex="XXX">anjo</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="e" lemma="e" tag="CC" wnsyn="xxx" wnlex="xxx">e</w>
+  <w form="ficou" lemma="ficar" tag="VMIS3S0" wnsyn="00117985-v" wnlex="XXX">ficou</w>
+  <w form="simplesmente" lemma="simplesmente" tag="RG" wnsyn="00005055-r" wnlex="XXX">simplesmente</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="homem" lemma="homem" tag="NCMS000" wnsyn="10287213-n" wnlex="XXX">homem</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="homem" lemma="homem" tag="NCMS000" wnsyn="10287213-n" wnlex="XXX">homem</w>
+  <w form="como" lemma="como" tag="RG" wnsyn="00159040-r" wnlex="XXX">como</w>
+  <w form="quase" lemma="quase" tag="RG" wnsyn="00073033-r" wnlex="XXX">quase</w>
+  <w form="todos" lemma="todo" tag="DI0MP0" wnsyn="xxx" wnlex="xxx">todos</w>
+  <w form="os" lemma="o" tag="DA0MP0" wnsyn="xxx" wnlex="xxx">os</w>
+  <w form="outros" lemma="outro" tag="PI0MP00" wnsyn="xxx" wnlex="xxx">outros</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="e" lemma="e" tag="CC" wnsyn="xxx" wnlex="xxx">e</w>
+  <w form="com" lemma="com" tag="SP" wnsyn="xxx" wnlex="xxx">com</w>
+  <w form="mais" lemma="mais" tag="RG" wnsyn="00029367-r" wnlex="XXX">mais</w>
+  <w form="algumas" lemma="algum" tag="DI0FP0" wnsyn="xxx" wnlex="xxx">algumas</w>
+  <w form="vantagens" lemma="vantagem" tag="NCFP000" wnsyn="05155821-n" wnlex="XXX">vantagens</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="comum" lemma="comum" tag="NCMS000" wnsyn="xxx" wnlex="xxx">comum</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="os" lemma="o" tag="DA0MP0" wnsyn="xxx" wnlex="xxx">os</w>
+  <w form="homens" lemma="homem" tag="NCMP000" wnsyn="10287213-n" wnlex="XXX">homens</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="Dinheiro" lemma="dinheiro" tag="NCMS000" wnsyn="13384557-n" wnlex="XXX">Dinheiro</w>
+  <w form="a" lemma="a" tag="SP" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="rodo" lemma="rodo" tag="NCMS000" wnsyn="04292921-n" wnlex="XXX">rodo</w>
+  <w form="!" lemma="!" tag="Fat" wnsyn="xxx" wnlex="xxx">!</w>
+</s>
+<s>
+  <w form="Uma" lemma="um" tag="DI0FS0" >Uma</w>
+  <w form="prima" lemma="prima" tag="NCFS000" wnsyn="09972010-n" wnlex="XXX">prima</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="o" lemma="o" tag="PP3MSA0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="preza" lemma="prezar" tag="VMIP3S0" wnsyn="00694068-v" wnlex="XXX">preza</w>
+  <w form="muito" lemma="muito" tag="RG" wnsyn="00056539-r" wnlex="XXX">muito</w>
+  <w form="!" lemma="!" tag="Fat" wnsyn="xxx" wnlex="xxx">!</w>
+</s>
+<s>
+  <w form="Dois" lemma="2" tag="Z" >Dois</w>
+  <w form="meninos" lemma="menino" tag="NCMP000" wnsyn="09908025-n" wnlex="XXX">meninos</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="se" lemma="se" tag="PP3CN00" wnsyn="xxx" wnlex="xxx">se</w>
+  <w form="cavalgam" lemma="cavalgar" tag="VMIP3P0" wnsyn="02660631-v" wnlex="XXX">cavalgam</w>
+  <w form="em" lemma="em" tag="SP" wnsyn="xxx" wnlex="xxx">em</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="costado" lemma="costado" tag="NCMS000" wnsyn="xxx" wnlex="xxx">costado</w>
+  <w form="!" lemma="!" tag="Fat" wnsyn="xxx" wnlex="xxx">!</w>
+</s>
+<s>
+  <w form="Saúde" lemma="saúde" tag="NCFS000" wnsyn="14447525-n" wnlex="XXX">Saúde</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="ferro" lemma="ferro" tag="NCMS000" wnsyn="14642417-n" wnlex="XXX">ferro</w>
+  <w form="!" lemma="!" tag="Fat" wnsyn="xxx" wnlex="xxx">!</w>
+</s>
+<s>
+  <w form="E" lemma="e" tag="CC" >E</w>
+  <w form="barão" lemma="barão" tag="NCMS000" wnsyn="09840435-n" wnlex="XXX">barão</w>
+  <w form="!" lemma="!" tag="Fat" wnsyn="xxx" wnlex="xxx">!</w>
+</s>
+<s>
+  <w form="Conjetura" lemma="conjetura" tag="NP00000" wnsyn="05803938-n" wnlex="XXX">Conjetura</w>
+  <w form="muita" lemma="muito" tag="DI0FS0" wnsyn="xxx" wnlex="xxx">muita</w>
+  <w form="gente" lemma="gente" tag="NCFS000" wnsyn="07942152-n" wnlex="XXX">gente</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="ele" lemma="ele" tag="PP3MS00" wnsyn="xxx" wnlex="xxx">ele</w>
+  <w form="é" lemma="ser" tag="VMIP3S0" wnsyn="02604760-v" wnlex="XXX">é</w>
+  <w form="desgraçado" lemma="desgraçar" tag="VMP00SM" wnsyn="01227546-a" wnlex="XXX">desgraçado</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="apesar" lemma="apesar" tag="CC" wnsyn="xxx" wnlex="xxx">apesar</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="prima" lemma="prima" tag="NCFS000" wnsyn="09972010-n" wnlex="XXX">prima</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="baronato" lemma="baronato" tag="NCMS000" wnsyn="xxx" wnlex="xxx">baronato</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="os" lemma="o" tag="DA0MP0" wnsyn="xxx" wnlex="xxx">os</w>
+  <w form="meninos" lemma="menino" tag="NCMP000" wnsyn="09908025-n" wnlex="XXX">meninos</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="dinheiro" lemma="dinheiro" tag="NCMS000" wnsyn="13384557-n" wnlex="XXX">dinheiro</w>
+  <w form="e" lemma="e" tag="CC" wnsyn="xxx" wnlex="xxx">e</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="saúde" lemma="saúde" tag="NCFS000" wnsyn="14447525-n" wnlex="XXX">saúde</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="E" lemma="e" tag="CC" >E</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="como" lemma="como" tag="CS" wnsyn="xxx" wnlex="xxx">como</w>
+  <w form="já" lemma="já" tag="RG" wnsyn="00033922-r" wnlex="XXX">já</w>
+  <w form="disse" lemma="dizer" tag="VMIS3S0" wnsyn="01009240-v" wnlex="XXX">disse</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="não" lemma="não" tag="RN" wnsyn="00118531-r" wnlex="XXX">não</w>
+  <w form="sei" lemma="saber" tag="VMIP1S0" wnsyn="00594621-v" wnlex="XXX">sei</w>
+  <w form="realmente" lemma="real" tag="RG" wnsyn="xxx" wnlex="xxx">realmente</w>
+  <w form="se" lemma="se" tag="PP3CN00" wnsyn="xxx" wnlex="xxx">se</w>
+  <w form="lá" lemma="lá" tag="RG" wnsyn="00082308-r" wnlex="XXX">lá</w>
+  <w form="em" lemma="em" tag="SP" wnsyn="xxx" wnlex="xxx">em</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="recesso" lemma="recesso" tag="NCMS000" wnsyn="xxx" wnlex="xxx">recesso</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="aqueles" lemma="aquele" tag="DD0MP0" wnsyn="xxx" wnlex="xxx">aqueles</w>
+  <w form="arcanos" lemma="arcano" tag="NCMP000" wnsyn="xxx" wnlex="xxx">arcanos</w>
+  <w form="domésticos" lemma="doméstico" tag="AQ0MP00" wnsyn="01038808-a" wnlex="XXX">domésticos</w>
+  <w form="há" lemma="haver" tag="VMIP3S0" wnsyn="02616713-v" wnlex="XXX">há</w>
+  <w form="borrascas" lemma="borrasca" tag="NCFP000" wnsyn="11462526-n" wnlex="XXX">borrascas</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="Em" lemma="em" tag="SP" >Em</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="qualidade" lemma="qualidade" tag="NCFS000" wnsyn="04723816-n" wnlex="XXX">qualidade</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="anjo" lemma="anjo" tag="NCMS000" wnsyn="09538915-n" wnlex="XXX">anjo</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="Calisto" lemma="calisto" tag="NP00000" wnsyn="xxx" wnlex="xxx">Calisto</w>
+  <w form="sem" lemma="sem" tag="SP" wnsyn="xxx" wnlex="xxx">sem</w>
+  <w form="dúvida" lemma="dúvida" tag="NCFS000" wnsyn="04757522-n" wnlex="XXX">dúvida</w>
+  <w form="seria" lemma="ser" tag="VMIC1S0" wnsyn="02604760-v" wnlex="XXX">seria</w>
+  <w form="mais" lemma="mais" tag="RG" wnsyn="00029367-r" wnlex="XXX">mais</w>
+  <w form="feliz" lemma="feliz" tag="AQ0CS00" wnsyn="01148283-a" wnlex="XXX">feliz</w>
+  <w form=";" lemma=";" tag="Fx" wnsyn="xxx" wnlex="xxx">;</w>
+  <w form="mas" lemma="mas" tag="CC" wnsyn="xxx" wnlex="xxx">mas</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="em" lemma="em" tag="SP" wnsyn="xxx" wnlex="xxx">em</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="qualidade" lemma="qualidade" tag="NCFS000" wnsyn="04723816-n" wnlex="XXX">qualidade</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="homem" lemma="homem" tag="NCMS000" wnsyn="10287213-n" wnlex="XXX">homem</w>
+  <w form="a" lemma="a" tag="SP" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="o" lemma="o" tag="PP3MSA0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="reduziram" lemma="reduzir" tag="VMIS3P0" wnsyn="00241038-v" wnlex="XXX">reduziram</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="paixões" lemma="paixão" tag="NCFP000" wnsyn="07480896-n" wnlex="XXX">paixões</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="lá" lemma="lá" tag="RG" wnsyn="00082308-r" wnlex="XXX">lá</w>
+  <w form="se" lemma="se" tag="PP3CN00" wnsyn="xxx" wnlex="xxx">se</w>
+  <w form="vai" lemma="ir" tag="VMIP3S0" wnsyn="01835496-v" wnlex="XXX">vai</w>
+  <w form="concertando" lemma="concertar" tag="VMG0000" wnsyn="00761600-v" wnlex="XXX">concertando</w>
+  <w form="menos" lemma="menos" tag="RG" wnsyn="xxx" wnlex="xxx">menos</w>
+  <w form="mal" lemma="mal" tag="RG" wnsyn="00195542-r" wnlex="XXX">mal</w>
+  <w form="com" lemma="com" tag="SP" wnsyn="xxx" wnlex="xxx">com</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="sua" lemma="seu" tag="DP3FSS" wnsyn="xxx" wnlex="xxx">sua</w>
+  <w form="vida" lemma="vida" tag="NCFS000" wnsyn="00017222-n" wnlex="XXX">vida</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="Eu" lemma="eu" tag="PP1CSN0" >Eu</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="como" lemma="como" tag="CS" wnsyn="xxx" wnlex="xxx">como</w>
+  <w form="romancista" lemma="romancista" tag="AQ0CS00" wnsyn="xxx" wnlex="xxx">romancista</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="lamento" lemma="lamento" tag="NCMS000" wnsyn="07211950-n" wnlex="XXX">lamento</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="ele" lemma="ele" tag="PP3MS00" wnsyn="xxx" wnlex="xxx">ele</w>
+  <w form="não" lemma="não" tag="RN" wnsyn="00118531-r" wnlex="XXX">não</w>
+  <w form="viva" lemma="vivar" tag="VMM02S0" wnsyn="xxx" wnlex="xxx">viva</w>
+  <w form="muitíssimo" lemma="muito" tag="RG" wnsyn="00056539-r" wnlex="XXX">muitíssimo</w>
+  <w form="apoquentado" lemma="apoquentar" tag="VMP00SM" wnsyn="xxx" wnlex="xxx">apoquentado</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="para" lemma="para" tag="SP" wnsyn="xxx" wnlex="xxx">para</w>
+  <w form="poder" lemma="poder" tag="VMN0000" wnsyn="xxx" wnlex="xxx">poder</w>
+  <w form="tirar" lemma="tirar" tag="VMN0000" wnsyn="00173338-v" wnlex="XXX">tirar</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="limpo" lemma="limpo" tag="AQ0MS00" wnsyn="00417978-a" wnlex="XXX">limpo</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="sã" lemma="são" tag="AQ0FS00" wnsyn="01170243-a" wnlex="XXX">sã</w>
+  <w form="moralidade" lemma="moralidade" tag="NCFS000" wnsyn="09183693-n" wnlex="XXX">moralidade</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="este" lemma="este" tag="DD0MS0" wnsyn="xxx" wnlex="xxx">este</w>
+  <w form="conto" lemma="conto" tag="NCMS000" wnsyn="06371999-n" wnlex="XXX">conto</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w>
+</s>
+<s>
+  <w form="Fica" lemma="ficar" tag="VMIP3S0" wnsyn="00117985-v" wnlex="XXX">Fica</w>
+  <w form="sendo" lemma="ser" tag="VMG0000" wnsyn="02604760-v" wnlex="XXX">sendo</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="portanto" lemma="portanto" tag="CC" wnsyn="xxx" wnlex="xxx">portanto</w>
+  <w form="," lemma="," tag="Fc" wnsyn="xxx" wnlex="xxx">,</w>
+  <w form="esta" lemma="este" tag="DD0FS0" wnsyn="xxx" wnlex="xxx">esta</w>
+  <w form="coisa" lemma="coisa" tag="NCFS000" wnsyn="04424418-n" wnlex="XXX">coisa</w>
+  <w form="uma" lemma="um" tag="DI0FS0" wnsyn="xxx" wnlex="xxx">uma</w>
+  <w form="novela" lemma="novela" tag="NCFS000" wnsyn="06371999-n" wnlex="XXX">novela</w>
+  <w form="que" lemma="que" tag="PR0CN00" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="não" lemma="não" tag="RN" wnsyn="00118531-r" wnlex="XXX">não</w>
+  <w form="há" lemma="haver" tag="VMIP3S0" wnsyn="02616713-v" wnlex="XXX">há</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="levar" lemma="levar" tag="VMN0000" wnsyn="00723545-v" wnlex="XXX">levar</w>
+  <w form="a" lemma="a" tag="SP" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="céu" lemma="céu" tag="NCMS000" wnsyn="09436708-n" wnlex="XXX">céu</w>
+  <w form="número" lemma="número" tag="NCMS000" wnsyn="13582013-n" wnlex="XXX">número</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="almas" lemma="alma" tag="NCFP000" wnsyn="04632157-n" wnlex="XXX">almas</w>
+  <w form="mais" lemma="mais" tag="RG" wnsyn="00029367-r" wnlex="XXX">mais</w>
+  <w form="vantajoso" lemma="vantajoso" tag="AQ0MS00" wnsyn="00064479-a" wnlex="XXX">vantajoso</w>
+  <w form="que" lemma="que" tag="CS" wnsyn="xxx" wnlex="xxx">que</w>
+  <w form="a" lemma="o" tag="DA0FS0" wnsyn="xxx" wnlex="xxx">a</w>
+  <w form="novela" lemma="novela" tag="NCFS000" wnsyn="06371999-n" wnlex="XXX">novela</w>
+  <w form="de" lemma="de" tag="SP" wnsyn="xxx" wnlex="xxx">de</w>
+  <w form="o" lemma="o" tag="DA0MS0" wnsyn="xxx" wnlex="xxx">o</w>
+  <w form="ano" lemma="ano" tag="NCMS000" wnsyn="15203791-n" wnlex="XXX">ano</w>
+  <w form="passado" lemma="passar" tag="VMP00SM" wnsyn="00974159-a" wnlex="XXX">passado</w>
+  <w form="." lemma="." tag="Fp" wnsyn="xxx" wnlex="xxx">.</w></s>
+</wrapper>

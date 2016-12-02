@@ -8,28 +8,32 @@
                 <title type="sub"/>
                 <title type="short">AlaNamorados</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">-</idno>
                 </title>
                 <author>
                     <name type="short">CamposJunior</name>
                     <name type="full">Campos Júnior, Antonio</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">51255962</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0014</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>https://www.luso-livros.net/Livro/ala-dos-namorados/</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source"> "A Ala dos Namorados." <seg rend="italic">Luso
+                        Livros</seg>, <date when="2013">2013</date>, <ref
+                        target="https://www.luso-livros.net/Livro/ala-dos-namorados/"
+                        >https://www.luso-livros.net/Livro/ala-dos-namorados/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
                 <bibl type="edition-first">
                     <date when="1905">1905</date>
                 </bibl>
@@ -40,20 +44,34 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>Romance histórico e épico sobre o famoso grupo de jovens cavaleiros que
+                            formaram a ala esquerda da armada portuguesa na batalha de Aljubarrota e
+                            que pelos seus feitos na batalha se distinguiram. Foram chamados de “Ala
+                            dos namorados” por terem idades entre os 18 e os 25 anos, nenhum deles
+                            casado, e por serem ousados, um pouco inconsequentes mas destemidos e
+                            aventureiros, muitos dos quais viriam a tornar-se nos maiores heróis da
+                            cavalaria medieval portuguesa.</p>
+                    </quote>
+                    <bibl> "A Ala dos Namorados." <seg rend="italic">Luso Livros</seg>, <date
+                            when="2013">2013</date>, <ref
+                            target="https://www.luso-livros.net/Livro/ala-dos-namorados/"
+                            >https://www.luso-livros.net/Livro/ala-dos-namorados/</ref>. </bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">historical</term>
-                    <term type="subgenre_x">historical</term>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

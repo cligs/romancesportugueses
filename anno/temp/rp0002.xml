@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Viriato</title>
+                <title type="sub">Narrativa Epo-histórica</title>
+                <title type="short">Viriato</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Braga</name>
+                    <name type="full">Braga, Teófilo</name>
+                    <idno type="viaf">54161310</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0002</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">"Viriato. Narrativa Epo-histórica." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/viriato/">https://www.luso-livros.net/Livro/viriato/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1904">1904</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>A epopeia de Viriato, o herói celtibero lusitano que unificou as várias
+                            tribos lusas em luta contra o domínio romano da península ibérica.</p>
+                        <p>Hábil guerreiro e estratega, foi visto pelas várias tribos lusas como
+                            libertador e foi reconhecido como sendo digno de receber a Víria: <seg rend="italic">o Colar dos Três Crescentes</seg>, que fez dele líder
+                            e rei dos povos da Lusónia (Lusitânia era o nome Romano). Foi o mais
+                            ferozes adversário que as legiões romanas enfrentaram na conquista da
+                            península Hispânica, derrotando-os em várias batalhas com os seus
+                            batalhões de lusitanos e gallaeci (galegos) o que lhe valeu o título
+                            dados pelos inimigos de “regnator Hiberae magnanimus terrae”, o mais
+                            magnânimo dos reis da terra Ibérica.</p>
+                        <p>Apesar desta obra ser um romance histórico, é rica no que respeita à
+                            referência a tradições folclóricas lusas, ou não fosse o seu autor um
+                            dos grandes antropólogos e etnógrafos, responsável por uma ampla e
+                            monumental recolha e registo de lendas, quadras, ditos, usos e costumes.
+                            E nem o subtil pendor anti-religioso que caracteriza Teófilo Braga (era
+                            um fervoroso defensor do laicismo), o impede de dar destaque aos
+                            costumes religiosos centrados nas Deidades da Hispânia indo-europeia,
+                            sobretudo Neton, o Deus da Guerra.</p>
+                    </quote>
+                    <bibl>"Viriato. Narrativa Epo-histórica." <seg rend="italic">Luso Livros</seg>,
+                            <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/viriato/">https://www.luso-livros.net/Livro/viriato/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle">Narrativa Epo-histórica</term>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-23" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0002_d1"/>
+      <div xml:id="rp0002_d2"/>
+      <div xml:id="rp0002_d3"/>
+      <div xml:id="rp0002_d4"/>
+      <div xml:id="rp0002_d5"/>
+      <div xml:id="rp0002_d6"/>
+      <div xml:id="rp0002_d7"/>
+      <div xml:id="rp0002_d8"/>
+      <div xml:id="rp0002_d9"/>
+      <div xml:id="rp0002_d10"/>
+      <div xml:id="rp0002_d11"/>
+      <div xml:id="rp0002_d12"/>
+      <div xml:id="rp0002_d13"/>
+      <div xml:id="rp0002_d14"/>
+      <div xml:id="rp0002_d15"/>
+      <div xml:id="rp0002_d16"/>
+      <div xml:id="rp0002_d17"/>
+      <div xml:id="rp0002_d18"/>
+      <div xml:id="rp0002_d19"/>
+      <div xml:id="rp0002_d20"/>
+      <div xml:id="rp0002_d21"/>
+      <div xml:id="rp0002_d22"/>
+      <div xml:id="rp0002_d23"/>
+      <div xml:id="rp0002_d24"/>
+      <div xml:id="rp0002_d25"/>
+      <div xml:id="rp0002_d26"/>
+      <div xml:id="rp0002_d27"/>
+      <div xml:id="rp0002_d28"/>
+      <div xml:id="rp0002_d29"/>
+      <div xml:id="rp0002_d30"/>
+      <div xml:id="rp0002_d31"/>
+      <div xml:id="rp0002_d32"/>
+      <div xml:id="rp0002_d33"/>
+      <div xml:id="rp0002_d34"/>
+      <div xml:id="rp0002_d35"/>
+      <div xml:id="rp0002_d36"/>
+      <div xml:id="rp0002_d37"/>
+      <div xml:id="rp0002_d38"/>
+      <div xml:id="rp0002_d39"/>
+      <div xml:id="rp0002_d40"/>
+      <div xml:id="rp0002_d41"/>
+      <div xml:id="rp0002_d42"/>
+      <div xml:id="rp0002_d43"/>
+      <div xml:id="rp0002_d44"/>
+      <div xml:id="rp0002_d45"/>
+      <div xml:id="rp0002_d46"/>
+      <div xml:id="rp0002_d47"/>
+      <div xml:id="rp0002_d48"/>
+      <div xml:id="rp0002_d49"/>
+      <div xml:id="rp0002_d50"/>
+      <div xml:id="rp0002_d51"/>
+      <div xml:id="rp0002_d52"/>
+      <div xml:id="rp0002_d53"/>
+      <div xml:id="rp0002_d54"/>
+      <div xml:id="rp0002_d55"/>
+      <div xml:id="rp0002_d56"/>
+      <div xml:id="rp0002_d57"/>
+      <div xml:id="rp0002_d58"/>
+      <div xml:id="rp0002_d59"/>
+      <div xml:id="rp0002_d60"/>
+    </body>
+  </text>
+</TEI>

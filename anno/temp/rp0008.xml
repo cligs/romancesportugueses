@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Pero da Covilhan</title>
+                <title type="sub">Episódio Romântico do Século XV</title>
+                <title type="short">PeroCovilhan</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Brandão</name>
+                    <name type="full">Brandão, Zeferino</name>
+                    <idno type="viaf">99344619</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0008</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "Pero da Covilhan. Episódio Romântico do Século XV."
+                        <seg rend="italic">The Project Gutenberg</seg>, <date when="2010-05-10">May
+                        8, 2010</date>, EBook <idno>32296</idno>, <ref target="http://www.gutenberg.org/ebooks/32296">http://www.gutenberg.org/ebooks/32296</ref>. <note source="http://www.gutenberg.org/ebooks/32296"> Notas de transcrição: O
+                        texto aqui transcrito, é uma cópia integral do livro impresso em 1897.
+                        Mantivemos a grafia usada na edição impressa, tendo sido corrigidos alguns
+                        pequenos erros tipográficos evidentes, que não alteram a leitura do texto, e
+                        que por isso não considerámos necessário assinalá-los. </note>
+                </bibl>
+                <bibl type="print-source">
+                    <seg rend="italic">Pero da Covilhan. Episódio Romântico do século XV.</seg>
+                    Lisboa: Antiga casa Bertrand—José Bastos, <date when="1897">1897</date>. </bibl>
+                <bibl type="edition-first">
+                    <date when="1897">1897</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle">Episódio Romântico do Século XV</term>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender"/>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-24" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0008_d1"/>
+      <div xml:id="rp0008_d2"/>
+      <div xml:id="rp0008_d3"/>
+      <div xml:id="rp0008_d4"/>
+      <div xml:id="rp0008_d5"/>
+      <div xml:id="rp0008_d6"/>
+      <div xml:id="rp0008_d7"/>
+      <div xml:id="rp0008_d8"/>
+      <div xml:id="rp0008_d9"/>
+      <div xml:id="rp0008_d10"/>
+      <div xml:id="rp0008_d11"/>
+      <div xml:id="rp0008_d12"/>
+      <div xml:id="rp0008_d13"/>
+    </body>
+  </text>
+</TEI>

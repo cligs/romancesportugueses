@@ -8,28 +8,32 @@
                 <title type="sub"/>
                 <title type="short">EuricoPresbitero</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">192611140</idno>
                 </title>
                 <author>
                     <name type="short">Herculano</name>
                     <name type="full">Herculano, Alexandre</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">2464795</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0007</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>https://pt.wikisource.org/wiki/Eurico,_o_Presb%C3%ADtero</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source"> "Eurico, o Presbítero." <seg rend="italic"
+                        >Wikisource</seg>, <date when="2008">2008</date>, <ref
+                        target="https://pt.wikisource.org/wiki/Eurico,_o_Presb%C3%ADtero"
+                        >https://pt.wikisource.org/wiki/Eurico,_o_Presb%C3%ADtero</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
                 <bibl type="edition-first">
                     <date when="1844">1844</date>
                 </bibl>
@@ -40,20 +44,39 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>Quando a sua pátria e a sua religião se veem ameaçadas, Eurico, um jovem
+                            guerreiro de origens humildes, disfarça-se num misterioso cavaleiro
+                            negro e junta-se ao exército de um dos reinos visigóticos para combater
+                            os mouros que estão a invadir a Península Ibérica, e quando descobre que
+                            o seu amor, a princesa Hermengarda, foi raptada pelas forças inimigas,
+                            tudo fará para a salvar.</p>
+                        <p>Publicado em 1844, esta história de um amor impossível durante a queda
+                            dos reinos Visigodos da Península Ibérica, tem a particularidade de ser
+                            um dos primeiros romances históricos da literatura portuguesa e ainda é
+                            o melhor representante literário deste género pois é a magnum opus de
+                            Alexandre Herculano, o autor que introduziu esse género em Portugal e na
+                            língua portuguesa.</p>
+                    </quote>
+                    <bibl>"Eurico, o Presbítero." <seg rend="italic">Luso Livros</seg>, <date
+                            when="2014">2014</date>, <ref
+                            target="https://www.luso-livros.net/Livro/eurico-o-presbitero/"
+                            >https://www.luso-livros.net/Livro/eurico-o-presbitero/</ref>.</bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">historical</term>
-                    <term type="subgenre_x">historical</term>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

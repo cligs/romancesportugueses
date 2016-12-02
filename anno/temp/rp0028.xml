@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">O Primo Basílio</title>
+                <title type="short">PrimoBasilio</title>
+                <title type="idno">
+                    <idno type="viaf">176603189</idno>
+                </title>
+                <author>
+                    <name type="short">Queiros</name>
+                    <name type="full">Queirós, Eça de</name>
+                    <idno type="viaf">88719234</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0028</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "O Primo Basílio." <seg rend="italic">Luso
+                    Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/o-primo-basilio/">https://www.luso-livros.net/Livro/o-primo-basilio/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1878">1878</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Luísa, presa a um casamento sem amor e a um marido constantemente ausente
+                            em trabalho, encontra um meio de escape da sua vida rotineira, puritana
+                            e conservadora, ao envolver-se amorosamente com o seu primo Basílio, um
+                            seu antigo namorado, que fez fortuna no Brasil e que chegara
+                            recentemente a Lisboa.</p>
+                        <p>Após criticar fortemente a mentalidade ultra-religiosa da província
+                            portuguesa do século XIX com a sua obra “O Crime do Padre Amaro” e de
+                            escandalizar o país com um tema tão controverso que enraiveceu a Igreja,
+                            Eça de Queirós volta a cometer o mesmo feito, quebrando novos tabus
+                            literários, somente três anos depois, em 1978 [sic!], com a publicação
+                            da sua obra “O Primo Basílio”; desta vez tendo a classe média, burguesa
+                            e citadina, como figura de crítica e tendo o Adultério como tema
+                            controverso.</p>
+                    </quote>
+                    <bibl>"O Primo Basílio." <seg rend="italic">Luso Livros</seg>, <date when="2013">2013</date>, <ref target="https://www.luso-livros.net/Livro/o-primo-basilio/">https://www.luso-livros.net/Livro/o-primo-basilio/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre_hist">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">sentimental</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-29" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0028_d1"/>
+      <div xml:id="rp0028_d2"/>
+      <div xml:id="rp0028_d3"/>
+      <div xml:id="rp0028_d4"/>
+      <div xml:id="rp0028_d5"/>
+      <div xml:id="rp0028_d6"/>
+      <div xml:id="rp0028_d7"/>
+      <div xml:id="rp0028_d8"/>
+      <div xml:id="rp0028_d9"/>
+      <div xml:id="rp0028_d10"/>
+      <div xml:id="rp0028_d11"/>
+      <div xml:id="rp0028_d12"/>
+      <div xml:id="rp0028_d13"/>
+      <div xml:id="rp0028_d14"/>
+      <div xml:id="rp0028_d15"/>
+      <div xml:id="rp0028_d16"/>
+    </body>
+  </text>
+</TEI>

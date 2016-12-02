@@ -5,33 +5,40 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Uma Familia Ingleza</title>
-                <title type="sub">SCENAS DA VIDA DO PORTO</title>
+                <title type="sub">Scenas da Vida do Porto</title>
                 <title type="short">FamiliaIngleza</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">214772295</idno>
                 </title>
                 <author>
                     <name type="short">Dinis</name>
                     <name type="full">Dinis, Júlio</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">36941922</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0006</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>http://www.gutenberg.org/ebooks/16443</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source"> "Uma Familia Ingleza. Scenas da Vida do Porto." <seg
+                        rend="italic">The Project Gutenberg</seg>, <date when="2005-08-05">August 5,
+                        2005</date>, EBook <idno>16443</idno>, <ref
+                        target="http://www.gutenberg.org/ebooks/16443"
+                        >http://www.gutenberg.org/ebooks/16443</ref>. </bibl>
+                <bibl type="print-source">
+                    <seg rend="italic">Uma Familia Ingleza. Scenas da Vida do Porto.</seg> Porto: A.
+                    R. da Cruz Coutinho, <date when="1875">1875</date>. </bibl>
                 <bibl type="edition-first">
-                    <date when="1868">1868</date>
+                    <date when="1868">1868</date>. <!-- anteriormente em folhetins -->
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -40,19 +47,40 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>Uma Família Inglesa conta a história de amor conflituosos entre Carlos
+                            Whitestone – filho de uma família de comerciantes ingleses – e de
+                            Cecília, a filha do guarda-livros na casa comercial dos Whitestone, num
+                            romance que tem como pano, a cidade do Porto do século XIX e que tem um
+                            um enredo similar ao da Cinderela.</p>
+                        <p>Inicialmente aparecido em folhetins com o título Uma Família de Ingleses
+                            e subintitulado Cenas da Vida do Porto, este romance foi mais tarde
+                            publicado em 1868, sendo o primeiro romance publicado de Júlio
+                            Dinis.</p>
+                        <p>Uma Família Inglesa é um romance exemplar da sua técnica narrativa. A
+                            ação evolui nos diversos espaços físicos e sociais portuenses,
+                            essencialmente caracterizados pelo meio comercial do Porto.</p>
+                    </quote>
+                    <bibl>"Uma Familia Ingleza. Scenas da Vida do Porto." <seg rend="italic">Luso
+                            Livros</seg>, <date when="2013">2013</date>, <ref
+                            target="https://www.luso-livros.net/Livro/uma-familia-inglesa/"
+                            >https://www.luso-livros.net/Livro/uma-familia-inglesa/</ref>.</bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre_x" cert="low">social</term>
-                    <term type="subgenre_hist">not_historical</term>
-                    <term type="genre-subtitle"/>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre" subtype="1" resp="#uh" cert="low">social</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="genre-subtitle">Scenas da Vida do Porto</term>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>
@@ -12444,7 +12472,9 @@
             </div>
         </body>
         <back>
-            <div><ab type="trailer">FIM.</ab></div>
+            <div>
+                <ab type="trailer">FIM.</ab>
+            </div>
         </back>
     </text>
 </TEI>

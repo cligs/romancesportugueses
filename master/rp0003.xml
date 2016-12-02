@@ -8,30 +8,42 @@
                 <title type="sub">Scenas da Guerra Peninsular</title>
                 <title type="short">AnnelMysterioso</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">-</idno>
                 </title>
                 <author>
                     <name type="short">Pimentel</name>
                     <name type="full">Pimentel, Alberto</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">64047987</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0003</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>http://www.gutenberg.org/ebooks/33749</ref>
+                <bibl type="digital-source"> "O Annel Mysterioso. Scenas da Guerra Peninsular." <seg
+                        rend="italic">The Project Gutenberg</seg>, <date when="2010-09-17">September
+                        17, 2010</date>, EBook <idno>33749</idno>, <ref
+                        target="http://www.gutenberg.org/ebooks/33749"
+                        >http://www.gutenberg.org/ebooks/33749</ref>. <note
+                        source="http://www.gutenberg.org/ebooks/33749"> Notas de transcrição: O
+                        texto aqui transcrito, é uma cópia integral do livro impresso em 1904. Foi
+                        mantida a grafia usada na edição original de 1904, tendo sido corrigidos
+                        apenas pequenos erros tipográficos que não alteram a leitura do texto, e que
+                        por isso não foram assinalados. </note>
                 </bibl>
-                <bibl type="print-source"/>
-                <bibl type="edition-first">
-                    <date when="1873">1873</date>
+                <bibl type="print-source">
+                    <seg rend="italic">O Annel Mysterioso. Scenas da Guerra Peninsular.</seg>
+                    Lisboa: Empreza da Historia de Portugal, <date when="1904">1904</date>. </bibl>
+                <bibl type="edition-first"> Lisboa <date when="1873">1873</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -44,16 +56,16 @@
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">historical</term>
-                    <term type="subgenre_x">historical</term>
-                    <term type="genre-subtitle"/>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle">Scenas da Guerra Peninsular</term>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>
@@ -5390,31 +5402,43 @@
                 <p>Aqui podia terminar a biographia de José Maria da Graça Strech, mas, para que
                     fique mais completa, concluiremos copiando textualmenle as unicas palavras que
                     até hoje falavam d'elle:</p>
-                <p>
-                    <seg rend="italic">João José Duarte Machado, capellão director do cemiterio do
-                        Prado do Repouso, n'esta cidade do Porto:</seg>
-                </p>
-                <p>«Certifico que no livro quarto do registo dos obitos e enterramentos dos adultos,
-                    a folhas trezentas setenta e sete, verso, se acha o assento seguinte:</p>
-                <p>«José Maria da Conceição Graça, filho de Francisco Pinto Graça, e de Maria da
-                    Gloria, natural do Porto, edade sessenta e seis annos, estado solteiro,
-                    profissão mendigo, morador que foi no Hospital de Cima de Villa, dos Entrevados,
-                    falleceu de molestia não denominada pelas nove horas da noute do dia vinte de
-                    maio de mil oitocentos cincoenta e nove; depois de se lhe rezarem os responsos
-                    do costume foi sepultado pelas oito horas da noute do dia vinte e um do dito mez
-                    n'este cemiterio publico—Prado do Repouso—no canteiro numero tres, sepultura
-                    dois mil trezentos e seis, de que se fez este termo que assigno com o reverendo
-                    capellão. Eu Antonio José Antunes Barbosa, director, o subscrevi. <seg
-                        rend="italic">Antonio José Antunes Barbosa</seg>, director. <seg
-                        rend="italic">Francisco Alves da Soledade</seg>, capellão.</p>
-                <p>«Não contém mais o dito assento, ao qual me reporto. Porto e Cemiterio do Prado
-                    do Repouso, nove de setembro de mil oitocentos setenta e tres.</p>
-                <ab>«JOÃO JOSÉ DUARTE MACHADO.»</ab>
-                <ab>«Capellão director.»</ab>
+                <floatingText>
+                    <body>
+                        <div>
+                            <p>
+                                <seg rend="italic">João José Duarte Machado, capellão director do
+                                    cemiterio do Prado do Repouso, n'esta cidade do Porto:</seg>
+                            </p>
+                            <p>«Certifico que no livro quarto do registo dos obitos e enterramentos
+                                dos adultos, a folhas trezentas setenta e sete, verso, se acha o
+                                assento seguinte:</p>
+                            <p>«José Maria da Conceição Graça, filho de Francisco Pinto Graça, e de
+                                Maria da Gloria, natural do Porto, edade sessenta e seis annos,
+                                estado solteiro, profissão mendigo, morador que foi no Hospital de
+                                Cima de Villa, dos Entrevados, falleceu de molestia não denominada
+                                pelas nove horas da noute do dia vinte de maio de mil oitocentos
+                                cincoenta e nove; depois de se lhe rezarem os responsos do costume
+                                foi sepultado pelas oito horas da noute do dia vinte e um do dito
+                                mez n'este cemiterio publico—Prado do Repouso—no canteiro numero
+                                tres, sepultura dois mil trezentos e seis, de que se fez este termo
+                                que assigno com o reverendo capellão. Eu Antonio José Antunes
+                                Barbosa, director, o subscrevi. <seg rend="italic">Antonio José
+                                    Antunes Barbosa</seg>, director. <seg rend="italic">Francisco
+                                    Alves da Soledade</seg>, capellão.</p>
+                            <p>«Não contém mais o dito assento, ao qual me reporto. Porto e
+                                Cemiterio do Prado do Repouso, nove de setembro de mil oitocentos
+                                setenta e tres.</p>
+                            <ab>«JOÃO JOSÉ DUARTE MACHADO.»</ab>
+                            <ab>«Capellão director.»</ab>
+                        </div>
+                    </body>
+                </floatingText>
             </div>
         </body>
         <back>
-            <div><ab type="trailer">FIM</ab></div>
+            <div>
+                <ab type="trailer">FIM</ab>
+            </div>
         </back>
     </text>
 </TEI>

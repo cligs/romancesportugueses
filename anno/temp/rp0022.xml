@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">O Barão de Lavos</title>
+                <title type="short">BaraoLavos</title>
+                <title type="idno">
+                    <idno type="viaf">316716974</idno>
+                </title>
+                <author>
+                    <name type="short">Botelho</name>
+                    <name type="full">Botelho, Abel</name>
+                    <idno type="viaf">37048086</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0022</idno>
+                <idno type="url"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "O Barão de Lavos." <seg rend="italic">Luso
+                        Livros</seg>, <date when="2015">2015</date>, <ref target="https://www.luso-livros.net/Livro/o-barao-de-lavos/">https://www.luso-livros.net/Livro/o-barao-de-lavos/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1891">1891</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>A vida e queda de Sebastião, o Barão de Lavos, que se apaixona, um dia,
+                            por um jovem vendedor de rua. Com o intuito de aprofundar a sua relação
+                            com o rapaz, acolhe-o e educa-o nas artes e nas convenções da alta
+                            sociedade de modo a integra-lo nos círculos sociais da nobreza e da
+                            elite lisboeta, ignorando todos os riscos e perigos que sobre si
+                            recairiam com tal actos.</p>
+                        <p>Publicado em 1891, o Barão de Lavos é um dos romances da série intitulada
+                            “Patologia Social” em que Abel Botelho – professado seguidor do chamado
+                            neo-realismo – explora, expõe e põe em claro, fenómenos sociais do final
+                            do século XIX até então ignorados pela sociedade ou romantizados de uma
+                            forma não credível. O Barão de Lavos é o primeiro livro dessa série que
+                            abre logo com temas inéditos na literatura portuguesa até então: A
+                            homossexualidade e a pedofilia.</p>
+                    </quote>
+                    <bibl>"O Barão de Lavos." <seg rend="italic">Luso Livros</seg>, <date when="2015">2015</date>, <ref target="https://www.luso-livros.net/Livro/o-barao-de-lavos/">https://www.luso-livros.net/Livro/o-barao-de-lavos/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" subtype="2" resp="#uh" cert="low">social</term>
+                    <term type="subgenre" subtype="1" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">social</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-11-22" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0022_d1"/>
+      <div xml:id="rp0022_d2"/>
+      <div xml:id="rp0022_d3"/>
+      <div xml:id="rp0022_d4"/>
+      <div xml:id="rp0022_d5"/>
+      <div xml:id="rp0022_d6"/>
+      <div xml:id="rp0022_d7"/>
+      <div xml:id="rp0022_d8"/>
+      <div xml:id="rp0022_d9"/>
+      <div xml:id="rp0022_d10"/>
+      <div xml:id="rp0022_d11"/>
+      <div xml:id="rp0022_d12"/>
+      <div xml:id="rp0022_d13"/>
+      <div xml:id="rp0022_d14"/>
+      <div xml:id="rp0022_d15"/>
+      <div xml:id="rp0022_d16"/>
+      <div xml:id="rp0022_d17"/>
+    </body>
+  </text>
+</TEI>

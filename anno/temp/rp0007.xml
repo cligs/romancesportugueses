@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Eurico, o Presbítero</title>
+                <title type="sub"/>
+                <title type="short">EuricoPresbitero</title>
+                <title type="idno">
+                    <idno type="viaf">192611140</idno>
+                </title>
+                <author>
+                    <name type="short">Herculano</name>
+                    <name type="full">Herculano, Alexandre</name>
+                    <idno type="viaf">2464795</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0007</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "Eurico, o Presbítero." <seg rend="italic">Wikisource</seg>, <date when="2008">2008</date>, <ref target="https://pt.wikisource.org/wiki/Eurico,_o_Presb%C3%ADtero">https://pt.wikisource.org/wiki/Eurico,_o_Presb%C3%ADtero</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1844">1844</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Quando a sua pátria e a sua religião se veem ameaçadas, Eurico, um jovem
+                            guerreiro de origens humildes, disfarça-se num misterioso cavaleiro
+                            negro e junta-se ao exército de um dos reinos visigóticos para combater
+                            os mouros que estão a invadir a Península Ibérica, e quando descobre que
+                            o seu amor, a princesa Hermengarda, foi raptada pelas forças inimigas,
+                            tudo fará para a salvar.</p>
+                        <p>Publicado em 1844, esta história de um amor impossível durante a queda
+                            dos reinos Visigodos da Península Ibérica, tem a particularidade de ser
+                            um dos primeiros romances históricos da literatura portuguesa e ainda é
+                            o melhor representante literário deste género pois é a magnum opus de
+                            Alexandre Herculano, o autor que introduziu esse género em Portugal e na
+                            língua portuguesa.</p>
+                    </quote>
+                    <bibl>"Eurico, o Presbítero." <seg rend="italic">Luso Livros</seg>, <date when="2014">2014</date>, <ref target="https://www.luso-livros.net/Livro/eurico-o-presbitero/">https://www.luso-livros.net/Livro/eurico-o-presbitero/</ref>.</bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-24" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0007_d1"/>
+      <div xml:id="rp0007_d2"/>
+      <div xml:id="rp0007_d3"/>
+      <div xml:id="rp0007_d4"/>
+      <div xml:id="rp0007_d5"/>
+      <div xml:id="rp0007_d6"/>
+      <div xml:id="rp0007_d7"/>
+      <div xml:id="rp0007_d8"/>
+      <div xml:id="rp0007_d9"/>
+      <div xml:id="rp0007_d10"/>
+      <div xml:id="rp0007_d11"/>
+      <div xml:id="rp0007_d12"/>
+      <div xml:id="rp0007_d13"/>
+      <div xml:id="rp0007_d14"/>
+      <div xml:id="rp0007_d15"/>
+      <div xml:id="rp0007_d16"/>
+      <div xml:id="rp0007_d17"/>
+      <div xml:id="rp0007_d18"/>
+      <div xml:id="rp0007_d19"/>
+      <div xml:id="rp0007_d20"/>
+      <div xml:id="rp0007_d21"/>
+      <div xml:id="rp0007_d22"/>
+      <div xml:id="rp0007_d23"/>
+      <div xml:id="rp0007_d24"/>
+      <div xml:id="rp0007_d25"/>
+      <div xml:id="rp0007_d26"/>
+      <div xml:id="rp0007_d27"/>
+      <div xml:id="rp0007_d28"/>
+      <div xml:id="rp0007_d29"/>
+      <div xml:id="rp0007_d30"/>
+      <div xml:id="rp0007_d31"/>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,4002 @@
+<sentence id="1">
+  <token id="t1.1" form="Em" lemma="em" tag="SP" >
+  </token>
+  <token id="t1.2" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t1.3" form="ano" lemma="ano" tag="NCMS000" wn="15203791-n" >
+  </token>
+  <token id="t1.4" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t1.5" form="DCIII" lemma="dciii" tag="NP00000" >
+  </token>
+  <token id="t1.6" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t1.7" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t1.8" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t1.9" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t1.10" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t1.11" form="fundação" lemma="fundação" tag="NCFS000" wn="00240184-n" >
+  </token>
+  <token id="t1.12" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t1.13" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t1.14" form="Cidade_de_Roma" lemma="cidade_de_roma" tag="NP00000" >
+  </token>
+  <token id="t1.15" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t1.16" form="sendo" lemma="ser" tag="VMG0000" wn="02604760-v" >
+  </token>
+  <token id="t1.17" form="Cônsules_L._Licínio_Luculo" lemma="cônsules_l._licínio_luculo" tag="NP00000" >
+  </token>
+  <token id="t1.18" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t1.19" form="A._Postúmio_Albino" lemma="a._postúmio_albino" tag="NP00000" >
+  </token>
+  <token id="t1.20" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t1.21" form="acontecimento" lemma="acontecimento" tag="NCMS000" wn="00029378-n" >
+  </token>
+  <token id="t1.22" form="inopinado" lemma="inopinado" tag="AQ0MS00" wn="02294122-a" >
+  </token>
+  <token id="t1.23" form="suscitou" lemma="suscitar" tag="VMIS3S0" wn="02761685-v" >
+  </token>
+  <token id="t1.24" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t1.25" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t1.26" form="espíritos" lemma="espírito" tag="NCMP000" wn="09545324-n" >
+  </token>
+  <token id="t1.27" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t1.28" form="extraordinário" lemma="extraordinário" tag="AQ0MS00" wn="01675190-a" >
+  </token>
+  <token id="t1.29" form="alvoroço" lemma="alvoroço" tag="NCMS000" wn="00554541-n" >
+  </token>
+  <token id="t1.30" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t1.31" form="O" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t1.32" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t1.33" form="fora" lemma="ir" tag="VMIM1S0" wn="01835496-v" >
+  </token>
+  <token id="t1.34" form="convocado" lemma="convocar" tag="VMP00SM" wn="00792471-v" >
+  </token>
+  <token id="t1.35" form="repentinamente" lemma="repentino" tag="RG" >
+  </token>
+  <token id="t1.36" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t1.37" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t1.38" form="urgência" lemma="urgência" tag="NCFS000" wn="14451020-n" >
+  </token>
+  <token id="t1.39" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t1.40" form="sem" lemma="sem" tag="SP" >
+  </token>
+  <token id="t1.41" form="ser" lemma="ser" tag="VMN0000" wn="02604760-v" >
+  </token>
+  <token id="t1.42" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t1.43" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t1.44" form="fórmula" lemma="fórmula" tag="NCFS000" wn="06731802-n" >
+  </token>
+  <token id="t1.45" form="usual" lemma="usual" tag="AQ0CS00" wn="00489108-a" >
+  </token>
+  <token id="t1.46" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t1.47" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t1.48" form="Edito" lemma="edito" tag="NP00000" >
+  </token>
+  <token id="t1.49" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t1.50" form="mas" lemma="mas" tag="CC" >
+  </token>
+  <token id="t1.51" form="pela" lemma="pelar" tag="VMIP3S0" wn="01262936-v" >
+  </token>
+  <token id="t1.52" form="perentória" lemma="perentória" tag="AQ0FS00" >
+  </token>
+  <token id="t1.53" form="chamada" lemma="chamada" tag="NCFS000" >
+  </token>
+  <token id="t1.54" form="nominal" lemma="nominal" tag="AQ0CS00" wn="01939784-a" >
+  </token>
+  <token id="t1.55" form="ordenada" lemma="ordenar" tag="VMP00SF" wn="00277659-v" >
+  </token>
+  <token id="t1.56" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t1.57" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t1.58" form="velho" lemma="velho" tag="AQ0MS00" >
+  </token>
+  <token id="t1.59" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t1.60" form="integérrimo" lemma="íntegro" tag="AQSMS00" >
+  </token>
+  <token id="t1.61" form="Catão" lemma="catão" tag="NP00000" >
+  </token>
+  <token id="t1.62" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t1.63" form="denominado" lemma="denominar" tag="VMP00SM" wn="01030132-v" >
+  </token>
+  <token id="t1.64" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t1.65" form="Censor" lemma="censor" tag="NP00000" >
+  </token>
+  <token id="t1.66" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="2">
+  <token id="t2.1" form="A" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t2.2" form="gravidade" lemma="gravidade" tag="NCFS000" wn="11464143-n" >
+  </token>
+  <token id="t2.3" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t2.4" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t2.5" form="acontecimento" lemma="acontecimento" tag="NCMS000" wn="00029378-n" >
+  </token>
+  <token id="t2.6" form="forçara" lemma="forçar" tag="VMIM1S0" wn="02506546-v" >
+  </token>
+  <token id="t2.7" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t2.8" form="certo" lemma="certo" tag="DI0MS0" >
+  </token>
+  <token id="t2.9" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t2.10" form="venerando" lemma="venerando" tag="AQ0MS00" >
+  </token>
+  <token id="t2.11" form="presidente" lemma="presidente" tag="NCMS000" wn="10467395-n" >
+  </token>
+  <token id="t2.12" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t2.13" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t2.14" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t2.15" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t2.16" form="simplificar" lemma="simplificar" tag="VMN0000" wn="00400427-v" >
+  </token>
+  <token id="t2.17" form="essa" lemma="esse" tag="DD0FS0" >
+  </token>
+  <token id="t2.18" form="fórmula" lemma="fórmula" tag="NCFS000" wn="06731802-n" >
+  </token>
+  <token id="t2.19" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t2.20" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t2.21" form="convocação" lemma="convocação" tag="NCFS000" wn="08402222-n" >
+  </token>
+  <token id="t2.22" form="?" lemma="?" tag="Fit" >
+  </token>
+</sentence>
+<sentence id="3">
+  <token id="t3.1" form="Algum" lemma="algum" tag="DI0MS0" >
+  </token>
+  <token id="t3.2" form="grande" lemma="grande" tag="AQ0CS00" wn="01382086-a" >
+  </token>
+  <token id="t3.3" form="crime" lemma="crime" tag="NCMS000" wn="00766234-n" >
+  </token>
+  <token id="t3.4" form="perturbava" lemma="perturbar" tag="VMII3S0" wn="01790020-v" >
+  </token>
+  <token id="t3.5" form="ou" lemma="ou" tag="CC" >
+  </token>
+  <token id="t3.6" form="ameaçava" lemma="ameaçar" tag="VMII3S0" wn="00871781-v" >
+  </token>
+  <token id="t3.7" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t3.8" form="governo" lemma="governo" tag="NCMS000" wn="01124794-n" >
+  </token>
+  <token id="t3.9" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t3.10" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t3.11" form="Republica" lemma="republica" tag="NP00000" >
+  </token>
+  <token id="t3.12" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="4">
+  <token id="t4.1" form="A" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t4.2" form="curiosidade" lemma="curiosidade" tag="NCFS000" wn="05682570-n" >
+  </token>
+  <token id="t4.3" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t4.4" form="imensa" lemma="imenso" tag="AQ0FS00" wn="01385255-a" >
+  </token>
+  <token id="t4.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t4.6" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t4.7" form="antecipadamente" lemma="antecipado" tag="RG" >
+  </token>
+  <token id="t4.8" form="sabia" lemma="saber" tag="VMII3S0" >
+  </token>
+  <token id="t4.9" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t4.10" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t4.11" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t4.12" form="voz" lemma="voz" tag="NCFS000" wn="04981139-n" >
+  </token>
+  <token id="t4.13" form="austera" lemma="austero" tag="AQ0FS00" wn="01792387-a" >
+  </token>
+  <token id="t4.14" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t4.15" form="Marco_Catão" lemma="marco_catão" tag="NP00000" >
+  </token>
+  <token id="t4.16" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t4.17" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t4.18" form="Censor" lemma="censor" tag="NP00000" >
+  </token>
+  <token id="t4.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t4.20" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t4.21" form="ergueria" lemma="erguer" tag="VMIC3S0" wn="01455184-v" >
+  </token>
+  <token id="t4.22" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t4.23" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t4.24" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t4.25" form="contra" lemma="contra" tag="SP" >
+  </token>
+  <token id="t4.26" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t4.27" form="patrício" lemma="patrício" tag="NCMS000" wn="09807754-n" >
+  </token>
+  <token id="t4.28" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t4.29" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t4.30" form="opulento" lemma="opulento" tag="AQ0MS00" wn="02026785-a" >
+  </token>
+  <token id="t4.31" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t4.32" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t4.33" form="romanos" lemma="romano" tag="NCMP000" >
+  </token>
+  <token id="t4.34" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t4.35" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t4.36" form="dispunha" lemma="dispor" tag="VMII3S0" wn="01463963-v" >
+  </token>
+  <token id="t4.37" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t4.38" form="riquezas" lemma="riqueza" tag="NCFP000" wn="05115804-n" >
+  </token>
+  <token id="t4.39" form="bastantes" lemma="bastante" tag="AQ0CP00" wn="00013887-a" >
+  </token>
+  <token id="t4.40" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t4.41" form="corromperem" lemma="corromper" tag="VMN03P0" wn="02284096-v" >
+  </token>
+  <token id="t4.42" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t4.43" form="juízes" lemma="juiz" tag="NCMP000" wn="10225219-n" >
+  </token>
+  <token id="t4.44" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t4.45" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t4.46" form="quais" lemma="qual" tag="PR0CP00" >
+  </token>
+  <token id="t4.47" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t4.48" form="confiasse" lemma="confiar" tag="VMSI3S0" >
+  </token>
+  <token id="t4.49" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t4.50" form="seu" lemma="seu" tag="DP3MSS" >
+  </token>
+  <token id="t4.51" form="julgamento" lemma="julgamento" tag="NCMS000" wn="01187810-n" >
+  </token>
+  <token id="t4.52" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="5">
+  <token id="t5.1" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t5.2" form="!" lemma="!" tag="Fat" >
+  </token>
+  <token id="t5.3" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t5.4" form="este" lemma="este" tag="PD0MS00" >
+  </token>
+  <token id="t5.5" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t5.6" form="nome" lemma="nome" tag="NCMS000" wn="06333653-n" >
+  </token>
+  <token id="t5.7" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t5.8" form="soava" lemma="soar" tag="VMII3S0" wn="02176268-v" >
+  </token>
+  <token id="t5.9" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t5.10" form="boca" lemma="boca" tag="NCFS000" wn="05302499-n" >
+  </token>
+  <token id="t5.11" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t5.12" form="boca" lemma="boca" tag="NCFS000" wn="05302499-n" >
+  </token>
+  <token id="t5.13" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t5.14" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t5.15" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t5.16" form="inveja" lemma="inveja" tag="NCFS000" wn="00758335-n" >
+  </token>
+  <token id="t5.17" form="do_que" lemma="do_que" tag="CS" >
+  </token>
+  <token id="t5.18" form="hostilidade" lemma="hostilidade" tag="NCFS000" wn="07547805-n" >
+  </token>
+  <token id="t5.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t5.20" form="desde_que" lemma="desde_que" tag="CS" >
+  </token>
+  <token id="t5.21" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t5.22" form="Tribuno_do_Povo_Aulo_Cribonio" lemma="tribuno_do_povo_aulo_cribonio" tag="NP00000" >
+  </token>
+  <token id="t5.23" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t5.24" form="citara" lemma="citara" tag="NCFS000" >
+  </token>
+  <token id="t5.25" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t5.26" form="comparecer" lemma="comparecer" tag="VMN0000" wn="00425522-v" >
+  </token>
+  <token id="t5.27" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t5.28" form="justiça" lemma="justiça" tag="NCFS000" wn="00694681-n" >
+  </token>
+  <token id="t5.29" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t5.30" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t5.31" form="depredações" lemma="depredação" tag="NCFP000" wn="00967310-n" >
+  </token>
+  <token id="t5.32" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t5.33" form="carnificinas" lemma="carnificina" tag="NCFP000" wn="00223983-n" >
+  </token>
+  <token id="t5.34" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t5.35" form="praticara" lemma="praticar" tag="VMIM1S0" wn="02568672-v" >
+  </token>
+  <token id="t5.36" form="contra" lemma="contra" tag="SP" >
+  </token>
+  <token id="t5.37" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t5.38" form="Tribus" lemma="tribus" tag="NP00000" >
+  </token>
+  <token id="t5.39" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t5.40" form="cidades" lemma="cidade" tag="NCFP000" wn="08524735-n" >
+  </token>
+  <token id="t5.41" form="tributarias" lemma="tributar" tag="VMIC2S0" >
+  </token>
+  <token id="t5.42" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t5.43" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t5.44" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t5.45" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t5.46" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t5.47" form="como" lemma="como" tag="RG" wn="00159040-r" >
+  </token>
+  <token id="t5.48" form="Província" lemma="província" tag="NP00000" wn="08552138-n" >
+  </token>
+  <token id="t5.49" form="senatorial" lemma="senatorial" tag="AQ0CS00" >
+  </token>
+  <token id="t5.50" form="estava" lemma="estar" tag="VMII3S0" wn="02604760-v" >
+  </token>
+  <token id="t5.51" form="sob" lemma="sob" tag="SP" >
+  </token>
+  <token id="t5.52" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t5.53" form="égide" lemma="égide" tag="NCFS000" >
+  </token>
+  <token id="t5.54" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t5.55" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t5.56" form="lealdade" lemma="lealdade" tag="NCFS000" wn="04877530-n" >
+  </token>
+  <token id="t5.57" form="romana" lemma="romano" tag="AQ0FS00" wn="02921569-a" >
+  </token>
+  <token id="t5.58" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="6">
+  <token id="t6.1" form="Era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t6.2" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t6.3" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t6.4" form="crime" lemma="crime" tag="NCMS000" wn="00766234-n" >
+  </token>
+  <token id="t6.5" form="contra" lemma="contra" tag="SP" >
+  </token>
+  <token id="t6.6" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t6.7" form="majestade" lemma="majestade" tag="NCFS000" wn="04729984-n" >
+  </token>
+  <token id="t6.8" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t6.9" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t6.10" form="Povo" lemma="povo" tag="NP00000" wn="07942152-n" >
+  </token>
+  <token id="t6.11" form="romano" lemma="romano" tag="AQ0MS00" wn="02921569-a" >
+  </token>
+  <token id="t6.12" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t6.13" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t6.14" form="versava" lemma="versar" tag="VMII3S0" wn="01702514-v" >
+  </token>
+  <token id="t6.15" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t6.16" form="acusação" lemma="acusação" tag="NCFS000" wn="07234230-n" >
+  </token>
+  <token id="t6.17" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t6.18" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t6.19" form="Procônsul_Servio_Sulpicio_Galba" lemma="procônsul_servio_sulpicio_galba" tag="NP00000" >
+  </token>
+  <token id="t6.20" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t6.21" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t6.22" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t6.23" form="qual" lemma="qual" tag="PR0CS00" >
+  </token>
+  <token id="t6.24" form="fora" lemma="ir" tag="VMIM1S0" wn="01835496-v" >
+  </token>
+  <token id="t6.25" form="confiado" lemma="confiar" tag="VMP00SM" >
+  </token>
+  <token id="t6.26" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t6.27" form="governo" lemma="governo" tag="NCMS000" wn="01124794-n" >
+  </token>
+  <token id="t6.28" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t6.29" form="administração" lemma="administração" tag="NCFS000" wn="01124794-n" >
+  </token>
+  <token id="t6.30" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t6.31" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t6.32" form="Hispânia_Ulterior" lemma="hispânia_ulterior" tag="NP00000" >
+  </token>
+  <token id="t6.33" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t6.34" form="essa" lemma="esse" tag="DD0FS0" >
+  </token>
+  <token id="t6.35" form="parte" lemma="parte" tag="NCFS000" wn="03081021-n" >
+  </token>
+  <token id="t6.36" form="ocidental" lemma="ocidental" tag="AQ0CS00" wn="00824321-a" >
+  </token>
+  <token id="t6.37" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t6.38" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t6.39" form="península" lemma="península" tag="NCFS000" wn="09388848-n" >
+  </token>
+  <token id="t6.40" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t6.41" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t6.42" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t6.43" form="compreendia" lemma="compreender" tag="VMII3S0" wn="00588888-v" >
+  </token>
+  <token id="t6.44" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t6.45" form="vasta" lemma="vasto" tag="AQ0FS00" wn="01385255-a" >
+  </token>
+  <token id="t6.46" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t6.47" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="7">
+  <token id="t7.1" form="Ninguém" lemma="ninguém" tag="PI0CN00" >
+  </token>
+  <token id="t7.2" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t7.3" form="atrevia" lemma="atrever" tag="VMII3S0" wn="02545045-v" >
+  </token>
+  <token id="t7.4" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t7.5" form="pôr" lemma="pôr" tag="VMN0000" wn="00056930-v" >
+  </token>
+  <token id="t7.6" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t7.7" form="dúvida" lemma="dúvida" tag="NCFS000" wn="04757522-n" >
+  </token>
+  <token id="t7.8" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t7.9" form="valentia" lemma="valentia" tag="NCFS000" wn="07526182-n" >
+  </token>
+  <token id="t7.10" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t7.11" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t7.12" form="tribuno" lemma="tribuno" tag="NCMS000" >
+  </token>
+  <token id="t7.13" form="militar" lemma="militar" tag="AQ0CS00" >
+  </token>
+  <token id="t7.14" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t7.15" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t7.16" form="fora" lemma="ir" tag="VMIM1S0" wn="01835496-v" >
+  </token>
+  <token id="t7.17" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t7.18" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t7.19" form="Hispânia" lemma="hispânia" tag="NP00000" >
+  </token>
+  <token id="t7.20" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t7.21" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t7.22" form="missão" lemma="missão" tag="NCFS000" wn="00731222-n" >
+  </token>
+  <token id="t7.23" form="especial" lemma="especial" tag="AQ0CS00" wn="01104026-a" >
+  </token>
+  <token id="t7.24" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t7.25" form="combater" lemma="combater" tag="VMN0000" wn="01092366-v" >
+  </token>
+  <token id="t7.26" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t7.27" form="submeter" lemma="submeter" tag="VMN0000" wn="02496816-v" >
+  </token>
+  <token id="t7.28" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t7.29" form="Celtiberos" lemma="celtiberos" tag="NP00000" >
+  </token>
+  <token id="t7.30" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t7.31" form="mas" lemma="mas" tag="CC" >
+  </token>
+  <token id="t7.32" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t7.33" form="sendo" lemma="ser" tag="VMG0000" wn="02604760-v" >
+  </token>
+  <token id="t7.34" form="conhecida" lemma="conhecer" tag="VMP00SF" wn="00594621-v" >
+  </token>
+  <token id="t7.35" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t7.36" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t7.37" form="mundo" lemma="mundo" tag="NCMS000" wn="08179689-n" >
+  </token>
+  <token id="t7.38" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t7.39" form="glória" lemma="glória" tag="NCFS000" wn="14437386-n" >
+  </token>
+  <token id="t7.40" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t7.41" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t7.42" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t7.43" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t7.44" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t7.45" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t7.46" form="vai" lemma="ir" tag="VMIP3S0" wn="01835496-v" >
+  </token>
+  <token id="t7.47" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t7.48" form="quatro" lemma="4" tag="Z" >
+  </token>
+  <token id="t7.49" form="seculos" lemma="seculo" tag="NCMP000" >
+  </token>
+  <token id="t7.50" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t7.51" form="dirige" lemma="dirigir" tag="VMIP3S0" wn="01150559-v" >
+  </token>
+  <token id="t7.52" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t7.53" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t7.54" form="tino" lemma="tino" tag="NCMS000" wn="04841810-n" >
+  </token>
+  <token id="t7.55" form="incomparável" lemma="incomparável" tag="AQ0CS00" wn="00504592-a" >
+  </token>
+  <token id="t7.56" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t7.57" form="guerras" lemma="guerra" tag="NCFP000" wn="00973077-n" >
+  </token>
+  <token id="t7.58" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t7.59" form="incorporação" lemma="incorporação" tag="NCFS000" wn="00078536-n" >
+  </token>
+  <token id="t7.60" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t7.61" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t7.62" form="povos" lemma="povo" tag="NCMP000" wn="07942152-n" >
+  </token>
+  <token id="t7.63" form="bárbaros" lemma="bárbaro" tag="AQ0MP00" wn="01263013-a" >
+  </token>
+  <token id="t7.64" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t7.65" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t7.66" form="poderá" lemma="poder" tag="VMIF3S0" >
+  </token>
+  <token id="t7.67" form="consentir" lemma="consentir" tag="VMN0000" wn="00764222-v" >
+  </token>
+  <token id="t7.68" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t7.69" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t7.70" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t7.71" form="exercício" lemma="exercício" tag="NCMS000" wn="00894552-n" >
+  </token>
+  <token id="t7.72" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t7.73" form="essa" lemma="esse" tag="DD0FS0" >
+  </token>
+  <token id="t7.74" form="missão" lemma="missão" tag="NCFS000" wn="00731222-n" >
+  </token>
+  <token id="t7.75" form="civilizadora" lemma="civilizador" tag="AQ0FS00" >
+  </token>
+  <token id="t7.76" form="lhe" lemma="lhe" tag="PP3CSD0" >
+  </token>
+  <token id="t7.77" form="infamem" lemma="infamar" tag="VMSP3P0" >
+  </token>
+  <token id="t7.78" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t7.79" form="inviolável" lemma="inviolável" tag="AQ0CS00" wn="02510604-a" >
+  </token>
+  <token id="t7.80" form="autoridade" lemma="autoridade" tag="NCFS000" wn="09824609-n" >
+  </token>
+  <token id="t7.81" form="?" lemma="?" tag="Fit" >
+  </token>
+</sentence>
+<sentence id="8">
+  <token id="t8.1" form="A" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t8.2" form="voz" lemma="voz" tag="NCFS000" wn="04981139-n" >
+  </token>
+  <token id="t8.3" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t8.4" form="Catão" lemma="catão" tag="NP00000" >
+  </token>
+  <token id="t8.5" form="ergueu" lemma="erguer" tag="VMIS3S0" >
+  </token>
+  <token id="t8.6" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t8.7" form="no_meio_de" lemma="no_meio_de" tag="SP" >
+  </token>
+  <token id="t8.8" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t8.9" form="religioso" lemma="religioso" tag="AQ0MS00" wn="01783158-a" >
+  </token>
+  <token id="t8.10" form="silêncio" lemma="silêncio" tag="NCMS000" wn="07515560-n" >
+  </token>
+  <token id="t8.11" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t8.12" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t8.13" form="acuidade" lemma="acuidade" tag="NCFS000" wn="04643397-n" >
+  </token>
+  <token id="t8.14" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t8.15" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t8.16" form="látego" lemma="látego" tag="NCMS000" wn="03643907-n" >
+  </token>
+  <token id="t8.17" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t8.18" form="fogo" lemma="fogo" tag="NCMS000" wn="07302836-n" >
+  </token>
+  <token id="t8.19" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t8.20" form="—" lemma="—" tag="Fz" >
+  </token>
+  <token id="t8.21" form="Como" lemma="como" tag="NP00000" >
+  </token>
+  <token id="t8.22" form="velho" lemma="velho" tag="AQ0MS00" >
+  </token>
+  <token id="t8.23" form="octogenário" lemma="octogenário" tag="NCMS000" >
+  </token>
+  <token id="t8.24" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t8.25" form="ninguém" lemma="ninguém" tag="PI0CN00" >
+  </token>
+  <token id="t8.26" form="compreende" lemma="compreender" tag="VMIP3S0" wn="00588888-v" >
+  </token>
+  <token id="t8.27" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t8.28" form="eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t8.29" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t8.30" form="poder" lemma="poder" tag="NCMS000" wn="05194578-n" >
+  </token>
+  <token id="t8.31" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t8.32" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t8.33" form="Costumes_dos_Antepassados" lemma="costumes_dos_antepassados" tag="NP00000" >
+  </token>
+  <token id="t8.34" form="representados" lemma="representar" tag="VMP00PM" wn="02620587-v" >
+  </token>
+  <token id="t8.35" form="hoje" lemma="hoje" tag="RG" wn="00207366-r" >
+  </token>
+  <token id="t8.36" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t8.37" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t8.38" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t8.39" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t8.40" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t8.41" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t8.42" form="tribunal" lemma="tribunal" tag="NCMS000" wn="08329453-n" >
+  </token>
+  <token id="t8.43" form="permanente" lemma="permanente" tag="AQ0CS00" wn="01754421-a" >
+  </token>
+  <token id="t8.44" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t8.45" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t8.46" form="ação" lemma="ação" tag="NCFS000" wn="00037396-n" >
+  </token>
+  <token id="t8.47" form="executiva" lemma="executivo" tag="AQ0FS00" >
+  </token>
+  <token id="t8.48" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t8.49" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t8.50" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t8.51" form="consciência" lemma="consciência" tag="NCFS000" wn="05675905-n" >
+  </token>
+  <token id="t8.52" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t8.53" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t8.54" form="necessidades" lemma="necessidade" tag="NCFP000" wn="00023773-n" >
+  </token>
+  <token id="t8.55" form="públicas" lemma="público" tag="AQ0FP00" wn="00493297-a" >
+  </token>
+  <token id="t8.56" form="expostas" lemma="expor" tag="VMP00PF" wn="02140033-v" >
+  </token>
+  <token id="t8.57" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t8.58" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t8.59" form="palavra" lemma="palavra" tag="NCFS000" wn="06286395-n" >
+  </token>
+  <token id="t8.60" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t8.61" form="discussão" lemma="discussão" tag="NCFS000" wn="07140659-n" >
+  </token>
+  <token id="t8.62" form="aberta" lemma="aberto" tag="AQ0FS00" wn="01652902-a" >
+  </token>
+  <token id="t8.63" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="9">
+  <token id="t9.1" form="É" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t9.2" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t9.3" form="esses" lemma="esse" tag="DD0MP0" >
+  </token>
+  <token id="t9.4" form="Costumes_dos_Antepassados" lemma="costumes_dos_antepassados" tag="NP00000" >
+  </token>
+  <token id="t9.5" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t9.6" form="deriva" lemma="derivar" tag="VMIP3S0" wn="00251615-v" >
+  </token>
+  <token id="t9.7" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t9.8" form="Soberania" lemma="soberania" tag="NP00000" wn="14443532-n" >
+  </token>
+  <token id="t9.9" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t9.10" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t9.11" form="nós" lemma="nós" tag="PP1CP00" >
+  </token>
+  <token id="t9.12" form="todos" lemma="todo" tag="DI0MP0" >
+  </token>
+  <token id="t9.13" form="aqui" lemma="aqui" tag="RG" wn="00108647-r" >
+  </token>
+  <token id="t9.14" form="presentes" lemma="presente" tag="AQ0CP00" >
+  </token>
+  <token id="t9.15" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t9.16" form="dando" lemma="dar" tag="VMG0000" wn="00056930-v" >
+  </token>
+  <token id="t9.17" form="forma" lemma="forma" tag="NCFS000" wn="00027807-n" >
+  </token>
+  <token id="t9.18" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t9.19" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t9.20" form="opinião_pública" lemma="opinião_pública" tag="NCFS000" >
+  </token>
+  <token id="t9.21" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t9.22" form="intervimos" lemma="intervir" tag="VMIP1P0" wn="02450256-v" >
+  </token>
+  <token id="t9.23" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t9.24" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t9.25" form="organismo" lemma="organismo" tag="NCMS000" wn="00004475-n" >
+  </token>
+  <token id="t9.26" form="social" lemma="social" tag="AQ0CS00" wn="02798370-a" >
+  </token>
+  <token id="t9.27" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t9.28" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t9.29" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="10">
+  <token id="t10.1" form="Diante_de" lemma="diante_de" tag="SP" >
+  </token>
+  <token id="t10.2" form="mim" lemma="mim" tag="PP1CSO0" >
+  </token>
+  <token id="t10.3" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.4" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t10.5" form="entre" lemma="entre" tag="SP" >
+  </token>
+  <token id="t10.6" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t10.7" form="trezentos" lemma="300" tag="Z" >
+  </token>
+  <token id="t10.8" form="membros" lemma="membro" tag="NCMP000" wn="10307234-n" >
+  </token>
+  <token id="t10.9" form="aqui" lemma="aqui" tag="RG" wn="00108647-r" >
+  </token>
+  <token id="t10.10" form="reunidos" lemma="reunir" tag="VMP00PM" wn="00270215-v" >
+  </token>
+  <token id="t10.11" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.12" form="vejo" lemma="ver" tag="VMIP1S0" wn="02118476-v" >
+  </token>
+  <token id="t10.13" form="ainda" lemma="ainda" tag="RG" wn="00047534-r" >
+  </token>
+  <token id="t10.14" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t10.15" form="antigos" lemma="antigo" tag="AQ0MP00" wn="00669138-a" >
+  </token>
+  <token id="t10.16" form="chefes" lemma="chefe" tag="NCMP000" wn="09623038-n" >
+  </token>
+  <token id="t10.17" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t10.18" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t10.19" form="Família" lemma="família" tag="NP00000" wn="07997703-n" >
+  </token>
+  <token id="t10.20" form="romana" lemma="romano" tag="AQ0FS00" wn="02921569-a" >
+  </token>
+  <token id="t10.21" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.22" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t10.23" form="Patres" lemma="patres" tag="NP00000" >
+  </token>
+  <token id="t10.24" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.25" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t10.26" form="pela" lemma="pelar" tag="VMIP3S0" wn="01262936-v" >
+  </token>
+  <token id="t10.27" form="idade" lemma="idade" tag="NCFS000" wn="15153787-n" >
+  </token>
+  <token id="t10.28" form="foram" lemma="ir" tag="VMIS3P0" wn="01835496-v" >
+  </token>
+  <token id="t10.29" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t10.30" form="Seniores" lemma="seniores" tag="NP00000" >
+  </token>
+  <token id="t10.31" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.32" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t10.33" form="quais" lemma="qual" tag="PT0CP00" >
+  </token>
+  <token id="t10.34" form="deram" lemma="dar" tag="VMIS3P0" wn="00056930-v" >
+  </token>
+  <token id="t10.35" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t10.36" form="nome" lemma="nome" tag="NCMS000" wn="06333653-n" >
+  </token>
+  <token id="t10.37" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t10.38" form="este" lemma="este" tag="DD0MS0" >
+  </token>
+  <token id="t10.39" form="Tribunal" lemma="tribunal" tag="NP00000" wn="08329453-n" >
+  </token>
+  <token id="t10.40" form="sacrossanto" lemma="sacrossanto" tag="AQ0MS00" >
+  </token>
+  <token id="t10.41" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t10.42" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t10.43" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t10.44" form="também" lemma="também" tag="RG" wn="00047534-r" >
+  </token>
+  <token id="t10.45" form="vejo" lemma="ver" tag="VMIP1S0" wn="02118476-v" >
+  </token>
+  <token id="t10.46" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t10.47" form="Concripti" lemma="concripti" tag="NP00000" >
+  </token>
+  <token id="t10.48" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.49" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t10.50" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t10.51" form="pouco" lemma="pouco" tag="PI0MS00" >
+  </token>
+  <token id="t10.52" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t10.53" form="pouco" lemma="pouco" tag="PI0MS00" >
+  </token>
+  <token id="t10.54" form="foram" lemma="ir" tag="VMIS3P0" wn="01835496-v" >
+  </token>
+  <token id="t10.55" form="chamados" lemma="chamar" tag="VMP00PM" wn="00792471-v" >
+  </token>
+  <token id="t10.56" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t10.57" form="completarem" lemma="completar" tag="VMN03P0" wn="00452512-v" >
+  </token>
+  <token id="t10.58" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t10.59" form="número" lemma="número" tag="NCMS000" wn="13582013-n" >
+  </token>
+  <token id="t10.60" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t10.61" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t10.62" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t10.63" form="morte" lemma="morte" tag="NCFS000" wn="07355491-n" >
+  </token>
+  <token id="t10.64" form="ou" lemma="ou" tag="CC" >
+  </token>
+  <token id="t10.65" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t10.66" form="extinção" lemma="extinção" tag="NCFS000" wn="07332691-n" >
+  </token>
+  <token id="t10.67" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t10.68" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t10.69" form="famílias" lemma="família" tag="NCFP000" wn="07997703-n" >
+  </token>
+  <token id="t10.70" form="ia" lemma="ir" tag="VMII3S0" wn="01835496-v" >
+  </token>
+  <token id="t10.71" form="diminuindo" lemma="diminuir" tag="VMG0000" wn="00151689-v" >
+  </token>
+  <token id="t10.72" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="11">
+  <token id="t11.1" form="Em" lemma="em" tag="SP" >
+  </token>
+  <token id="t11.2" form="fim" lemma="fim" tag="NCMS000" wn="15266911-n" >
+  </token>
+  <token id="t11.3" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t11.4" form="aqui" lemma="aqui" tag="RG" wn="00108647-r" >
+  </token>
+  <token id="t11.5" form="estamos" lemma="estar" tag="VMIP1P0" wn="02604760-v" >
+  </token>
+  <token id="t11.6" form="constituídos" lemma="constituir" tag="VMP00PM" wn="02621395-v" >
+  </token>
+  <token id="t11.7" form="tanto" lemma="tanto" tag="RG" wn="00023074-r" >
+  </token>
+  <token id="t11.8" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t11.9" form="Ordem" lemma="ordem" tag="NP00000" wn="07168131-n" >
+  </token>
+  <token id="t11.10" form="senatorial" lemma="senatorial" tag="AQ0CS00" >
+  </token>
+  <token id="t11.11" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t11.12" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t11.13" form="Equestre" lemma="equestre" tag="NP00000" >
+  </token>
+  <token id="t11.14" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t11.15" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t11.16" form="deliberarmos" lemma="deliberar" tag="VMN01P0" wn="00812580-v" >
+  </token>
+  <token id="t11.17" form="sobre" lemma="sobre" tag="SP" >
+  </token>
+  <token id="t11.18" form="o" lemma="o" tag="PD0MS00" >
+  </token>
+  <token id="t11.19" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t11.20" form="interessa" lemma="interessar" tag="VMIP3S0" wn="01821423-v" >
+  </token>
+  <token id="t11.21" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t11.22" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t11.23" form="Republica" lemma="republica" tag="NP00000" >
+  </token>
+  <token id="t11.24" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="12">
+  <token id="t12.1" form="Dentro_de" lemma="dentro_de" tag="SP" >
+  </token>
+  <token id="t12.2" form="vós" lemma="vós" tag="PP2CP00" >
+  </token>
+  <token id="t12.3" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t12.4" form="uns" lemma="um" tag="PI0MP00" >
+  </token>
+  <token id="t12.5" form="exercem" lemma="exercer" tag="VMIP3P0" wn="02568672-v" >
+  </token>
+  <token id="t12.6" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t12.7" form="poder" lemma="poder" tag="NCMS000" wn="05194578-n" >
+  </token>
+  <token id="t12.8" form="temporário" lemma="temporário" tag="AQ0MS00" wn="00556318-a" >
+  </token>
+  <token id="t12.9" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t12.10" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t12.11" form="outros" lemma="outro" tag="PI0MP00" >
+  </token>
+  <token id="t12.12" form="são" lemma="ser" tag="VMIP3P0" wn="02604760-v" >
+  </token>
+  <token id="t12.13" form="inamovíveis" lemma="inamovível" tag="AQ0CP00" >
+  </token>
+  <token id="t12.14" form="desde_que" lemma="desde_que" tag="CS" >
+  </token>
+  <token id="t12.15" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t12.16" form="reconheceram" lemma="reconhecer" tag="VMIS3P0" wn="00618878-v" >
+  </token>
+  <token id="t12.17" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t12.18" form="seus" lemma="seu" tag="DP3MPS" >
+  </token>
+  <token id="t12.19" form="serviços" lemma="serviço" tag="NCMP000" wn="00577525-n" >
+  </token>
+  <token id="t12.20" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t12.21" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t12.22" form="pela" lemma="pelar" tag="VMIP3S0" wn="01262936-v" >
+  </token>
+  <token id="t12.23" form="sua" lemma="seu" tag="DP3FSS" >
+  </token>
+  <token id="t12.24" form="vida" lemma="vida" tag="NCFS000" wn="00017222-n" >
+  </token>
+  <token id="t12.25" form="incorruptível" lemma="incorruptível" tag="AQ0CS00" >
+  </token>
+  <token id="t12.26" form="são" lemma="ser" tag="VMIP3P0" wn="02604760-v" >
+  </token>
+  <token id="t12.27" form="proclamados" lemma="proclamar" tag="VMP00PM" wn="00626428-v" >
+  </token>
+  <token id="t12.28" form="Censores" lemma="censores" tag="NP00000" >
+  </token>
+  <token id="t12.29" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="13">
+  <token id="t13.1" form="É" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t13.2" form="pois" lemma="pois" tag="CS" >
+  </token>
+  <token id="t13.3" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t13.4" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t13.5" form="exercício" lemma="exercício" tag="NCMS000" wn="00894552-n" >
+  </token>
+  <token id="t13.6" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t13.7" form="esta" lemma="este" tag="DD0FS0" >
+  </token>
+  <token id="t13.8" form="dignidade" lemma="dignidade" tag="NCFS000" wn="04886881-n" >
+  </token>
+  <token id="t13.9" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t13.10" form="eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t13.11" form="falo" lemma="falar" tag="VMIP1S0" wn="00963570-v" >
+  </token>
+  <token id="t13.12" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t13.13" form="conto" lemma="contar" tag="VMIP1S0" wn="00948071-v" >
+  </token>
+  <token id="t13.14" form="ser" lemma="ser" tag="VMN0000" wn="02604760-v" >
+  </token>
+  <token id="t13.15" form="ouvido" lemma="ouvir" tag="VMP00SM" wn="02169891-v" >
+  </token>
+  <token id="t13.16" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t13.17" form="porque" lemma="porque" tag="CS" >
+  </token>
+  <token id="t13.18" form="foi" lemma="ir" tag="VMIS3S0" wn="01835496-v" >
+  </token>
+  <token id="t13.19" form="confiada" lemma="confiar" tag="VMP00SF" >
+  </token>
+  <token id="t13.20" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t13.21" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t13.22" form="proteção" lemma="proteção" tag="NCFS000" wn="00954311-n" >
+  </token>
+  <token id="t13.23" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t13.24" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t13.25" form="minha" lemma="meu" tag="DP1FSS" >
+  </token>
+  <token id="t13.26" form="vigilância" lemma="vigilância" tag="NCFS000" wn="04664778-n" >
+  </token>
+  <token id="t13.27" form="essa" lemma="esse" tag="DD0FS0" >
+  </token>
+  <token id="t13.28" form="ubérrima" lemma="ubérrima" tag="AQ0FS00" >
+  </token>
+  <token id="t13.29" form="província" lemma="província" tag="NCFS000" wn="08552138-n" >
+  </token>
+  <token id="t13.30" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t13.31" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t13.32" form="Hispânia" lemma="hispânia" tag="NP00000" >
+  </token>
+  <token id="t13.33" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="14">
+  <token id="t14.1" form="Tendo" lemma="ter" tag="VMG0000" wn="00065639-v" >
+  </token>
+  <token id="t14.2" form="eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t14.3" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.4" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t14.5" form="Censor" lemma="censor" tag="NP00000" >
+  </token>
+  <token id="t14.6" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.7" form="cooperado" lemma="cooperar" tag="VMP00SM" wn="02416278-v" >
+  </token>
+  <token id="t14.8" form="sempre" lemma="sempre" tag="RG" wn="00088931-r" >
+  </token>
+  <token id="t14.9" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.10" form="todos" lemma="todo" tag="DI0MP0" >
+  </token>
+  <token id="t14.11" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t14.12" form="cinco" lemma="5" tag="Z" >
+  </token>
+  <token id="t14.13" form="anos" lemma="ano" tag="NCMP000" wn="15203791-n" >
+  </token>
+  <token id="t14.14" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.15" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t14.16" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t14.17" form="confeção" lemma="confeção" tag="NCFS000" >
+  </token>
+  <token id="t14.18" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t14.19" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t14.20" form="registo" lemma="registo" tag="NCMS000" wn="13412321-n" >
+  </token>
+  <token id="t14.21" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t14.22" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t14.23" form="Censo" lemma="censo" tag="NP00000" wn="00653388-n" >
+  </token>
+  <token id="t14.24" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.25" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t14.26" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t14.27" form="nomeação" lemma="nomeação" tag="NCFS000" wn="00163779-n" >
+  </token>
+  <token id="t14.28" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t14.29" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t14.30" form="Senadores" lemma="senadores" tag="NP00000" >
+  </token>
+  <token id="t14.31" form="tirados" lemma="tirar" tag="VMP00PM" wn="00173338-v" >
+  </token>
+  <token id="t14.32" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t14.33" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t14.34" form="antigos" lemma="antigo" tag="AQ0MP00" wn="00669138-a" >
+  </token>
+  <token id="t14.35" form="magistrados" lemma="magistrado" tag="NCMP000" wn="10225219-n" >
+  </token>
+  <token id="t14.36" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.37" form="raro" lemma="raro" tag="AQ0MS00" wn="00593374-a" >
+  </token>
+  <token id="t14.38" form="será" lemma="ser" tag="VMIF3S0" wn="02604760-v" >
+  </token>
+  <token id="t14.39" form="aqui" lemma="aqui" tag="RG" wn="00108647-r" >
+  </token>
+  <token id="t14.40" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t14.41" form="Senador" lemma="senador" tag="NP00000" wn="10578471-n" >
+  </token>
+  <token id="t14.42" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t14.43" form="não" lemma="não" tag="RN" wn="00118531-r" >
+  </token>
+  <token id="t14.44" form="deva" lemma="dever" tag="VMSP3S0" wn="02254155-v" >
+  </token>
+  <token id="t14.45" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t14.46" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t14.47" form="minha" lemma="meu" tag="DP1FSS" >
+  </token>
+  <token id="t14.48" form="confiança" lemma="confiança" tag="NCFS000" wn="05697976-n" >
+  </token>
+  <token id="t14.49" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t14.50" form="honra" lemma="honra" tag="NCFS000" wn="14436875-n" >
+  </token>
+  <token id="t14.51" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t14.52" form="essa" lemma="esse" tag="DD0FS0" >
+  </token>
+  <token id="t14.53" form="escolha" lemma="escolha" tag="NCFS000" wn="00161243-n" >
+  </token>
+  <token id="t14.54" form="confiada" lemma="confiar" tag="VMP00SF" >
+  </token>
+  <token id="t14.55" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t14.56" form="Senadores" lemma="senadores" tag="NP00000" >
+  </token>
+  <token id="t14.57" form="consulares" lemma="consular" tag="AQ0CP00" >
+  </token>
+  <token id="t14.58" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.59" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t14.60" form="Senadores" lemma="senadores" tag="NP00000" >
+  </token>
+  <token id="t14.61" form="pretorianos" lemma="pretoriano" tag="AQ0MP00" wn="03101818-a" >
+  </token>
+  <token id="t14.62" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.63" form="segundo" lemma="segundo" tag="SP" >
+  </token>
+  <token id="t14.64" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t14.65" form="magistraturas" lemma="magistratura" tag="NCFP000" wn="00594738-n" >
+  </token>
+  <token id="t14.66" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.67" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t14.68" form="cargos" lemma="cargo" tag="NCMP000" wn="00586262-n" >
+  </token>
+  <token id="t14.69" form="curuis" lemma="curul" tag="AQ0CP00" >
+  </token>
+  <token id="t14.70" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t14.71" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t14.72" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t14.73" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t14.74" form="dignificaram" lemma="dignificar" tag="VMIS3P0" wn="02546876-v" >
+  </token>
+  <token id="t14.75" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="15">
+  <token id="t15.1" form="E" lemma="e" tag="CC" >
+  </token>
+  <token id="t15.2" form="tendo" lemma="ter" tag="VMG0000" wn="00065639-v" >
+  </token>
+  <token id="t15.3" form="eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t15.4" form="exercido" lemma="exercer" tag="VMP00SM" wn="02568672-v" >
+  </token>
+  <token id="t15.5" form="este" lemma="este" tag="DD0MS0" >
+  </token>
+  <token id="t15.6" form="direito" lemma="direito" tag="NCMS000" >
+  </token>
+  <token id="t15.7" form="supremo" lemma="supremo" tag="AQ0MS00" wn="00792641-a" >
+  </token>
+  <token id="t15.8" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t15.9" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t15.10" form="Censores" lemma="censores" tag="NP00000" >
+  </token>
+  <token id="t15.11" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t15.12" form="compete" lemma="competir" tag="VMIP3S0" >
+  </token>
+  <token id="t15.13" form="nos" lemma="nos" tag="PP1CP00" >
+  </token>
+  <token id="t15.14" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t15.15" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t15.16" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t15.17" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t15.18" form="é" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t15.19" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t15.20" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t15.21" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t15.22" form="exclusão" lemma="exclusão" tag="NCFS000" wn="05707269-n" >
+  </token>
+  <token id="t15.23" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t15.24" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t15.25" form="indignos" lemma="indigno" tag="AQ0MP00" wn="02588099-a" >
+  </token>
+  <token id="t15.26" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t15.27" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t15.28" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t15.29" form="..." lemma="..." tag="Fs" >
+  </token>
+  <token id="t15.30" form="Sentiu" lemma="sentir" tag="VMIS3S0" >
+  </token>
+  <token id="t15.31" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t15.32" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t15.33" form="vago" lemma="vago" tag="AQ0MS00" wn="01088164-a" >
+  </token>
+  <token id="t15.34" form="rumor" lemma="rumor" tag="NCMS000" wn="07223450-n" >
+  </token>
+  <token id="t15.35" form="entre" lemma="entre" tag="SP" >
+  </token>
+  <token id="t15.36" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t15.37" form="trezentos" lemma="300" tag="Z" >
+  </token>
+  <token id="t15.38" form="membros" lemma="membro" tag="NCMP000" wn="10307234-n" >
+  </token>
+  <token id="t15.39" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t15.40" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t15.41" form="assembleia" lemma="assembleia" tag="NCFS000" wn="08402222-n" >
+  </token>
+  <token id="t15.42" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t15.43" form="Catão" lemma="catão" tag="NP00000" >
+  </token>
+  <token id="t15.44" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t15.45" form="quase" lemma="quase" tag="RG" wn="00073033-r" >
+  </token>
+  <token id="t15.46" form="sem" lemma="sem" tag="SP" >
+  </token>
+  <token id="t15.47" form="notar" lemma="notar" tag="VMN0000" wn="01020005-v" >
+  </token>
+  <token id="t15.48" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t15.49" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t15.50" form="seu" lemma="seu" tag="DP3MSS" >
+  </token>
+  <token id="t15.51" form="longo" lemma="longo" tag="NCMS000" >
+  </token>
+  <token id="t15.52" form="exordio" lemma="exordiar" tag="VMIP1S0" >
+  </token>
+  <token id="t15.53" form="já" lemma="já" tag="RG" wn="00033922-r" >
+  </token>
+  <token id="t15.54" form="fatigava" lemma="fatigar" tag="VMII3S0" wn="01821884-v" >
+  </token>
+  <token id="t15.55" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t15.56" form="atenção" lemma="atenção" tag="NCFS000" wn="05650579-n" >
+  </token>
+  <token id="t15.57" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t15.58" form="prosseguiu" lemma="prosseguir" tag="VMIS3S0" wn="01995549-v" >
+  </token>
+  <token id="t15.59" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t15.60" form="—" lemma="—" tag="Fz" >
+  </token>
+  <token id="t15.61" form="É" lemma="é" tag="NP00000" wn="06831605-n" >
+  </token>
+  <token id="t15.62" form="esse" lemma="esse" tag="DD0MS0" >
+  </token>
+  <token id="t15.63" form="direito" lemma="direito" tag="NCMS000" >
+  </token>
+  <token id="t15.64" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t15.65" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t15.66" form="hoje" lemma="hoje" tag="RG" wn="00207366-r" >
+  </token>
+  <token id="t15.67" form="me" lemma="me" tag="PP1CS00" >
+  </token>
+  <token id="t15.68" form="traz" lemma="trazer" tag="VMIP3S0" wn="02079933-v" >
+  </token>
+  <token id="t15.69" form="aqui" lemma="aqui" tag="RG" wn="00108647-r" >
+  </token>
+  <token id="t15.70" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t15.71" form="apoiado" lemma="apoiar" tag="VMP00SM" wn="02556126-v" >
+  </token>
+  <token id="t15.72" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t15.73" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t15.74" form="própria" lemma="próprio" tag="AQ0FS00" wn="01104026-a" >
+  </token>
+  <token id="t15.75" form="consciência" lemma="consciência" tag="NCFS000" wn="05675905-n" >
+  </token>
+  <token id="t15.76" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t15.77" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t15.78" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t15.79" form="meu" lemma="meu" tag="DP1MSS" >
+  </token>
+  <token id="t15.80" form="juramento" lemma="juramento" tag="NCMS000" wn="06684572-n" >
+  </token>
+  <token id="t15.81" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="16">
+  <token id="t16.1" form="Eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t16.2" form="bem" lemma="bem" tag="RG" wn="00053152-r" >
+  </token>
+  <token id="t16.3" form="sei" lemma="saber" tag="VMIP1S0" wn="00594621-v" >
+  </token>
+  <token id="t16.4" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t16.5" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t16.6" form="atribuições" lemma="atribuição" tag="NCFP000" wn="13285176-n" >
+  </token>
+  <token id="t16.7" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t16.8" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t16.9" form="Censores" lemma="censores" tag="NP00000" >
+  </token>
+  <token id="t16.10" form="são" lemma="ser" tag="VMIP3P0" wn="02604760-v" >
+  </token>
+  <token id="t16.11" form="constantemente" lemma="constante" tag="RG" >
+  </token>
+  <token id="t16.12" form="diminuídas" lemma="diminuir" tag="VMP00PF" wn="00151689-v" >
+  </token>
+  <token id="t16.13" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t16.14" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t16.15" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t16.16" form="virá" lemma="vir" tag="VMIF3S0" wn="01849221-v" >
+  </token>
+  <token id="t16.17" form="tempo" lemma="tempo" tag="NCMS000" wn="15113229-n" >
+  </token>
+  <token id="t16.18" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t16.19" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t16.20" form="desaparecendo" lemma="desaparecer" tag="VMG0000" wn="00426958-v" >
+  </token>
+  <token id="t16.21" form="esta" lemma="este" tag="DD0FS0" >
+  </token>
+  <token id="t16.22" form="magistratura" lemma="magistratura" tag="NCFS000" wn="00594738-n" >
+  </token>
+  <token id="t16.23" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t16.24" form="irromperão" lemma="irromper" tag="VMIF3P0" wn="00424224-v" >
+  </token>
+  <token id="t16.25" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t16.26" form="guerras" lemma="guerra" tag="NCFP000" wn="00973077-n" >
+  </token>
+  <token id="t16.27" form="civis" lemma="civil" tag="AQ0CP00" wn="01517921-a" >
+  </token>
+  <token id="t16.28" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="17">
+  <token id="t17.1" form="Deixemos" lemma="deixar" tag="VMSP1P0" wn="00120316-v" >
+  </token>
+  <token id="t17.2" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t17.3" form="futuro" lemma="futuro" tag="NCMS000" wn="15121625-n" >
+  </token>
+  <token id="t17.4" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t17.5" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t17.6" form="perdoai" lemma="perdoar" tag="VMIP2P0" wn="00903385-v" >
+  </token>
+  <token id="t17.7" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t17.8" form="digressões" lemma="digressão" tag="NCFP000" wn="00350380-n" >
+  </token>
+  <token id="t17.9" form="próprias" lemma="próprio" tag="AQ0FP00" wn="01104026-a" >
+  </token>
+  <token id="t17.10" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t17.11" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t17.12" form="provecta" lemma="provecto" tag="AQ0FS00" >
+  </token>
+  <token id="t17.13" form="idade" lemma="idade" tag="NCFS000" wn="15153787-n" >
+  </token>
+  <token id="t17.14" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="18">
+  <token id="t18.1" form="Em" lemma="em" tag="SP" >
+  </token>
+  <token id="t18.2" form="gravíssimas" lemma="grave" tag="AQSFP00" wn="00651039-a" >
+  </token>
+  <token id="t18.3" form="circunstancias" lemma="circunstancias" tag="NCFP000" >
+  </token>
+  <token id="t18.4" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t18.5" form="sabidas" lemma="saber" tag="VMP00PF" wn="00594621-v" >
+  </token>
+  <token id="t18.6" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t18.7" form="nós" lemma="nós" tag="PP1CP00" >
+  </token>
+  <token id="t18.8" form="todos" lemma="todo" tag="DI0MP0" >
+  </token>
+  <token id="t18.9" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t18.10" form="foi" lemma="ir" tag="VMIS3S0" wn="01835496-v" >
+  </token>
+  <token id="t18.11" form="Servio_Sulpicio_Galba" lemma="servio_sulpicio_galba" tag="NP00000" >
+  </token>
+  <token id="t18.12" form="mandado" lemma="mandar" tag="VMP00SM" wn="01031256-v" >
+  </token>
+  <token id="t18.13" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t18.14" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t18.15" form="Hispânia" lemma="hispânia" tag="NP00000" >
+  </token>
+  <token id="t18.16" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t18.17" form="Pretor" lemma="pretor" tag="NP00000" wn="10463028-n" >
+  </token>
+  <token id="t18.18" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="19">
+  <token id="t19.1" form="E" lemma="e" tag="CC" >
+  </token>
+  <token id="t19.2" form="se" lemma="se" tag="CS" >
+  </token>
+  <token id="t19.3" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t19.4" form="situação" lemma="situação" tag="NCFS000" wn="00024720-n" >
+  </token>
+  <token id="t19.5" form="difícil" lemma="difícil" tag="AQ0CS00" wn="00744916-a" >
+  </token>
+  <token id="t19.6" form="reclamava" lemma="reclamar" tag="VMII3S0" wn="00907147-v" >
+  </token>
+  <token id="t19.7" form="todas_as" lemma="todas_as" tag="PI0FP00" >
+  </token>
+  <token id="t19.8" form="virtudes" lemma="virtude" tag="NCFP000" wn="04846770-n" >
+  </token>
+  <token id="t19.9" form="militares" lemma="militar" tag="AQ0CP00" >
+  </token>
+  <token id="t19.10" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t19.11" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t19.12" form="majestade" lemma="majestade" tag="NCFS000" wn="04729984-n" >
+  </token>
+  <token id="t19.13" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t19.14" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t19.15" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t19.16" form="manter" lemma="manter" tag="VMN0000" wn="00117985-v" >
+  </token>
+  <token id="t19.17" form="ilesa" lemma="ileso" tag="AQ0FS00" wn="01319712-a" >
+  </token>
+  <token id="t19.18" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t19.19" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t19.20" form="necessário" lemma="necessário" tag="AQ0MS00" wn="01580050-a" >
+  </token>
+  <token id="t19.21" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t19.22" form="o" lemma="o" tag="PP3MSA0" >
+  </token>
+  <token id="t19.23" form="espirito" lemma="espiritar" tag="VMIP1S0" >
+  </token>
+  <token id="t19.24" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t19.25" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t19.26" form="inteligente" lemma="inteligente" tag="NCMS000" >
+  </token>
+  <token id="t19.27" form="politica" lemma="politicar" tag="VMIP3S0" >
+  </token>
+  <token id="t19.28" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t19.29" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t19.30" form="perpetuar" lemma="perpetuar" tag="VMN0000" wn="02648253-v" >
+  </token>
+  <token id="t19.31" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t19.32" form="bons" lemma="bom" tag="AQ0MP00" wn="01123148-a" >
+  </token>
+  <token id="t19.33" form="tratados" lemma="tratado" tag="NCMP000" wn="06773434-n" >
+  </token>
+  <token id="t19.34" form="o" lemma="o" tag="PD0MS00" >
+  </token>
+  <token id="t19.35" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t19.36" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t19.37" form="espada" lemma="espada" tag="NCFS000" wn="04373894-n" >
+  </token>
+  <token id="t19.38" form="nem" lemma="nem" tag="CC" >
+  </token>
+  <token id="t19.39" form="sempre" lemma="sempre" tag="RG" wn="00088931-r" >
+  </token>
+  <token id="t19.40" form="conseguiu" lemma="conseguir" tag="VMIS3S0" wn="02524171-v" >
+  </token>
+  <token id="t19.41" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="20">
+  <token id="t20.1" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t20.2" form="deu" lemma="dar" tag="VMIS3S0" wn="00056930-v" >
+  </token>
+  <token id="t20.3" form="primeiramente" lemma="primeiramente" tag="RG" wn="00103194-r" >
+  </token>
+  <token id="t20.4" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t20.5" form="prova" lemma="prova" tag="NCFS000" wn="06733939-n" >
+  </token>
+  <token id="t20.6" form="deplorável" lemma="deplorável" tag="AQ0CS00" wn="01126841-a" >
+  </token>
+  <token id="t20.7" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t20.8" form="militar" lemma="militar" tag="NCCS000" wn="08199025-n" >
+  </token>
+  <token id="t20.9" form="incompleto" lemma="incompleto" tag="AQ0MS00" wn="00523978-a" >
+  </token>
+  <token id="t20.10" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t20.11" form="quando" lemma="quando" tag="RG" >
+  </token>
+  <token id="t20.12" form="invadindo" lemma="invadir" tag="VMG0000" wn="01126360-v" >
+  </token>
+  <token id="t20.13" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t20.14" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t20.15" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t20.16" form="perdeu" lemma="perder" tag="VMIS3S0" wn="02287618-v" >
+  </token>
+  <token id="t20.17" form="sete_mil_e_quinhentos" lemma="7500" tag="Z" >
+  </token>
+  <token id="t20.18" form="legionários" lemma="legionário" tag="NCMP000" wn="10253703-n" >
+  </token>
+  <token id="t20.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t20.20" form="indo" lemma="ir" tag="VMG0000" wn="01835496-v" >
+  </token>
+  <token id="t20.21" form="refugiar" lemma="refugiar" tag="VMN03S0" >
+  </token>
+  <token id="t20.22" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t20.23" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t20.24" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t20.25" form="situação" lemma="situação" tag="NCFS000" wn="00024720-n" >
+  </token>
+  <token id="t20.26" form="ignóbil" lemma="ignóbil" tag="AQ0CS00" >
+  </token>
+  <token id="t20.27" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t20.28" form="Carmona" lemma="carmona" tag="NP00000" >
+  </token>
+  <token id="t20.29" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="21">
+  <token id="t21.1" form="Destemido" lemma="destemer" tag="VMP00SM" wn="00081671-a" >
+  </token>
+  <token id="t21.2" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t21.3" form="mas" lemma="mas" tag="CC" >
+  </token>
+  <token id="t21.4" form="inconsiderado" lemma="inconsiderado" tag="AQ0MS00" wn="00639356-a" >
+  </token>
+  <token id="t21.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t21.6" form="é" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t21.7" form="este" lemma="este" tag="DD0MS0" >
+  </token>
+  <token id="t21.8" form="homem" lemma="homem" tag="NCMS000" wn="10287213-n" >
+  </token>
+  <token id="t21.9" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t21.10" form="isso" lemma="isso" tag="PD0NN00" >
+  </token>
+  <token id="t21.11" form="perigoso" lemma="perigoso" tag="AQ0MS00" wn="02058794-a" >
+  </token>
+  <token id="t21.12" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t21.13" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t21.14" form="Republica" lemma="republica" tag="NP00000" >
+  </token>
+  <token id="t21.15" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="22">
+  <token id="t22.1" form="E" lemma="e" tag="CC" >
+  </token>
+  <token id="t22.2" form="ainda" lemma="ainda" tag="RG" wn="00047534-r" >
+  </token>
+  <token id="t22.3" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t22.4" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t22.5" form="é" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t22.6" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t22.7" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t22.8" form="carater" lemma="carater" tag="VMN0000" >
+  </token>
+  <token id="t22.9" form="falso" lemma="falso" tag="AQ0MS00" wn="02461723-a" >
+  </token>
+  <token id="t22.10" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t22.11" form="violando" lemma="violar" tag="VMG0000" wn="01120069-v" >
+  </token>
+  <token id="t22.12" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t22.13" form="decoro" lemma="decoro" tag="NCMS000" wn="04900739-n" >
+  </token>
+  <token id="t22.14" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t22.15" form="palavra" lemma="palavra" tag="NCFS000" wn="06286395-n" >
+  </token>
+  <token id="t22.16" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t22.17" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t22.18" form="Tribuno" lemma="tribuno" tag="NP00000" >
+  </token>
+  <token id="t22.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t22.20" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t22.21" form="vale" lemma="valer" tag="VMIP3S0" wn="02646378-v" >
+  </token>
+  <token id="t22.22" form="tanto" lemma="tanto" tag="RG" wn="00023074-r" >
+  </token>
+  <token id="t22.23" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t22.24" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t22.25" form="tratado" lemma="tratado" tag="NCMS000" wn="06773434-n" >
+  </token>
+  <token id="t22.26" form="escrito" lemma="escrever" tag="VMP00SM" wn="02284578-a" >
+  </token>
+  <token id="t22.27" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t22.28" form="rebaixando" lemma="rebaixar" tag="VMG0000" wn="01799794-v" >
+  </token>
+  <token id="t22.29" form="perante" lemma="perante" tag="SP" >
+  </token>
+  <token id="t22.30" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t22.31" form="mundo" lemma="mundo" tag="NCMS000" wn="08179689-n" >
+  </token>
+  <token id="t22.32" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t22.33" form="poder" lemma="poder" tag="NCMS000" wn="05194578-n" >
+  </token>
+  <token id="t22.34" form="romano" lemma="romano" tag="AQ0MS00" wn="02921569-a" >
+  </token>
+  <token id="t22.35" form="sempre" lemma="sempre" tag="RG" wn="00088931-r" >
+  </token>
+  <token id="t22.36" form="inquebrantável" lemma="inquebrantável" tag="AQ0CS00" wn="00583581-a" >
+  </token>
+  <token id="t22.37" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t22.38" form="quando" lemma="quando" tag="RG" >
+  </token>
+  <token id="t22.39" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t22.40" form="trata" lemma="tratar" tag="VMIP3S0" wn="00078760-v" >
+  </token>
+  <token id="t22.41" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t22.42" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t22.43" form="dever" lemma="dever" tag="NCMS000" wn="01129920-n" >
+  </token>
+  <token id="t22.44" form="moral" lemma="moral" tag="AQ0CS00" wn="01548193-a" >
+  </token>
+  <token id="t22.45" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="23">
+  <token id="t23.1" form="É" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t23.2" form="certo" lemma="certo" tag="AQ0MS00" wn="00914421-a" >
+  </token>
+  <token id="t23.3" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t23.4" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t23.5" form="trinta_e_seis" lemma="36" tag="Z" >
+  </token>
+  <token id="t23.6" form="cidades" lemma="cidade" tag="NCFP000" wn="08524735-n" >
+  </token>
+  <token id="t23.7" form="tributárias" lemma="tributário" tag="AQ0FP00" wn="02847894-a" >
+  </token>
+  <token id="t23.8" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t23.9" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t23.10" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t23.11" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t23.12" form="sempre" lemma="sempre" tag="RG" wn="00088931-r" >
+  </token>
+  <token id="t23.13" form="irrequietas" lemma="irrequieto" tag="AQ0FP00" >
+  </token>
+  <token id="t23.14" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t23.15" form="lutando" lemma="lutar" tag="VMG0000" wn="01092366-v" >
+  </token>
+  <token id="t23.16" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t23.17" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t23.18" form="sua" lemma="seu" tag="DP3FSS" >
+  </token>
+  <token id="t23.19" form="autonomia" lemma="autonomia" tag="NCFS000" wn="14001031-n" >
+  </token>
+  <token id="t23.20" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t23.21" form="independência" lemma="independência" tag="NCFS000" wn="14001031-n" >
+  </token>
+  <token id="t23.22" form="local" lemma="local" tag="AQ0CS00" wn="01425529-a" >
+  </token>
+  <token id="t23.23" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t23.24" form="também" lemma="também" tag="RG" wn="00047534-r" >
+  </token>
+  <token id="t23.25" form="violaram" lemma="violar" tag="VMIS3P0" wn="01120069-v" >
+  </token>
+  <token id="t23.26" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t23.27" form="tratado" lemma="tratado" tag="NCMS000" wn="06773434-n" >
+  </token>
+  <token id="t23.28" form="concluído" lemma="concluir" tag="VMP00SM" wn="00634472-v" >
+  </token>
+  <token id="t23.29" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t23.30" form="Atílio" lemma="atílio" tag="NP00000" >
+  </token>
+  <token id="t23.31" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t23.32" form="infestando" lemma="infestar" tag="VMG0000" wn="02654585-v" >
+  </token>
+  <token id="t23.33" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t23.34" form="Colonias" lemma="colonias" tag="NP00000" >
+  </token>
+  <token id="t23.35" form="romanas" lemma="romano" tag="AQ0FP00" wn="02921569-a" >
+  </token>
+  <token id="t23.36" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t23.37" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t23.38" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t23.39" form="Cidades" lemma="cidades" tag="NP00000" wn="08524735-n" >
+  </token>
+  <token id="t23.40" form="federadas" lemma="federar" tag="VMP00PF" >
+  </token>
+  <token id="t23.41" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t23.42" form="imunes" lemma="imune" tag="AQ0CP00" wn="02363614-a" >
+  </token>
+  <token id="t23.43" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t23.44" form="favorecidas" lemma="favorecer" tag="VMP00PF" wn="00692143-v" >
+  </token>
+  <token id="t23.45" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t23.46" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t23.47" form="regímen" lemma="regime" tag="NCMS000" wn="05909585-n" >
+  </token>
+  <token id="t23.48" form="municipal" lemma="municipal" tag="AQ0CS00" wn="02697452-a" >
+  </token>
+  <token id="t23.49" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="24">
+  <token id="t24.1" form="Em" lemma="em" tag="SP" >
+  </token>
+  <token id="t24.2" form="esta" lemma="este" tag="DD0FS0" >
+  </token>
+  <token id="t24.3" form="angústia" lemma="angústia" tag="NCFS000" wn="07494363-n" >
+  </token>
+  <token id="t24.4" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t24.5" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t24.6" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t24.7" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t24.8" form="tinha" lemma="ter" tag="VMII1S0" wn="00065639-v" >
+  </token>
+  <token id="t24.9" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t24.10" form="impor" lemma="impor" tag="VMN0000" wn="02560424-v" >
+  </token>
+  <token id="t24.11" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t24.12" form="sua" lemma="seu" tag="DP3FSS" >
+  </token>
+  <token id="t24.13" form="autoridade" lemma="autoridade" tag="NCFS000" wn="09824609-n" >
+  </token>
+  <token id="t24.14" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t24.15" form="bem" lemma="bem" tag="RG" wn="00053152-r" >
+  </token>
+  <token id="t24.16" form="compreendera" lemma="compreender" tag="VMIM1S0" wn="00588888-v" >
+  </token>
+  <token id="t24.17" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t24.18" form="já" lemma="já" tag="RG" wn="00033922-r" >
+  </token>
+  <token id="t24.19" form="não" lemma="não" tag="RN" wn="00118531-r" >
+  </token>
+  <token id="t24.20" form="devia" lemma="dever" tag="VMII3S0" wn="02254155-v" >
+  </token>
+  <token id="t24.21" form="empregar" lemma="empregar" tag="VMN0000" wn="01166093-v" >
+  </token>
+  <token id="t24.22" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t24.23" form="sistema" lemma="sistema" tag="NCMS000" wn="05726596-n" >
+  </token>
+  <token id="t24.24" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t24.25" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t24.26" form="devastação" lemma="devastação" tag="NCFS000" wn="00217014-n" >
+  </token>
+  <token id="t24.27" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t24.28" form="mas" lemma="mas" tag="CC" >
+  </token>
+  <token id="t24.29" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t24.30" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t24.31" form="desgraçadamente" lemma="desgraçado" tag="RG" >
+  </token>
+  <token id="t24.32" form="não" lemma="não" tag="RN" wn="00118531-r" >
+  </token>
+  <token id="t24.33" form="compreendeu" lemma="compreender" tag="VMIS3S0" wn="00588888-v" >
+  </token>
+  <token id="t24.34" form="este" lemma="este" tag="DD0MS0" >
+  </token>
+  <token id="t24.35" form="pensamento" lemma="pensamento" tag="NCMS000" wn="05833840-n" >
+  </token>
+  <token id="t24.36" form="governativo" lemma="governativo" tag="AQ0MS00" >
+  </token>
+  <token id="t24.37" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="25">
+  <token id="t25.1" form="Mandado" lemma="mandar" tag="VMP00SM" wn="01031256-v" >
+  </token>
+  <token id="t25.2" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t25.3" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t25.4" form="Hispânia" lemma="hispânia" tag="NP00000" >
+  </token>
+  <token id="t25.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t25.6" form="aí" lemma="aí" tag="RG" wn="00082308-r" >
+  </token>
+  <token id="t25.7" form="chegou" lemma="chegar" tag="VMIS3S0" wn="00634472-v" >
+  </token>
+  <token id="t25.8" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t25.9" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t25.10" form="exército" lemma="exército" tag="NCMS000" wn="08199025-n" >
+  </token>
+  <token id="t25.11" form="cansado" lemma="cansar" tag="VMP00SM" wn="01821884-v" >
+  </token>
+  <token id="t25.12" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t25.13" form="exausto" lemma="exausto" tag="AQ0MS00" wn="00926141-a" >
+  </token>
+  <token id="t25.14" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t25.15" form="em_vez_de" lemma="em_vez_de" tag="SP" >
+  </token>
+  <token id="t25.16" form="limitar" lemma="limitar" tag="VMN03S0" >
+  </token>
+  <token id="t25.17" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t25.18" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t25.19" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t25.20" form="defesa" lemma="defesa" tag="NCFS000" wn="00954311-n" >
+  </token>
+  <token id="t25.21" form="imediata" lemma="imediato" tag="AQ0FS00" wn="00770316-a" >
+  </token>
+  <token id="t25.22" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t25.23" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t25.24" form="súbditos" lemma="súbdito" tag="NCMP000" >
+  </token>
+  <token id="t25.25" form="romanos" lemma="romano" tag="AQ0MP00" wn="02921569-a" >
+  </token>
+  <token id="t25.26" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t25.27" form="encetou" lemma="encetar" tag="VMIS3S0" >
+  </token>
+  <token id="t25.28" form="logo" lemma="logo" tag="RG" wn="00061203-r" >
+  </token>
+  <token id="t25.29" form="combates" lemma="combate" tag="NCMP000" wn="00953559-n" >
+  </token>
+  <token id="t25.30" form="contra" lemma="contra" tag="SP" >
+  </token>
+  <token id="t25.31" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t25.32" form="tribos" lemma="tribo" tag="NCFP000" wn="07969695-n" >
+  </token>
+  <token id="t25.33" form="lusitanas" lemma="lusitano" tag="AQ0FP00" wn="02958844-a" >
+  </token>
+  <token id="t25.34" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t25.35" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t25.36" form="nas" lemma="o" tag="PP3FPA0" >
+  </token>
+  <token id="t25.37" form="suas" lemma="seu" tag="DP3FSP" >
+  </token>
+  <token id="t25.38" form="embocadas" lemma="embocar" tag="VMP00PF" >
+  </token>
+  <token id="t25.39" form="contínuas" lemma="contínuo" tag="NCFP000" >
+  </token>
+  <token id="t25.40" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t25.41" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t25.42" form="assaltos" lemma="assalto" tag="NCFP000" wn="00781685-n" >
+  </token>
+  <token id="t25.43" form="repentinos" lemma="repentino" tag="AQ0MP00" wn="01143279-a" >
+  </token>
+  <token id="t25.44" form="o" lemma="o" tag="PP3MSA0" >
+  </token>
+  <token id="t25.45" form="foram" lemma="ir" tag="VMIS3P0" wn="01835496-v" >
+  </token>
+  <token id="t25.46" form="estafando" lemma="estafar" tag="VMG0000" wn="02573275-v" >
+  </token>
+  <token id="t25.47" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t25.48" form="enfraquecendo" lemma="enfraquecer" tag="VMG0000" wn="00224901-v" >
+  </token>
+  <token id="t25.49" form="até" lemma="até" tag="SP" >
+  </token>
+  <token id="t25.50" form="encontrarem" lemma="encontrar" tag="VMN03P0" wn="02285629-v" >
+  </token>
+  <token id="t25.51" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t25.52" form="momento" lemma="momento" tag="NCMS000" wn="15122231-n" >
+  </token>
+  <token id="t25.53" form="azado" lemma="azado" tag="AQ0MS00" >
+  </token>
+  <token id="t25.54" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t25.55" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t25.56" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t25.57" form="atreveram" lemma="atrever" tag="VMIS3P0" wn="02545045-v" >
+  </token>
+  <token id="t25.58" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t25.59" form="dar" lemma="dar" tag="VMN0000" >
+  </token>
+  <token id="t25.60" form="lhe" lemma="lhe" tag="PP3CSD0" >
+  </token>
+  <token id="t25.61" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t25.62" form="batalha" lemma="batalha" tag="NCFS000" wn="00953559-n" >
+  </token>
+  <token id="t25.63" form="campal" lemma="campal" tag="AQ0CS00" >
+  </token>
+  <token id="t25.64" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t25.65" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t25.66" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t25.67" form="ficaram" lemma="ficar" tag="VMIS3P0" wn="01857392-v" >
+  </token>
+  <token id="t25.68" form="trucidados" lemma="trucidar" tag="VMP00PM" wn="01322854-v" >
+  </token>
+  <token id="t25.69" form="sete_mil" lemma="7000" tag="Z" >
+  </token>
+  <token id="t25.70" form="legionários" lemma="legionário" tag="NCMP000" wn="10253703-n" >
+  </token>
+  <token id="t25.71" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="26">
+  <token id="t26.1" form="Os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t26.2" form="corajosos" lemma="corajoso" tag="AQ0MP00" wn="00262792-a" >
+  </token>
+  <token id="t26.3" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t26.4" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t26.5" form="ficaram" lemma="ficar" tag="VMIS3P0" wn="01857392-v" >
+  </token>
+  <token id="t26.6" form="diminuídos" lemma="diminuir" tag="VMP00PM" wn="00151689-v" >
+  </token>
+  <token id="t26.7" form="perante" lemma="perante" tag="SP" >
+  </token>
+  <token id="t26.8" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t26.9" form="estupenda" lemma="estupendo" tag="AQ0FS00" >
+  </token>
+  <token id="t26.10" form="calamidade" lemma="calamidade" tag="NCFS000" wn="07314838-n" >
+  </token>
+  <token id="t26.11" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t26.12" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t26.13" form="teve" lemma="ter" tag="VMIS3S0" wn="00065639-v" >
+  </token>
+  <token id="t26.14" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t26.15" form="colocar" lemma="colocar" tag="VMN03S0" >
+  </token>
+  <token id="t26.16" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t26.17" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t26.18" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t26.19" form="defensiva" lemma="defensivo" tag="AQ0FS00" wn="01632066-a" >
+  </token>
+  <token id="t26.20" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t26.21" form="aproveitando" lemma="aproveitar" tag="VMG0000" wn="01162754-v" >
+  </token>
+  <token id="t26.22" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t26.23" form="época" lemma="época" tag="NCFS000" wn="15122231-n" >
+  </token>
+  <token id="t26.24" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t26.25" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t26.26" form="grandes" lemma="grande" tag="AQ0CP00" wn="01382086-a" >
+  </token>
+  <token id="t26.27" form="invernias" lemma="invernia" tag="NCFP000" >
+  </token>
+  <token id="t26.28" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t26.29" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t26.30" form="fechar" lemma="fechar" tag="VMN0000" wn="01345109-v" >
+  </token>
+  <token id="t26.31" form="cautelosamente" lemma="cauteloso" tag="RG" >
+  </token>
+  <token id="t26.32" form="nos" lemma="nos" tag="PP1CP00" >
+  </token>
+  <token id="t26.33" form="quarteis" lemma="quartar" tag="VMSP2P0" >
+  </token>
+  <token id="t26.34" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t26.35" form="Conistorgis" lemma="conistorgis" tag="NP00000" >
+  </token>
+  <token id="t26.36" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="27">
+  <token id="t27.1" form="As" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t27.2" form="Aguias" lemma="aguias" tag="NP00000" >
+  </token>
+  <token id="t27.3" form="romanas" lemma="romano" tag="AQ0FP00" wn="02921569-a" >
+  </token>
+  <token id="t27.4" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t27.5" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t27.6" form="bem" lemma="bem" tag="RG" wn="00053152-r" >
+  </token>
+  <token id="t27.7" form="diria" lemma="dizer" tag="VMIC1S0" wn="00963570-v" >
+  </token>
+  <token id="t27.8" form="aí" lemma="aí" tag="RG" wn="00082308-r" >
+  </token>
+  <token id="t27.9" form="qualquer" lemma="qualquer" tag="DI0CS0" >
+  </token>
+  <token id="t27.10" form="poeta" lemma="poeta" tag="NCMS000" wn="10444194-n" >
+  </token>
+  <token id="t27.11" form="satírico" lemma="satírico" tag="AQ0MS00" wn="02080110-a" >
+  </token>
+  <token id="t27.12" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t27.13" form="estavam" lemma="estar" tag="VMII3P0" wn="02604760-v" >
+  </token>
+  <token id="t27.14" form="fechadas" lemma="fechar" tag="VMP00PF" wn="01345109-v" >
+  </token>
+  <token id="t27.15" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t27.16" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t27.17" form="capoeira" lemma="capoeira" tag="NCFS000" wn="03016389-n" >
+  </token>
+  <token id="t27.18" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="28">
+  <token id="t28.1" form="O" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t28.2" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t28.3" form="permaneceu" lemma="permanecer" tag="VMIS3S0" wn="01857392-v" >
+  </token>
+  <token id="t28.4" form="imperturbável" lemma="imperturbável" tag="AQ0CS00" >
+  </token>
+  <token id="t28.5" form="diante" lemma="diante" tag="RG" wn="00060632-r" >
+  </token>
+  <token id="t28.6" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t28.7" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t28.8" form="ironia" lemma="ironia" tag="NCFS000" wn="06777164-n" >
+  </token>
+  <token id="t28.9" form="cáustica" lemma="cáustico" tag="AQ0FS00" wn="01802165-a" >
+  </token>
+  <token id="t28.10" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t28.11" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t28.12" form="orador" lemma="orador" tag="NCMS000" wn="10380672-n" >
+  </token>
+  <token id="t28.13" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t28.14" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t28.15" form="continuou" lemma="continuar" tag="VMIS3S0" wn="00117985-v" >
+  </token>
+  <token id="t28.16" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t28.17" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t28.18" form="mesmo" lemma="mesmo" tag="RG" >
+  </token>
+  <token id="t28.19" form="espirito" lemma="espiritar" tag="VMIP1S0" >
+  </token>
+  <token id="t28.20" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t28.21" form="—" lemma="—" tag="Fz" >
+  </token>
+  <token id="t28.22" form="E" lemma="e" tag="NP00000" >
+  </token>
+  <token id="t28.23" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t28.24" form="facto" lemma="facto" tag="NCMS000" wn="05817396-n" >
+  </token>
+  <token id="t28.25" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t28.26" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t28.27" form="durante" lemma="durante" tag="SP" >
+  </token>
+  <token id="t28.28" form="essa" lemma="esse" tag="DD0FS0" >
+  </token>
+  <token id="t28.29" form="inação" lemma="inação" tag="NCFS000" >
+  </token>
+  <token id="t28.30" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t28.31" form="chocava" lemma="chocar" tag="VMII3S0" wn="01239619-v" >
+  </token>
+  <token id="t28.32" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t28.33" form="tremenda" lemma="tremendo" tag="AQ0FS00" wn="01385255-a" >
+  </token>
+  <token id="t28.34" form="infâmia" lemma="infâmia" tag="NCFS000" wn="14441230-n" >
+  </token>
+  <token id="t28.35" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="29">
+  <token id="t29.1" form="Logo" lemma="logo" tag="RG" wn="00061203-r" >
+  </token>
+  <token id="t29.2" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t29.3" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t29.4" form="princípio" lemma="princípio" tag="NCMS000" wn="05872477-n" >
+  </token>
+  <token id="t29.5" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.6" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t29.7" form="primavera" lemma="primavera" tag="NCFS000" wn="15237044-n" >
+  </token>
+  <token id="t29.8" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.9" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t29.10" form="ano" lemma="ano" tag="NCMS000" wn="15203791-n" >
+  </token>
+  <token id="t29.11" form="DCIII" lemma="dciii" tag="NP00000" >
+  </token>
+  <token id="t29.12" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.13" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t29.14" form="fundação" lemma="fundação" tag="NCFS000" wn="00240184-n" >
+  </token>
+  <token id="t29.15" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.16" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t29.17" form="Cidade" lemma="cidade" tag="NP00000" wn="08524735-n" >
+  </token>
+  <token id="t29.18" form="eterna" lemma="eterno" tag="AQ0FS00" wn="01755024-a" >
+  </token>
+  <token id="t29.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t29.20" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t29.21" form="ficará" lemma="ficar" tag="VMIF3S0" wn="01857392-v" >
+  </token>
+  <token id="t29.22" form="afrontosamente" lemma="afrontoso" tag="RG" >
+  </token>
+  <token id="t29.23" form="assinalado" lemma="assinalar" tag="VMP00SM" wn="00924612-v" >
+  </token>
+  <token id="t29.24" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t29.25" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t29.26" form="Fastos_Consulares" lemma="fastos_consulares" tag="NP00000" >
+  </token>
+  <token id="t29.27" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t29.28" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t29.29" form="pôs" lemma="pôr" tag="VMIS3S0" >
+  </token>
+  <token id="t29.30" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t29.31" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t29.32" form="marcha" lemma="marcha" tag="NCFS000" wn="07058296-n" >
+  </token>
+  <token id="t29.33" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t29.34" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t29.35" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t29.36" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t29.37" form="devastando" lemma="devastar" tag="VMG0000" wn="00470701-v" >
+  </token>
+  <token id="t29.38" form="inconsideradamente" lemma="inconsiderado" tag="RG" >
+  </token>
+  <token id="t29.39" form="Cidades" lemma="cidades" tag="NP00000" wn="08524735-n" >
+  </token>
+  <token id="t29.40" form="imunes" lemma="imune" tag="AQ0CP00" wn="02363614-a" >
+  </token>
+  <token id="t29.41" form="ou" lemma="ou" tag="CC" >
+  </token>
+  <token id="t29.42" form="federadas" lemma="federar" tag="VMP00PF" >
+  </token>
+  <token id="t29.43" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t29.44" form="estipendiarias" lemma="estipendiar" tag="VMIC2S0" >
+  </token>
+  <token id="t29.45" form="ou" lemma="ou" tag="CC" >
+  </token>
+  <token id="t29.46" form="contributos" lemma="contributo" tag="NCMP000" wn="01089778-n" >
+  </token>
+  <token id="t29.47" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.48" form="aquela" lemma="aquele" tag="DD0FS0" >
+  </token>
+  <token id="t29.49" form="opulenta" lemma="opulento" tag="AQ0FS00" wn="02026785-a" >
+  </token>
+  <token id="t29.50" form="região" lemma="região" tag="NCFS000" wn="08552138-n" >
+  </token>
+  <token id="t29.51" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t29.52" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.53" form="onde" lemma="onde" tag="RG" >
+  </token>
+  <token id="t29.54" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t29.55" form="tem" lemma="ter" tag="VMIP3S0" wn="00065639-v" >
+  </token>
+  <token id="t29.56" form="haurido" lemma="haurir" tag="VMP00SM" >
+  </token>
+  <token id="t29.57" form="montanhas" lemma="montanha" tag="NCFP000" wn="09359803-n" >
+  </token>
+  <token id="t29.58" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t29.59" form="prata" lemma="prata" tag="NCFS000" wn="14654954-n" >
+  </token>
+  <token id="t29.60" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="30">
+  <token id="t30.1" form="Esses" lemma="esse" tag="DD0MP0" >
+  </token>
+  <token id="t30.2" form="povos" lemma="povo" tag="NCMP000" wn="07942152-n" >
+  </token>
+  <token id="t30.3" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t30.4" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t30.5" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t30.6" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t30.7" form="embora" lemma="embora" tag="CS" >
+  </token>
+  <token id="t30.8" form="tenazes" lemma="tenaz" tag="AQ0CP00" wn="02005756-a" >
+  </token>
+  <token id="t30.9" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t30.10" form="inquebrantáveis" lemma="inquebrantável" tag="AQ0CP00" wn="00583581-a" >
+  </token>
+  <token id="t30.11" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t30.12" form="pelo" lemma="pelar" tag="VMIP1S0" wn="01262936-v" >
+  </token>
+  <token id="t30.13" form="natural" lemma="natural" tag="AQ0CS00" wn="01569965-a" >
+  </token>
+  <token id="t30.14" form="bom" lemma="bom" tag="AQ0MS00" wn="01123148-a" >
+  </token>
+  <token id="t30.15" form="senso" lemma="senso" tag="NCMS000" >
+  </token>
+  <token id="t30.16" form="reconheceram" lemma="reconhecer" tag="VMIS3P0" wn="00618878-v" >
+  </token>
+  <token id="t30.17" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t30.18" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t30.19" form="melhor" lemma="melhor" tag="AQ0CS00" wn="00230335-a" >
+  </token>
+  <token id="t30.20" form="gozarem" lemma="gozar" tag="VMN03P0" wn="01190948-v" >
+  </token>
+  <token id="t30.21" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t30.22" form="privilégios" lemma="privilégio" tag="NCMP000" wn="05158296-n" >
+  </token>
+  <token id="t30.23" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t30.24" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t30.25" form="lhes" lemma="lhe" tag="PP3CPD0" >
+  </token>
+  <token id="t30.26" form="concedia" lemma="conceder" tag="VMII3S0" wn="02308741-v" >
+  </token>
+  <token id="t30.27" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t30.28" form="do_que" lemma="do_que" tag="CS" >
+  </token>
+  <token id="t30.29" form="envolverem" lemma="envolver" tag="VMN03P0" >
+  </token>
+  <token id="t30.30" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t30.31" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t30.32" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t30.33" form="guerra" lemma="guerra" tag="NCFS000" wn="00973077-n" >
+  </token>
+  <token id="t30.34" form="interminável" lemma="interminável" tag="AQ0CS00" wn="01755024-a" >
+  </token>
+  <token id="t30.35" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t30.36" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t30.37" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t30.38" form="certeza" lemma="certeza" tag="NCFS000" wn="05942888-n" >
+  </token>
+  <token id="t30.39" form="visaria" lemma="visar" tag="VMIC3S0" wn="00998182-v" >
+  </token>
+  <token id="t30.40" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t30.41" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t30.42" form="sua" lemma="seu" tag="DP3FSS" >
+  </token>
+  <token id="t30.43" form="destruição" lemma="destruição" tag="NCFS000" wn="00217014-n" >
+  </token>
+  <token id="t30.44" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="31">
+  <token id="t31.1" form="Resolveram" lemma="resolver" tag="VMIS3P0" wn="00208055-v" >
+  </token>
+  <token id="t31.2" form="mandar" lemma="mandar" tag="VMN0000" wn="01031256-v" >
+  </token>
+  <token id="t31.3" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t31.4" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t31.5" form="enviados" lemma="enviar" tag="VMP00PM" wn="01031256-v" >
+  </token>
+  <token id="t31.6" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t31.7" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t31.8" form="declaração" lemma="declaração" tag="NCFS000" wn="06722453-n" >
+  </token>
+  <token id="t31.9" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t31.10" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t31.11" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t31.12" form="confessavam" lemma="confessar" tag="VMII3P0" wn="00818553-v" >
+  </token>
+  <token id="t31.13" form="arrependidos" lemma="arrepender" tag="VMP00PM" >
+  </token>
+  <token id="t31.14" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t31.15" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t31.16" form="revolta" lemma="revolta" tag="NCFS000" wn="00962129-n" >
+  </token>
+  <token id="t31.17" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t31.18" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t31.19" form="tinham" lemma="ter" tag="VMII3P0" wn="00065639-v" >
+  </token>
+  <token id="t31.20" form="sido" lemma="ser" tag="VMP00SM" wn="02604760-v" >
+  </token>
+  <token id="t31.21" form="arrastados" lemma="arrastar" tag="VMP00PM" wn="01453433-v" >
+  </token>
+  <token id="t31.22" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t31.23" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t31.24" form="prontos" lemma="pronto" tag="NCMP000" >
+  </token>
+  <token id="t31.25" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t31.26" form="cumprirem" lemma="cumprir" tag="VMN03P0" wn="01640855-v" >
+  </token>
+  <token id="t31.27" form="integralmente" lemma="integral" tag="RG" >
+  </token>
+  <token id="t31.28" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t31.29" form="tratado" lemma="tratado" tag="NCMS000" wn="06773434-n" >
+  </token>
+  <token id="t31.30" form="firmado" lemma="firmar" tag="VMP00SM" wn="00271946-v" >
+  </token>
+  <token id="t31.31" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t31.32" form="Atílio" lemma="atílio" tag="NP00000" >
+  </token>
+  <token id="t31.33" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="32">
+  <token id="t32.1" form="A" lemma="a" tag="SP" >
+  </token>
+  <token id="t32.2" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t32.3" form="tal" lemma="tal" tag="DI0CS0" >
+  </token>
+  <token id="t32.4" form="proposta" lemma="proposta" tag="NCFS000" wn="07162194-n" >
+  </token>
+  <token id="t32.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t32.6" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t32.7" form="manifestando" lemma="manifestar" tag="VMG0000" >
+  </token>
+  <token id="t32.8" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t32.9" form="benevolente" lemma="benevolente" tag="AQ0CS00" wn="01372948-a" >
+  </token>
+  <token id="t32.10" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t32.11" form="ele" lemma="ele" tag="PP3MS00" >
+  </token>
+  <token id="t32.12" form="mesmo" lemma="mesmo" tag="RG" >
+  </token>
+  <token id="t32.13" form="respondeu" lemma="responder" tag="VMIS3S0" wn="00717358-v" >
+  </token>
+  <token id="t32.14" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t32.15" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t32.16" form="enviados" lemma="enviado" tag="NCMP000" >
+  </token>
+  <token id="t32.17" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t32.18" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t32.19" form="tribos" lemma="tribo" tag="NCFP000" wn="07969695-n" >
+  </token>
+  <token id="t32.20" form="lusitanas" lemma="lusitano" tag="AQ0FP00" wn="02958844-a" >
+  </token>
+  <token id="t32.21" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t32.22" form="«" lemma="«" tag="Fra" >
+  </token>
+  <token id="t32.23" form="Que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t32.24" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t32.25" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t32.26" form="primeiro" lemma="primeiro" tag="NCMS000" >
+  </token>
+  <token id="t32.27" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t32.28" form="reconhecer" lemma="reconhecer" tag="VMN0000" wn="00618878-v" >
+  </token>
+  <token id="t32.29" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t32.30" form="força" lemma="força" tag="NCFS000" wn="00965404-n" >
+  </token>
+  <token id="t32.31" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t32.32" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t32.33" form="circunstâncias" lemma="circunstância" tag="NCFP000" wn="13942875-n" >
+  </token>
+  <token id="t32.34" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t32.35" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t32.36" form="os" lemma="o" tag="PP3MPA0" >
+  </token>
+  <token id="t32.37" form="obrigara" lemma="obrigar" tag="VMIM1S0" wn="02560424-v" >
+  </token>
+  <token id="t32.38" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t32.39" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t32.40" form="tremenda" lemma="tremendo" tag="AQ0FS00" wn="01385255-a" >
+  </token>
+  <token id="t32.41" form="crise" lemma="crise" tag="NCFS000" wn="13933560-n" >
+  </token>
+  <token id="t32.42" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t32.43" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t32.44" form="fome" lemma="fome" tag="NCFS000" wn="07315790-n" >
+  </token>
+  <token id="t32.45" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t32.46" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t32.47" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t32.48" form="miséria" lemma="miséria" tag="NCFS000" wn="14493145-n" >
+  </token>
+  <token id="t32.49" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t32.50" form="quebrantarem" lemma="quebrantar" tag="VMN03P0" >
+  </token>
+  <token id="t32.51" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t32.52" form="lei" lemma="lei" tag="NCFS000" wn="08441203-n" >
+  </token>
+  <token id="t32.53" form="romana" lemma="romano" tag="AQ0FS00" wn="02921569-a" >
+  </token>
+  <token id="t32.54" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t32.55" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t32.56" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t32.57" form="entregarem" lemma="entregar" tag="VMN03P0" >
+  </token>
+  <token id="t32.58" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t32.59" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t32.60" form="vezes" lemma="vez" tag="NCFP000" wn="14485064-n" >
+  </token>
+  <token id="t32.61" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t32.62" form="incursões" lemma="incursão" tag="NCFP000" wn="00787307-n" >
+  </token>
+  <token id="t32.63" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t32.64" form="rapinas" lemma="rapina" tag="NCFP000" wn="13262663-n" >
+  </token>
+  <token id="t32.65" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t32.66" form="lugares" lemma="lugar" tag="NCMP000" wn="00027167-n" >
+  </token>
+  <token id="t32.67" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t32.68" form="gozavam" lemma="gozar" tag="VMII3P0" wn="01190948-v" >
+  </token>
+  <token id="t32.69" form="quase" lemma="quase" tag="RG" wn="00073033-r" >
+  </token>
+  <token id="t32.70" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t32.71" form="direitos" lemma="direito" tag="NCMP000" >
+  </token>
+  <token id="t32.72" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t32.73" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t32.74" form="metrópole" lemma="metrópole" tag="NCFS000" wn="08524735-n" >
+  </token>
+  <token id="t32.75" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="33">
+  <token id="t33.1" form="Mas" lemma="mas" tag="CC" >
+  </token>
+  <token id="t33.2" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t33.3" form="em_vez_de" lemma="em_vez_de" tag="SP" >
+  </token>
+  <token id="t33.4" form="tomar" lemma="tomar" tag="VMN0000" wn="01170052-v" >
+  </token>
+  <token id="t33.5" form="diretamente" lemma="diretamente" tag="RG" wn="00051017-r" >
+  </token>
+  <token id="t33.6" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t33.7" form="responsabilidade" lemma="responsabilidade" tag="NCFS000" wn="01129920-n" >
+  </token>
+  <token id="t33.8" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t33.9" form="esses" lemma="esse" tag="DD0MP0" >
+  </token>
+  <token id="t33.10" form="actos" lemma="acto" tag="NCMP000" >
+  </token>
+  <token id="t33.11" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t33.12" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t33.13" form="sabendo" lemma="saber" tag="VMG0000" wn="00594621-v" >
+  </token>
+  <token id="t33.14" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t33.15" form="causa" lemma="causa" tag="NCFS000" wn="09178999-n" >
+  </token>
+  <token id="t33.16" form="intima" lemma="intima" tag="NCFS000" >
+  </token>
+  <token id="t33.17" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t33.18" form="os" lemma="o" tag="PP3MPA0" >
+  </token>
+  <token id="t33.19" form="motiva" lemma="motivar" tag="VMIP3S0" wn="01649999-v" >
+  </token>
+  <token id="t33.20" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t33.21" form="eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t33.22" form="farei" lemma="fazer" tag="VMIF1S0" wn="00120316-v" >
+  </token>
+  <token id="t33.23" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t33.24" form="finde" lemma="findar" tag="VMSP3S0" >
+  </token>
+  <token id="t33.25" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t33.26" form="situação" lemma="situação" tag="NCFS000" wn="00024720-n" >
+  </token>
+  <token id="t33.27" form="violenta" lemma="violento" tag="AQ0FS00" wn="01511854-a" >
+  </token>
+  <token id="t33.28" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t33.29" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t33.30" form="Cidades" lemma="cidades" tag="NP00000" wn="08524735-n" >
+  </token>
+  <token id="t33.31" form="estipendiarias" lemma="estipendiar" tag="VMIC2S0" >
+  </token>
+  <token id="t33.32" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t33.33" form="acabando" lemma="acabar" tag="VMG0000" wn="02609764-v" >
+  </token>
+  <token id="t33.34" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t33.35" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t33.36" form="tributos" lemma="tributo" tag="NCMP000" wn="06697195-n" >
+  </token>
+  <token id="t33.37" form="pesadíssimos" lemma="pesado" tag="AQSMP00" wn="01190683-a" >
+  </token>
+  <token id="t33.38" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t33.39" form="as" lemma="o" tag="PP3FPA0" >
+  </token>
+  <token id="t33.40" form="oneram" lemma="onerar" tag="VMIP3P0" >
+  </token>
+  <token id="t33.41" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t33.42" form="eximindo" lemma="eximir" tag="VMG0000" >
+  </token>
+  <token id="t33.43" form="as" lemma="o" tag="PP3FPA0" >
+  </token>
+  <token id="t33.44" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t33.45" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t33.46" form="pagamentos" lemma="pagamento" tag="NCMP000" wn="13278375-n" >
+  </token>
+  <token id="t33.47" form="ás" lemma="ás" tag="NCMS000" wn="02673291-n" >
+  </token>
+  <token id="t33.48" form="legiões" lemma="legião" tag="NCFP000" wn="08184217-n" >
+  </token>
+  <token id="t33.49" form="romanas" lemma="romano" tag="AQ0FP00" wn="02921569-a" >
+  </token>
+  <token id="t33.50" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t33.51" form="ás" lemma="ás" tag="NCMS000" wn="02673291-n" >
+  </token>
+  <token id="t33.52" form="provisões" lemma="provisão" tag="NCFP000" wn="13777344-n" >
+  </token>
+  <token id="t33.53" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t33.54" form="víveres" lemma="víveres" tag="NCMN000" >
+  </token>
+  <token id="t33.55" form="fornecidos" lemma="fornecer" tag="VMP00PM" wn="02327200-v" >
+  </token>
+  <token id="t33.56" form="ás" lemma="ás" tag="NCMS000" wn="02673291-n" >
+  </token>
+  <token id="t33.57" form="tropas" lemma="tropa" tag="NCFP000" wn="08274565-n" >
+  </token>
+  <token id="t33.58" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t33.59" form="passagem" lemma="passagem" tag="NCFS000" wn="00201058-n" >
+  </token>
+  <token id="t33.60" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="34">
+  <token id="t34.1" form="Para" lemma="para" tag="SP" >
+  </token>
+  <token id="t34.2" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t34.3" form="efetuar" lemma="efetuar" tag="VMN0000" wn="01640855-v" >
+  </token>
+  <token id="t34.4" form="isto" lemma="isto" tag="PD0NN00" >
+  </token>
+  <token id="t34.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.6" form="passareis" lemma="passar" tag="VMIF2P0" wn="00106960-v" >
+  </token>
+  <token id="t34.7" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t34.8" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t34.9" form="categoria" lemma="categoria" tag="NCFS000" wn="07997703-n" >
+  </token>
+  <token id="t34.10" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.11" form="Cidades" lemma="cidades" tag="NP00000" wn="08524735-n" >
+  </token>
+  <token id="t34.12" form="municipais" lemma="municipal" tag="AQ0CP00" wn="02697452-a" >
+  </token>
+  <token id="t34.13" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.14" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t34.15" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t34.16" form="vosso" lemma="vosso" tag="DP2MSP" >
+  </token>
+  <token id="t34.17" form="território" lemma="território" tag="NCMS000" wn="08552138-n" >
+  </token>
+  <token id="t34.18" form="livre" lemma="livre" tag="AQ0CS00" wn="00518848-a" >
+  </token>
+  <token id="t34.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.20" form="sem" lemma="sem" tag="SP" >
+  </token>
+  <token id="t34.21" form="pagamento" lemma="pagamento" tag="NCMS000" wn="13278375-n" >
+  </token>
+  <token id="t34.22" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.23" form="tributos" lemma="tributo" tag="NCMP000" wn="06697195-n" >
+  </token>
+  <token id="t34.24" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.25" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t34.26" form="magistrados" lemma="magistrado" tag="NCMP000" wn="10225219-n" >
+  </token>
+  <token id="t34.27" form="eleitos" lemma="eleito" tag="AQ0MP00" wn="00846052-a" >
+  </token>
+  <token id="t34.28" form="livremente" lemma="livremente" tag="AQ0CS00" >
+  </token>
+  <token id="t34.29" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.30" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t34.31" form="fora" lemma="fora" tag="RG" wn="00029037-r" >
+  </token>
+  <token id="t34.32" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.33" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t34.34" form="jurisdição" lemma="jurisdição" tag="NCFS000" wn="08590369-n" >
+  </token>
+  <token id="t34.35" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.36" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t34.37" form="governador" lemma="governador" tag="NCMS000" wn="10541229-n" >
+  </token>
+  <token id="t34.38" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.39" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t34.40" form="Província" lemma="província" tag="NP00000" wn="08552138-n" >
+  </token>
+  <token id="t34.41" form="." lemma="." tag="Fp" >
+  </token>
+  <token id="t34.42" form="»" lemma="»" tag="Frc" >
+  </token>
+  <token id="t34.43" form="Diante" lemma="diante" tag="RG" wn="00060632-r" >
+  </token>
+  <token id="t34.44" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.45" form="esta" lemma="este" tag="DD0FS0" >
+  </token>
+  <token id="t34.46" form="perspetiva" lemma="perspetiva" tag="NCFS000" >
+  </token>
+  <token id="t34.47" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.48" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t34.49" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.50" form="traiçoeiramente" lemma="traiçoeiro" tag="RG" >
+  </token>
+  <token id="t34.51" form="apontou" lemma="apontar" tag="VMIS3S0" wn="01150559-v" >
+  </token>
+  <token id="t34.52" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t34.53" form="terras" lemma="terra" tag="NCFP000" wn="08552138-n" >
+  </token>
+  <token id="t34.54" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t34.55" form="lhes" lemma="lhe" tag="PP3CPD0" >
+  </token>
+  <token id="t34.56" form="reservava" lemma="reservar" tag="VMII3S0" wn="00724150-v" >
+  </token>
+  <token id="t34.57" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.58" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t34.59" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t34.60" form="dividia" lemma="dividir" tag="VMII3S0" wn="02467662-v" >
+  </token>
+  <token id="t34.61" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t34.62" form="três" lemma="3" tag="Z" >
+  </token>
+  <token id="t34.63" form="cantões" lemma="cantão" tag="NCMP000" >
+  </token>
+  <token id="t34.64" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.65" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t34.66" form="tratou" lemma="tratar" tag="VMIS3S0" wn="00078760-v" >
+  </token>
+  <token id="t34.67" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.68" form="convocar" lemma="convocar" tag="VMN0000" wn="00792471-v" >
+  </token>
+  <token id="t34.69" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t34.70" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t34.71" form="determinado" lemma="determinar" tag="VMP00SM" wn="00699815-v" >
+  </token>
+  <token id="t34.72" form="dia" lemma="dia" tag="NCMS000" wn="15155220-n" >
+  </token>
+  <token id="t34.73" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t34.74" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t34.75" form="margem" lemma="margem" tag="NCFS000" wn="09433442-n" >
+  </token>
+  <token id="t34.76" form="direita" lemma="direito" tag="AQ0FS00" wn="01197634-a" >
+  </token>
+  <token id="t34.77" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.78" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t34.79" form="Tejo" lemma="tejo" tag="NP00000" >
+  </token>
+  <token id="t34.80" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t34.81" form="tribos" lemma="tribo" tag="NCFP000" wn="07969695-n" >
+  </token>
+  <token id="t34.82" form="lusitanas" lemma="lusitano" tag="AQ0FP00" wn="02958844-a" >
+  </token>
+  <token id="t34.83" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.84" form="exigindo" lemma="exigir" tag="VMG0000" wn="00752764-v" >
+  </token>
+  <token id="t34.85" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t34.86" form="prova" lemma="prova" tag="NCFS000" wn="06733939-n" >
+  </token>
+  <token id="t34.87" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.88" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t34.89" form="mútua" lemma="mútuo" tag="AQ0FS00" wn="01945550-a" >
+  </token>
+  <token id="t34.90" form="confiança" lemma="confiança" tag="NCFS000" wn="05697976-n" >
+  </token>
+  <token id="t34.91" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t34.92" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t34.93" form="apresentassem" lemma="apresentar" tag="VMSI3P0" wn="02140033-v" >
+  </token>
+  <token id="t34.94" form="desarmadas" lemma="desarmar" tag="VMP00PF" wn="00145995-a" >
+  </token>
+  <token id="t34.95" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.96" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t34.97" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t34.98" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t34.99" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t34.100" form="se" lemma="se" tag="CS" >
+  </token>
+  <token id="t34.101" form="não" lemma="não" tag="RN" wn="00118531-r" >
+  </token>
+  <token id="t34.102" form="dissesse" lemma="dizer" tag="VMSI3S0" wn="00963570-v" >
+  </token>
+  <token id="t34.103" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t34.104" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t34.105" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t34.106" form="generosa" lemma="generoso" tag="AQ0FS00" wn="01114658-a" >
+  </token>
+  <token id="t34.107" form="concessão" lemma="concessão" tag="NCFS000" wn="07176243-n" >
+  </token>
+  <token id="t34.108" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t34.109" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t34.110" form="Jus" lemma="jus" tag="NP00000" >
+  </token>
+  <token id="t34.111" form="italicum" lemma="italicum" tag="AQ0CS00" >
+  </token>
+  <token id="t34.112" form="era" lemma="ser" tag="VMII1S0" wn="02604760-v" >
+  </token>
+  <token id="t34.113" form="extorquida" lemma="extorquir" tag="VMP00SF" wn="02241107-v" >
+  </token>
+  <token id="t34.114" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="35">
+  <token id="t35.1" form="Catão" lemma="catão" tag="NCMS000" >
+  </token>
+  <token id="t35.2" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.3" form="como_que" lemma="como_que" tag="CS" >
+  </token>
+  <token id="t35.4" form="vencendo" lemma="vencer" tag="VMG0000" wn="01109259-v" >
+  </token>
+  <token id="t35.5" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t35.6" form="opressão" lemma="opressão" tag="NCFS000" wn="13996719-n" >
+  </token>
+  <token id="t35.7" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t35.8" form="momento" lemma="momento" tag="NCMS000" wn="15122231-n" >
+  </token>
+  <token id="t35.9" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.10" form="salientou" lemma="salientar" tag="VMIS3S0" wn="00514069-v" >
+  </token>
+  <token id="t35.11" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t35.12" form="facto" lemma="facto" tag="NCMS000" wn="05817396-n" >
+  </token>
+  <token id="t35.13" form="monstruoso" lemma="monstruoso" tag="AQ0MS00" wn="02514380-a" >
+  </token>
+  <token id="t35.14" form=":" lemma=":" tag="Fd" >
+  </token>
+  <token id="t35.15" form="—" lemma="—" tag="Fz" >
+  </token>
+  <token id="t35.16" form="Á" lemma="á" tag="NP00000" wn="06831177-n" >
+  </token>
+  <token id="t35.17" form="convocação" lemma="convocação" tag="NCFS000" wn="08402222-n" >
+  </token>
+  <token id="t35.18" form="feita" lemma="fazer" tag="VMP00SF" wn="00120316-v" >
+  </token>
+  <token id="t35.19" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t35.20" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t35.21" form="concorreram" lemma="concorrer" tag="VMIS3P0" >
+  </token>
+  <token id="t35.22" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t35.23" form="povos" lemma="povo" tag="NCMP000" wn="07942152-n" >
+  </token>
+  <token id="t35.24" form="confiados" lemma="confiar" tag="VMP00PM" >
+  </token>
+  <token id="t35.25" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t35.26" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t35.27" form="palavra" lemma="palavra" tag="NCFS000" wn="06286395-n" >
+  </token>
+  <token id="t35.28" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t35.29" form="representava" lemma="representar" tag="VMII3S0" wn="02620587-v" >
+  </token>
+  <token id="t35.30" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t35.31" form="poder" lemma="poder" tag="NCMS000" wn="05194578-n" >
+  </token>
+  <token id="t35.32" form="romano" lemma="romano" tag="AQ0MS00" wn="02921569-a" >
+  </token>
+  <token id="t35.33" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t35.34" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t35.35" form="logo_que" lemma="logo_que" tag="RG" >
+  </token>
+  <token id="t35.36" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t35.37" form="apanhou" lemma="apanhar" tag="VMIS3S0" wn="01382083-v" >
+  </token>
+  <token id="t35.38" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t35.39" form="tribos" lemma="tribo" tag="NCFP000" wn="07969695-n" >
+  </token>
+  <token id="t35.40" form="desmembradas" lemma="desmembrar" tag="VMP00PF" wn="01572510-v" >
+  </token>
+  <token id="t35.41" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t35.42" form="desarmadas" lemma="desarmar" tag="VMP00PF" wn="00145995-a" >
+  </token>
+  <token id="t35.43" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t35.44" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t35.45" form="planície" lemma="planície" tag="NCFS000" wn="09393605-n" >
+  </token>
+  <token id="t35.46" form="para_onde" lemma="para_onde" tag="RG" >
+  </token>
+  <token id="t35.47" form="as" lemma="o" tag="PP3FPA0" >
+  </token>
+  <token id="t35.48" form="convocara" lemma="convocar" tag="VMIM1S0" wn="00792471-v" >
+  </token>
+  <token id="t35.49" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.50" form="envolveu" lemma="envolver" tag="VMIS3S0" >
+  </token>
+  <token id="t35.51" form="as" lemma="o" tag="PP3FPA0" >
+  </token>
+  <token id="t35.52" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t35.53" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t35.54" form="Legiões" lemma="legiões" tag="NP00000" >
+  </token>
+  <token id="t35.55" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t35.56" form="subitamente" lemma="subitamente" tag="RG" wn="00061528-r" >
+  </token>
+  <token id="t35.57" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t35.58" form="apresentaram" lemma="apresentar" tag="VMIS3P0" wn="02140033-v" >
+  </token>
+  <token id="t35.59" form="fortificando" lemma="fortificar" tag="VMG0000" wn="00220869-v" >
+  </token>
+  <token id="t35.60" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t35.61" form="linha" lemma="linha" tag="NCFS000" >
+  </token>
+  <token id="t35.62" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t35.63" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t35.64" form="Hastatos" lemma="hastatos" tag="NP00000" >
+  </token>
+  <token id="t35.65" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t35.66" form="Triários" lemma="triários" tag="NP00000" >
+  </token>
+  <token id="t35.67" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t35.68" form="toda_a" lemma="toda_a" tag="DI0FS0" >
+  </token>
+  <token id="t35.69" form="Cavalaria" lemma="cavalaria" tag="NP00000" wn="08397856-n" >
+  </token>
+  <token id="t35.70" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.71" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t35.72" form="atropelando" lemma="atropelar" tag="VMG0000" wn="00106960-v" >
+  </token>
+  <token id="t35.73" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t35.74" form="multidão" lemma="multidão" tag="NCFS000" wn="08184217-n" >
+  </token>
+  <token id="t35.75" form="inerme" lemma="inerme" tag="AQ0CS00" wn="00145995-a" >
+  </token>
+  <token id="t35.76" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.77" form="fez" lemma="fazer" tag="VMIS3S0" wn="00120316-v" >
+  </token>
+  <token id="t35.78" form="passar" lemma="passar" tag="VMN0000" wn="00106960-v" >
+  </token>
+  <token id="t35.79" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t35.80" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t35.81" form="fio" lemma="fio" tag="NCMS000" wn="04426788-n" >
+  </token>
+  <token id="t35.82" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t35.83" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t35.84" form="espada" lemma="espada" tag="NCFS000" wn="04373894-n" >
+  </token>
+  <token id="t35.85" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t35.86" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t35.87" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t35.88" form="trinta_mil" lemma="30000" tag="Z" >
+  </token>
+  <token id="t35.89" form="pessoas" lemma="pessoa" tag="NCFP000" wn="00007846-n" >
+  </token>
+  <token id="t35.90" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.91" form="entre" lemma="entre" tag="SP" >
+  </token>
+  <token id="t35.92" form="homens" lemma="homem" tag="NCMP000" wn="10287213-n" >
+  </token>
+  <token id="t35.93" form="validos" lemma="valer" tag="VMP00PM" wn="02646378-v" >
+  </token>
+  <token id="t35.94" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.95" form="velhos" lemma="velho" tag="NCMP000" wn="10375506-n" >
+  </token>
+  <token id="t35.96" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t35.97" form="crianças" lemma="criança" tag="NCFP000" wn="09917593-n" >
+  </token>
+  <token id="t35.98" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t35.99" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t35.100" form="até" lemma="até" tag="SP" >
+  </token>
+  <token id="t35.101" form="mulheres" lemma="mulher" tag="NCFP000" wn="10787470-n" >
+  </token>
+  <token id="t35.102" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="36">
+  <token id="t36.1" form="Nada" lemma="nada" tag="PI0CN00" >
+  </token>
+  <token id="t36.2" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t36.3" form="execrando" lemma="execrando" tag="AQ0MS00" >
+  </token>
+  <token id="t36.4" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t36.5" form="porque" lemma="porque" tag="CS" >
+  </token>
+  <token id="t36.6" form="esta" lemma="este" tag="DD0FS0" >
+  </token>
+  <token id="t36.7" form="traição" lemma="traição" tag="NCFS000" wn="00749767-n" >
+  </token>
+  <token id="t36.8" form="vilíssima" lemma="vilíssima" tag="NCFS000" >
+  </token>
+  <token id="t36.9" form="deslustra" lemma="deslustrar" tag="VMIP3S0" >
+  </token>
+  <token id="t36.10" form="as" lemma="o" tag="DA0FP0" >
+  </token>
+  <token id="t36.11" form="vitórias" lemma="vitória" tag="NCFP000" wn="07473441-n" >
+  </token>
+  <token id="t36.12" form="romanas" lemma="romana" tag="NCFP000" >
+  </token>
+  <token id="t36.13" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="37">
+  <token id="t37.1" form="E" lemma="e" tag="CC" >
+  </token>
+  <token id="t37.2" form="se" lemma="se" tag="CS" >
+  </token>
+  <token id="t37.3" form="este" lemma="este" tag="DD0MS0" >
+  </token>
+  <token id="t37.4" form="instinto" lemma="instinto" tag="NCMS000" wn="05622723-n" >
+  </token>
+  <token id="t37.5" form="traiçoeiro" lemma="traiçoeiro" tag="AQ0MS00" wn="00960094-a" >
+  </token>
+  <token id="t37.6" form="é" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t37.7" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t37.8" form="base" lemma="base" tag="NCFS000" wn="13790912-n" >
+  </token>
+  <token id="t37.9" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.10" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t37.11" form="sua" lemma="seu" tag="DP3FSS" >
+  </token>
+  <token id="t37.12" form="tática" lemma="tática" tag="NCFS000" wn="05905152-n" >
+  </token>
+  <token id="t37.13" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.14" form="guerra" lemma="guerra" tag="NCFS000" wn="00973077-n" >
+  </token>
+  <token id="t37.15" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t37.16" form="é" lemma="ser" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t37.17" form="igualmente" lemma="igual" tag="RG" wn="00069672-r" >
+  </token>
+  <token id="t37.18" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t37.19" form="feição" lemma="feição" tag="NCFS000" wn="04616059-n" >
+  </token>
+  <token id="t37.20" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.21" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t37.22" form="seu" lemma="seu" tag="DP3MSS" >
+  </token>
+  <token id="t37.23" form="carater" lemma="carater" tag="VMN0000" >
+  </token>
+  <token id="t37.24" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t37.25" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t37.26" form="tempo" lemma="tempo" tag="NCMS000" wn="15113229-n" >
+  </token>
+  <token id="t37.27" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.28" form="paz" lemma="paz" tag="NCFS000" wn="07515560-n" >
+  </token>
+  <token id="t37.29" form=";" lemma=";" tag="Fx" >
+  </token>
+  <token id="t37.30" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t37.31" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t37.32" form="tais" lemma="tal" tag="DI0CP0" >
+  </token>
+  <token id="t37.33" form="recursos" lemma="recurso" tag="NCMP000" wn="13331778-n" >
+  </token>
+  <token id="t37.34" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t37.35" form="defenderá" lemma="defender" tag="VMIF3S0" wn="01128193-v" >
+  </token>
+  <token id="t37.36" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.37" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t37.38" form="justiça" lemma="justiça" tag="NCFS000" wn="00694681-n" >
+  </token>
+  <token id="t37.39" form="implacável" lemma="implacável" tag="AQ0CS00" wn="01785341-a" >
+  </token>
+  <token id="t37.40" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t37.41" form="perante" lemma="perante" tag="SP" >
+  </token>
+  <token id="t37.42" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t37.43" form="qual" lemma="qual" tag="PR0CS00" >
+  </token>
+  <token id="t37.44" form="seja" lemma="ser" tag="VMSP1S0" wn="02604760-v" >
+  </token>
+  <token id="t37.45" form="chamado" lemma="chamar" tag="VMP00SM" wn="00792471-v" >
+  </token>
+  <token id="t37.46" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t37.47" form="responder" lemma="responder" tag="VMN0000" wn="00717358-v" >
+  </token>
+  <token id="t37.48" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t37.49" form="porque" lemma="porque" tag="CS" >
+  </token>
+  <token id="t37.50" form="no_meio_de" lemma="no_meio_de" tag="SP" >
+  </token>
+  <token id="t37.51" form="tantas" lemma="tanto" tag="DI0FP0" >
+  </token>
+  <token id="t37.52" form="carnificinas" lemma="carnificina" tag="NCFP000" wn="00223983-n" >
+  </token>
+  <token id="t37.53" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t37.54" form="depredações" lemma="depredação" tag="NCFP000" wn="00967310-n" >
+  </token>
+  <token id="t37.55" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t37.56" form="Galba" lemma="galba" tag="NP00000" >
+  </token>
+  <token id="t37.57" form="apoderou" lemma="apoderar" tag="VMIS3S0" >
+  </token>
+  <token id="t37.58" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t37.59" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.60" form="assombrosas" lemma="assombroso" tag="AQ0FP00" wn="02359789-a" >
+  </token>
+  <token id="t37.61" form="riquezas" lemma="riqueza" tag="NCFP000" wn="05115804-n" >
+  </token>
+  <token id="t37.62" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t37.63" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t37.64" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t37.65" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.66" form="certo" lemma="certo" tag="PI0MS00" >
+  </token>
+  <token id="t37.67" form="conta" lemma="contar" tag="VMIP3S0" wn="00948071-v" >
+  </token>
+  <token id="t37.68" form="eximir" lemma="eximir" tag="VMN03S0" >
+  </token>
+  <token id="t37.69" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t37.70" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t37.71" form="toda_a" lemma="toda_a" tag="DI0FS0" >
+  </token>
+  <token id="t37.72" form="pena" lemma="pena" tag="NCFS000" wn="01896031-n" >
+  </token>
+  <token id="t37.73" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="38">
+  <token id="t38.1" form="Mas" lemma="mas" tag="CC" >
+  </token>
+  <token id="t38.2" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t38.3" form="desonra" lemma="desonra" tag="NCFS000" wn="14439447-n" >
+  </token>
+  <token id="t38.4" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t38.5" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t38.6" form="individuo" lemma="individuar" tag="VMIP1S0" >
+  </token>
+  <token id="t38.7" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t38.8" form="ou" lemma="ou" tag="CC" >
+  </token>
+  <token id="t38.9" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t38.10" form="seu" lemma="seu" tag="DP3MSS" >
+  </token>
+  <token id="t38.11" form="castigo" lemma="castigo" tag="NCMS000" wn="01161017-n" >
+  </token>
+  <token id="t38.12" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t38.13" form="não" lemma="não" tag="RN" wn="00118531-r" >
+  </token>
+  <token id="t38.14" form="ressarce" lemma="ressarcir" tag="VMIP3S0" wn="02249591-v" >
+  </token>
+  <token id="t38.15" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t38.16" form="males" lemma="mal" tag="NCMP000" wn="04852088-n" >
+  </token>
+  <token id="t38.17" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t38.18" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t38.19" form="Pátria" lemma="pátria" tag="NP00000" wn="08510169-n" >
+  </token>
+  <token id="t38.20" form="!" lemma="!" tag="Fat" >
+  </token>
+</sentence>
+<sentence id="39">
+  <token id="t39.1" form="O" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t39.2" form="poder" lemma="poder" tag="NCMS000" wn="05194578-n" >
+  </token>
+  <token id="t39.3" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t39.4" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t39.5" form="está" lemma="estar" tag="VMIP3S0" wn="02604760-v" >
+  </token>
+  <token id="t39.6" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t39.7" form="este" lemma="este" tag="DD0MS0" >
+  </token>
+  <token id="t39.8" form="momento" lemma="momento" tag="NCMS000" wn="15122231-n" >
+  </token>
+  <token id="t39.9" form="abalado" lemma="abalar" tag="VMP00SM" wn="01864865-v" >
+  </token>
+  <token id="t39.10" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t39.11" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t39.12" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t39.13" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t39.14" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t39.15" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t39.16" form="debate" lemma="debate" tag="NCMS000" wn="07140659-n" >
+  </token>
+  <token id="t39.17" form="em" lemma="em" tag="SP" >
+  </token>
+  <token id="t39.18" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t39.19" form="levantamento" lemma="levantamento" tag="NCMS000" wn="00963241-n" >
+  </token>
+  <token id="t39.20" form="geral" lemma="geral" tag="AQ0CS00" wn="00489108-a" >
+  </token>
+  <token id="t39.21" form="contra" lemma="contra" tag="SP" >
+  </token>
+  <token id="t39.22" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t39.23" form="tão" lemma="tão" tag="RG" wn="00022131-r" >
+  </token>
+  <token id="t39.24" form="inaudita" lemma="inaudito" tag="AQ0FS00" >
+  </token>
+  <token id="t39.25" form="monstruosidade" lemma="monstruosidade" tag="NCFS000" >
+  </token>
+  <token id="t39.26" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="40">
+  <token id="t40.1" form="E" lemma="e" tag="CC" >
+  </token>
+  <token id="t40.2" form="se" lemma="se" tag="CS" >
+  </token>
+  <token id="t40.3" form="eu" lemma="eu" tag="PP1CSN0" >
+  </token>
+  <token id="t40.4" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t40.5" form="como" lemma="como" tag="CS" >
+  </token>
+  <token id="t40.6" form="Censor" lemma="censor" tag="NP00000" >
+  </token>
+  <token id="t40.7" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t40.8" form="acuso" lemma="acusar" tag="VMIP1S0" wn="00842989-v" >
+  </token>
+  <token id="t40.9" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t40.10" form="homem" lemma="homem" tag="NCMS000" wn="10287213-n" >
+  </token>
+  <token id="t40.11" form="indigno" lemma="indigno" tag="AQ0MS00" wn="02588099-a" >
+  </token>
+  <token id="t40.12" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t40.13" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t40.14" form="defendo" lemma="defender" tag="VMIP1S0" wn="01128193-v" >
+  </token>
+  <token id="t40.15" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t40.16" form="meus" lemma="meu" tag="DP1MPS" >
+  </token>
+  <token id="t40.17" form="clientes" lemma="cliente" tag="NCCP000" wn="09984659-n" >
+  </token>
+  <token id="t40.18" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t40.19" form="Hispânia" lemma="hispânia" tag="NP00000" >
+  </token>
+  <token id="t40.20" form="contra" lemma="contra" tag="SP" >
+  </token>
+  <token id="t40.21" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t40.22" form="sanguinário" lemma="sanguinário" tag="NCMS000" >
+  </token>
+  <token id="t40.23" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t40.24" form="iniquo" lemma="iniquo" tag="NCMS000" >
+  </token>
+  <token id="t40.25" form="prevaricador" lemma="prevaricador" tag="AQ0MS00" >
+  </token>
+  <token id="t40.26" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t40.27" form="perante" lemma="perante" tag="SP" >
+  </token>
+  <token id="t40.28" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t40.29" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t40.30" form="também" lemma="também" tag="RG" wn="00047534-r" >
+  </token>
+  <token id="t40.31" form="reclamo" lemma="reclamar" tag="VMIP1S0" wn="00907147-v" >
+  </token>
+  <token id="t40.32" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t40.33" form="um" lemma="um" tag="DI0MS0" >
+  </token>
+  <token id="t40.34" form="General" lemma="general" tag="NP00000" wn="10123844-n" >
+  </token>
+  <token id="t40.35" form="inteligente" lemma="inteligente" tag="AQ0CS00" wn="01926089-a" >
+  </token>
+  <token id="t40.36" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t40.37" form="novas" lemma="novo" tag="AQ0FP00" wn="01730444-a" >
+  </token>
+  <token id="t40.38" form="tropas" lemma="tropa" tag="NCFP000" wn="08274565-n" >
+  </token>
+  <token id="t40.39" form="vá" lemma="ir" tag="VMSP1S0" wn="01835496-v" >
+  </token>
+  <token id="t40.40" form="prontamente" lemma="pronto" tag="RG" wn="00033922-r" >
+  </token>
+  <token id="t40.41" form="restabelecer" lemma="restabelecer" tag="VMN0000" wn="02426799-v" >
+  </token>
+  <token id="t40.42" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t40.43" form="paz" lemma="paz" tag="NCFS000" wn="07515560-n" >
+  </token>
+  <token id="t40.44" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t40.45" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t40.46" form="direito" lemma="direito" tag="NCMS000" >
+  </token>
+  <token id="t40.47" form="ás" lemma="ás" tag="NCMS000" wn="02673291-n" >
+  </token>
+  <token id="t40.48" form="povoações" lemma="povoação" tag="NCFP000" wn="01257969-n" >
+  </token>
+  <token id="t40.49" form="alvoroçadas" lemma="alvoroçar" tag="VMP00PF" >
+  </token>
+  <token id="t40.50" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t40.51" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t40.52" form="Lusitânia" lemma="lusitânia" tag="NP00000" >
+  </token>
+  <token id="t40.53" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="41">
+  <token id="t41.1" form="A" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t41.2" form="voz" lemma="voz" tag="NCFS000" wn="04981139-n" >
+  </token>
+  <token id="t41.3" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t41.4" form="Catão" lemma="catão" tag="NP00000" >
+  </token>
+  <token id="t41.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t41.6" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t41.7" form="Censor" lemma="censor" tag="NP00000" >
+  </token>
+  <token id="t41.8" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t41.9" form="fora" lemma="ir" tag="VMIM1S0" wn="01835496-v" >
+  </token>
+  <token id="t41.10" form="escutada" lemma="escutar" tag="VMP00SF" wn="02169891-v" >
+  </token>
+  <token id="t41.11" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t41.12" form="assombro" lemma="assombro" tag="NCMS000" wn="07510348-n" >
+  </token>
+  <token id="t41.13" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="42">
+  <token id="t42.1" form="Ele" lemma="ele" tag="PP3MS00" >
+  </token>
+  <token id="t42.2" form="tinha" lemma="ter" tag="VMII1S0" wn="00065639-v" >
+  </token>
+  <token id="t42.3" form="aliado" lemma="aliar" tag="VMP00SM" wn="02476485-a" >
+  </token>
+  <token id="t42.4" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t42.5" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t42.6" form="veneração" lemma="veneração" tag="NCFS000" wn="01044448-n" >
+  </token>
+  <token id="t42.7" form="devida" lemma="dever" tag="VMP00SF" wn="02254155-v" >
+  </token>
+  <token id="t42.8" form="a" lemma="a" tag="SP" >
+  </token>
+  <token id="t42.9" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t42.10" form="seus" lemma="seu" tag="DP3MPS" >
+  </token>
+  <token id="t42.11" form="oitenta_e_cinco" lemma="85" tag="Z" >
+  </token>
+  <token id="t42.12" form="anos" lemma="ano" tag="NCMP000" wn="15203791-n" >
+  </token>
+  <token id="t42.13" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t42.14" form="idade" lemma="idade" tag="NCFS000" wn="15153787-n" >
+  </token>
+  <token id="t42.15" form="uma" lemma="um" tag="DI0FS0" >
+  </token>
+  <token id="t42.16" form="longa" lemma="longo" tag="AQ0FS00" wn="01439155-a" >
+  </token>
+  <token id="t42.17" form="vida" lemma="vida" tag="NCFS000" wn="00017222-n" >
+  </token>
+  <token id="t42.18" form="intemerata" lemma="intemerato" tag="AQ0FS00" >
+  </token>
+  <token id="t42.19" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t42.20" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t42.21" form="triunfara" lemma="triunfar" tag="VMIM1S0" wn="01109259-v" >
+  </token>
+  <token id="t42.22" form="brilhantemente" lemma="brilhante" tag="RG" >
+  </token>
+  <token id="t42.23" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t42.24" form="todas_as" lemma="todas_as" tag="PI0FP00" >
+  </token>
+  <token id="t42.25" form="calúnias" lemma="calúnia" tag="NCFP000" wn="06720600-n" >
+  </token>
+  <token id="t42.26" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t42.27" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t42.28" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t42.29" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t42.30" form="vezes" lemma="vez" tag="NCFP000" wn="14485064-n" >
+  </token>
+  <token id="t42.31" form="procuraram" lemma="procurar" tag="VMIS3P0" wn="02530167-v" >
+  </token>
+  <token id="t42.32" form="minar" lemma="minar" tag="VMN0000" wn="02068413-v" >
+  </token>
+  <token id="t42.33" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t42.34" form="seu" lemma="seu" tag="DP3MSS" >
+  </token>
+  <token id="t42.35" form="ascendente" lemma="ascendente" tag="AQ0CS00" wn="02484208-a" >
+  </token>
+  <token id="t42.36" form="moral" lemma="moral" tag="NCFS000" wn="04846770-n" >
+  </token>
+  <token id="t42.37" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="43">
+  <token id="t43.1" form="Em" lemma="em" tag="SP" >
+  </token>
+  <token id="t43.2" form="esta" lemma="este" tag="DD0FS0" >
+  </token>
+  <token id="t43.3" form="mesma" lemma="mesmo" tag="PI0FS00" >
+  </token>
+  <token id="t43.4" form="sessão" lemma="sessão" tag="NCFS000" wn="07145508-n" >
+  </token>
+  <token id="t43.5" form="memoranda" lemma="memorando" tag="AQ0FS00" >
+  </token>
+  <token id="t43.6" form="de" lemma="de" tag="SP" >
+  </token>
+  <token id="t43.7" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t43.8" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t43.9" form="resolveu" lemma="resolver" tag="VMIS3S0" >
+  </token>
+  <token id="t43.10" form="se" lemma="se" tag="PP3CN00" >
+  </token>
+  <token id="t43.11" form="que" lemma="que" tag="CS" >
+  </token>
+  <token id="t43.12" form="imediatamente" lemma="imediato" tag="RG" >
+  </token>
+  <token id="t43.13" form="fosse" lemma="fossar" tag="VMSP1S0" >
+  </token>
+  <token id="t43.14" form="mandado" lemma="mandar" tag="VMP00SM" wn="01031256-v" >
+  </token>
+  <token id="t43.15" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t43.16" form="Hispânia_o_Pretor_Caio_Vetílio" lemma="hispânia_o_pretor_caio_vetílio" tag="NP00000" >
+  </token>
+  <token id="t43.17" form="com" lemma="com" tag="SP" >
+  </token>
+  <token id="t43.18" form="novas" lemma="novo" tag="AQ0FP00" wn="01730444-a" >
+  </token>
+  <token id="t43.19" form="Legiões" lemma="legiões" tag="NP00000" >
+  </token>
+  <token id="t43.20" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t43.21" form="Cavalaria" lemma="cavalaria" tag="NP00000" wn="08397856-n" >
+  </token>
+  <token id="t43.22" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t43.23" form="reforçar" lemma="reforçar" tag="VMN0000" wn="00222472-v" >
+  </token>
+  <token id="t43.24" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t43.25" form="exército" lemma="exército" tag="NCMS000" wn="08199025-n" >
+  </token>
+  <token id="t43.26" form="provincial" lemma="provincial" tag="AQ0CS00" wn="00636547-a" >
+  </token>
+  <token id="t43.27" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>
+<sentence id="44">
+  <token id="t44.1" form="Determinou" lemma="determinar" tag="VMIS3S0" wn="00699815-v" >
+  </token>
+  <token id="t44.2" form="mais" lemma="mais" tag="RG" wn="00029367-r" >
+  </token>
+  <token id="t44.3" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t44.4" form="Senado" lemma="senado" tag="NP00000" wn="08161477-n" >
+  </token>
+  <token id="t44.5" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t44.6" form="que" lemma="que" tag="PR0CN00" >
+  </token>
+  <token id="t44.7" form="Servio_Sulpicio_Galba" lemma="servio_sulpicio_galba" tag="NP00000" >
+  </token>
+  <token id="t44.8" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t44.9" form="o" lemma="o" tag="DA0MS0" >
+  </token>
+  <token id="t44.10" form="Cônsul_Lúcio_Licínio_Luculo" lemma="cônsul_lúcio_licínio_luculo" tag="NP00000" >
+  </token>
+  <token id="t44.11" form="regressassem" lemma="regressar" tag="VMSI3P0" wn="02004874-v" >
+  </token>
+  <token id="t44.12" form="a" lemma="o" tag="DA0FS0" >
+  </token>
+  <token id="t44.13" form="Roma" lemma="roma" tag="NP00000" >
+  </token>
+  <token id="t44.14" form="para" lemma="para" tag="SP" >
+  </token>
+  <token id="t44.15" form="prestarem" lemma="prestar" tag="VMN03P0" wn="02324182-v" >
+  </token>
+  <token id="t44.16" form="contas" lemma="conta" tag="NCFP000" wn="06516955-n" >
+  </token>
+  <token id="t44.17" form="estritas" lemma="estrito" tag="AQ0FP00" wn="00915556-a" >
+  </token>
+  <token id="t44.18" form="por" lemma="por" tag="SP" >
+  </token>
+  <token id="t44.19" form="os" lemma="o" tag="DA0MP0" >
+  </token>
+  <token id="t44.20" form="seus" lemma="seu" tag="DP3MPS" >
+  </token>
+  <token id="t44.21" form="roubos" lemma="roubo" tag="NCMP000" wn="00781685-n" >
+  </token>
+  <token id="t44.22" form="," lemma="," tag="Fc" >
+  </token>
+  <token id="t44.23" form="expolições" lemma="expolição" tag="NCFP000" >
+  </token>
+  <token id="t44.24" form="e" lemma="e" tag="CC" >
+  </token>
+  <token id="t44.25" form="crueldades" lemma="crueldade" tag="NCFP000" wn="04845475-n" >
+  </token>
+  <token id="t44.26" form="afrontosas" lemma="afrontoso" tag="AQ0FP00" >
+  </token>
+  <token id="t44.27" form="." lemma="." tag="Fp" >
+  </token>
+</sentence>

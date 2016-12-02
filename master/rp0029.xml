@@ -7,12 +7,12 @@
                 <title type="main">A Queda de um Anjo</title>
                 <title type="short">QuedaAnjo</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">193056911</idno>
                 </title>
                 <author>
                     <name type="short">CasteloBranco</name>
                     <name type="full">Castelo Branco, Camilo</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">7399630</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
@@ -74,7 +74,7 @@
                     <term type="subgenre_x" resp="#uh" cert="low">social</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
                     <term type="form">prose</term>
                     <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>

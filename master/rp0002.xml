@@ -5,31 +5,35 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Viriato</title>
-                <title type="sub">NARRATIVA EPO-HISTÓRICA</title>
+                <title type="sub">Narrativa Epo-histórica</title>
                 <title type="short">Viriato</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">-</idno>
                 </title>
                 <author>
                     <name type="short">Braga</name>
                     <name type="full">Braga, Teófilo</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">54161310</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0002</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>https://www.luso-livros.net/Livro/viriato/</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source">"Viriato. Narrativa Epo-histórica." <seg rend="italic"
+                        >Luso Livros</seg>, <date when="2013">2013</date>, <ref
+                        target="https://www.luso-livros.net/Livro/viriato/"
+                        >https://www.luso-livros.net/Livro/viriato/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
                 <bibl type="edition-first">
                     <date when="1904">1904</date>
                 </bibl>
@@ -40,20 +44,46 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>A epopeia de Viriato, o herói celtibero lusitano que unificou as várias
+                            tribos lusas em luta contra o domínio romano da península ibérica.</p>
+                        <p>Hábil guerreiro e estratega, foi visto pelas várias tribos lusas como
+                            libertador e foi reconhecido como sendo digno de receber a Víria: <seg
+                                rend="italic">o Colar dos Três Crescentes</seg>, que fez dele líder
+                            e rei dos povos da Lusónia (Lusitânia era o nome Romano). Foi o mais
+                            ferozes adversário que as legiões romanas enfrentaram na conquista da
+                            península Hispânica, derrotando-os em várias batalhas com os seus
+                            batalhões de lusitanos e gallaeci (galegos) o que lhe valeu o título
+                            dados pelos inimigos de “regnator Hiberae magnanimus terrae”, o mais
+                            magnânimo dos reis da terra Ibérica.</p>
+                        <p>Apesar desta obra ser um romance histórico, é rica no que respeita à
+                            referência a tradições folclóricas lusas, ou não fosse o seu autor um
+                            dos grandes antropólogos e etnógrafos, responsável por uma ampla e
+                            monumental recolha e registo de lendas, quadras, ditos, usos e costumes.
+                            E nem o subtil pendor anti-religioso que caracteriza Teófilo Braga (era
+                            um fervoroso defensor do laicismo), o impede de dar destaque aos
+                            costumes religiosos centrados nas Deidades da Hispânia indo-europeia,
+                            sobretudo Neton, o Deus da Guerra.</p>
+                    </quote>
+                    <bibl>"Viriato. Narrativa Epo-histórica." <seg rend="italic">Luso Livros</seg>,
+                            <date when="2013">2013</date>, <ref
+                            target="https://www.luso-livros.net/Livro/viriato/"
+                            >https://www.luso-livros.net/Livro/viriato/</ref>.</bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">historical</term>
-                    <term type="subgenre_x">historical</term>
-                    <term type="genre-subtitle"/>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle">Narrativa Epo-histórica</term>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

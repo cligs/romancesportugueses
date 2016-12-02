@@ -7,12 +7,12 @@
                 <title type="main">A Ilustre Casa de Ramires</title>
                 <title type="short">CasaRamires</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">184747325</idno>
                 </title>
                 <author>
-                    <name type="short">CasteloBranco</name>
-                    <name type="full">Castelo Branco, Camilo</name>
-                    <idno type="viaf">7399630</idno>
+                    <name type="short">Queiros</name>
+                    <name type="full">Queirós, Eça de</name>
+                    <idno type="viaf">88719234</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
@@ -55,6 +55,11 @@
                             ilustre Casa de Ramires” representa o apogeu do estilo Queirosiano e,
                             segundo os críticos, é aquele romance que melhor representa a sua
                             maturidade inteletual.</p>
+                        <p>É também uma das suas obras mais políticas, questionando a relação do
+                            Portugal do século XIX com o seu passado histórico e as suas
+                            responsabilidades de então. Tais conjeturas explicam-se pelo facto da
+                            obra ter sido escrita e publicada no meio de uma enorme instabilidade
+                            política e social.</p>
                     </quote>
                     <bibl>"A Ilustre Casa de Ramires." <seg rend="italic">Luso Livros</seg>, <date
                             when="2013">2013</date>, <ref
@@ -66,12 +71,12 @@
                 <keywords scheme="keywords.csv">
                     <term type="supergenre">narrative</term>
                     <term type="genre">novel</term>
-                    <term type="subgenre" resp="#uh" cert="low"/>
+                    <term type="subgenre" resp="#uh" cert="low">political</term>
                     <term type="subgenre_hist" resp="#uh" cert="low">historical</term>
-                    <term type="subgenre_x" resp="#uh" cert="low"/>
+                    <term type="subgenre_x" resp="#uh" cert="low">political</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
                     <term type="form">prose</term>
                     <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>

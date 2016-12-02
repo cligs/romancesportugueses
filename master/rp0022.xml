@@ -70,9 +70,10 @@
                 <keywords scheme="keywords.csv">
                     <term type="supergenre">narrative</term>
                     <term type="genre">novel</term>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">not_historical</term>
-                    <term type="subgenre_x"/>
+                    <term type="subgenre" subtype="2" resp="#uh" cert="low">social</term>
+                    <term type="subgenre" subtype="1" resp="#uh" cert="low">sentimental</term>
+                    <term type="subgenre_hist" resp="#uh">not_historical</term>
+                    <term type="subgenre_x" resp="#uh" cert="low">social</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
                     <term type="narrative-perspective">heterodiegetic</term>

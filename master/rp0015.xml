@@ -8,28 +8,32 @@
                 <title type="sub"/>
                 <title type="short">CaveiraMartir</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf">-</idno>
                 </title>
                 <author>
                     <name type="short">CasteloBranco</name>
                     <name type="full">Castelo Branco, Camilo</name>
-                    <idno type="viaf"/>
+                    <idno type="viaf">7399630</idno>
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
             <publicationStmt>
-                <publisher>CLiGS</publisher>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
                 <availability status="free">
-                    <p/>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0015</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-                    <ref>https://www.luso-livros.net/Livro/caveira-da-martir/</ref>
-                </bibl>
-                <bibl type="print-source"/>
+                <bibl type="digital-source"> "A Caveira da Mártir." <seg rend="italic">Luso
+                        Livros</seg>, <date when="2014">2014</date>, <ref
+                        target="https://www.luso-livros.net/Livro/caveira-da-martir/"
+                        >https://www.luso-livros.net/Livro/caveira-da-martir/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
                 <bibl type="edition-first">
                     <date when="1876">1876</date>
                 </bibl>
@@ -40,20 +44,38 @@
         </encodingDesc>
         <profileDesc>
             <abstract>
-                <p/>
+                <p>
+                    <quote>
+                        <p>Um nobre alemão, que tem na sua posse um cofre com uma misteriosa
+                            caveira, procura desvendar os segredos da história da sua família. A
+                            verdade por detrás de tal caveira leva-o a descobrir eventos que
+                            ocorreram em Lisboa a 1733.</p>
+                        <p>Publicado em 1876, o romance “A Caveira da Mártir” foi um dos maiores
+                            sucessos comerciais da carreira literária de Camilo Castelo Branco,
+                            quando ainda era vivo e, tal como muitas das obras camilianas, é baseada
+                            em casos reais e históricos. Mas, ao contrário de outros romances, que
+                            seguem somente uma história linear, aqui é explorado um entrelaçado de
+                            histórias, interligadas pelas acções e domínio da Santa Inquisição na
+                            justiça portuguesa e da aplicação da pena capital.</p>
+                    </quote>
+                    <bibl> "A Caveira da Mártir." <seg rend="italic">Luso Livros</seg>, <date
+                            when="2014">2014</date>, <ref
+                            target="https://www.luso-livros.net/Livro/caveira-da-martir/"
+                            >https://www.luso-livros.net/Livro/caveira-da-martir/</ref>. </bibl>
+                </p>
             </abstract>
             <textClass>
                 <keywords scheme="keywords.csv">
-                    <term type="supergenre"/>
-                    <term type="genre"/>
-                    <term type="subgenre"/>
-                    <term type="subgenre_hist">historical</term>
-                    <term type="subgenre_x">historical</term>
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
                     <term type="genre-subtitle"/>
                     <term type="genre-label"/>
-                    <term type="narrative-perspective"/>
-                    <term type="form"/>
-                    <term type="author-gender"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
                     <term type="author-continent">Europe</term>
                     <term type="author-country">Portugal</term>
                     <term type="language">Portuguese</term>

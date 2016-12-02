@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="sub">Um conto portuguez</title>
+                <title type="sub">Episodio da guerra civil</title>
+                <title type="main">A Maria da Fonte</title>
+                <title type="short">MariaFonte</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">Mascarenhas</name>
+                    <name type="full">Mascarenhas, Miguel J. T.</name>
+                    <idno type="viaf">99421824</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0012</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "Um conto portuguez: episodio da guerra civil: a Maria
+                    da Fonte." <seg rend="italic">The Project Gutenberg</seg>, <date when="2008-05-03">May 3, 2008</date>, EBook <idno>25313</idno>, <ref target="http://www.gutenberg.org/ebooks/25313">http://www.gutenberg.org/ebooks/25313</ref>. </bibl>
+                <bibl type="print-source"> "Um conto portuguez. Episodio da guerra civil. A Maria da
+                    Fonte." Porto: Typographia Lusitana, <date when="1873">1873</date>. </bibl>
+                <bibl type="edition-first">
+                    <date when="1873">1873</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle">Um conto portuguez</term>
+                    <term type="genre-subtitle">Episodio da guerra civil</term>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-29" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0012_d1"/>
+      <div xml:id="rp0012_d2"/>
+      <div xml:id="rp0012_d3"/>
+      <div xml:id="rp0012_d4"/>
+      <div xml:id="rp0012_d5"/>
+      <div xml:id="rp0012_d6"/>
+      <div xml:id="rp0012_d7"/>
+      <div xml:id="rp0012_d8"/>
+      <div xml:id="rp0012_d9"/>
+      <div xml:id="rp0012_d10"/>
+      <div xml:id="rp0012_d11"/>
+      <div xml:id="rp0012_d12"/>
+      <div xml:id="rp0012_d13"/>
+      <div xml:id="rp0012_d14"/>
+      <div xml:id="rp0012_d15"/>
+      <div xml:id="rp0012_d16"/>
+      <div xml:id="rp0012_d17"/>
+      <div xml:id="rp0012_d18"/>
+      <div xml:id="rp0012_d19"/>
+      <div xml:id="rp0012_d20"/>
+      <div xml:id="rp0012_d21"/>
+      <div xml:id="rp0012_d22"/>
+      <div xml:id="rp0012_d23"/>
+      <div xml:id="rp0012_d24"/>
+      <div xml:id="rp0012_d25"/>
+      <div xml:id="rp0012_d26"/>
+      <div xml:id="rp0012_d27"/>
+      <div xml:id="rp0012_d28"/>
+      <div xml:id="rp0012_d29"/>
+      <div xml:id="rp0012_d30"/>
+      <div xml:id="rp0012_d31"/>
+    </body>
+  </text>
+</TEI>

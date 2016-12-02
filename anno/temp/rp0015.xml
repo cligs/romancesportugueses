@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/annotated/cligs_annotated.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">A Caveira da Mártir</title>
+                <title type="sub"/>
+                <title type="short">CaveiraMartir</title>
+                <title type="idno">
+                    <idno type="viaf">-</idno>
+                </title>
+                <author>
+                    <name type="short">CasteloBranco</name>
+                    <name type="full">Castelo Branco, Camilo</name>
+                    <idno type="viaf">7399630</idno>
+                </author>
+                <principal xml:id="uh">Ulrike Henny</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
+                </publisher>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+                <date>2016</date>
+                <idno type="cligs">rp0015</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source"> "A Caveira da Mártir." <seg rend="italic">Luso
+                        Livros</seg>, <date when="2014">2014</date>, <ref target="https://www.luso-livros.net/Livro/caveira-da-martir/">https://www.luso-livros.net/Livro/caveira-da-martir/</ref>. </bibl>
+                <bibl type="print-source">unknown</bibl>
+                <bibl type="edition-first">
+                    <date when="1876">1876</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p/>
+        </encodingDesc>
+        <profileDesc>
+            <abstract>
+                <p>
+                    <quote>
+                        <p>Um nobre alemão, que tem na sua posse um cofre com uma misteriosa
+                            caveira, procura desvendar os segredos da história da sua família. A
+                            verdade por detrás de tal caveira leva-o a descobrir eventos que
+                            ocorreram em Lisboa a 1733.</p>
+                        <p>Publicado em 1876, o romance “A Caveira da Mártir” foi um dos maiores
+                            sucessos comerciais da carreira literária de Camilo Castelo Branco,
+                            quando ainda era vivo e, tal como muitas das obras camilianas, é baseada
+                            em casos reais e históricos. Mas, ao contrário de outros romances, que
+                            seguem somente uma história linear, aqui é explorado um entrelaçado de
+                            histórias, interligadas pelas acções e domínio da Santa Inquisição na
+                            justiça portuguesa e da aplicação da pena capital.</p>
+                    </quote>
+                    <bibl> "A Caveira da Mártir." <seg rend="italic">Luso Livros</seg>, <date when="2014">2014</date>, <ref target="https://www.luso-livros.net/Livro/caveira-da-martir/">https://www.luso-livros.net/Livro/caveira-da-martir/</ref>. </bibl>
+                </p>
+            </abstract>
+            <textClass>
+                <keywords scheme="keywords.csv">
+                    <term type="supergenre">narrative</term>
+                    <term type="genre">novel</term>
+                    <term type="subgenre" resp="#uh">historical</term>
+                    <term type="subgenre_hist" resp="#uh">historical</term>
+                    <term type="subgenre_x" resp="#uh">historical</term>
+                    <term type="genre-subtitle"/>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
+                    <term type="form">prose</term>
+                    <term type="author-gender">male</term>
+                    <term type="author-continent">Europe</term>
+                    <term type="author-country">Portugal</term>
+                    <term type="language">Portuguese</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-10-30" who="#uh">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+  <text>
+    <body>
+      <div xml:id="rp0015_d1"/>
+      <div xml:id="rp0015_d2"/>
+      <div xml:id="rp0015_d3"/>
+      <div xml:id="rp0015_d4"/>
+      <div xml:id="rp0015_d5"/>
+      <div xml:id="rp0015_d6"/>
+      <div xml:id="rp0015_d7"/>
+      <div xml:id="rp0015_d8"/>
+      <div xml:id="rp0015_d9"/>
+      <div xml:id="rp0015_d10"/>
+      <div xml:id="rp0015_d11"/>
+      <div xml:id="rp0015_d12"/>
+      <div xml:id="rp0015_d13"/>
+      <div xml:id="rp0015_d14"/>
+      <div xml:id="rp0015_d15"/>
+      <div xml:id="rp0015_d16"/>
+      <div xml:id="rp0015_d17"/>
+      <div xml:id="rp0015_d18"/>
+      <div xml:id="rp0015_d19"/>
+      <div xml:id="rp0015_d20"/>
+      <div xml:id="rp0015_d21"/>
+      <div xml:id="rp0015_d22"/>
+      <div xml:id="rp0015_d23"/>
+      <div xml:id="rp0015_d24"/>
+      <div xml:id="rp0015_d25"/>
+      <div xml:id="rp0015_d26"/>
+      <div xml:id="rp0015_d27"/>
+      <div xml:id="rp0015_d28"/>
+      <div xml:id="rp0015_d29"/>
+      <div xml:id="rp0015_d30"/>
+      <div xml:id="rp0015_d31"/>
+      <div xml:id="rp0015_d32"/>
+      <div xml:id="rp0015_d33"/>
+      <div xml:id="rp0015_d34"/>
+      <div xml:id="rp0015_d35"/>
+      <div xml:id="rp0015_d36"/>
+      <div xml:id="rp0015_d37"/>
+      <div xml:id="rp0015_d38"/>
+      <div xml:id="rp0015_d39"/>
+      <div xml:id="rp0015_d40"/>
+      <div xml:id="rp0015_d41"/>
+      <div xml:id="rp0015_d42"/>
+      <div xml:id="rp0015_d43"/>
+      <div xml:id="rp0015_d44"/>
+      <div xml:id="rp0015_d45"/>
+      <div xml:id="rp0015_d46"/>
+      <div xml:id="rp0015_d47"/>
+      <div xml:id="rp0015_d48"/>
+      <div xml:id="rp0015_d49"/>
+      <div xml:id="rp0015_d50"/>
+      <div xml:id="rp0015_d51"/>
+    </body>
+  </text>
+</TEI>
