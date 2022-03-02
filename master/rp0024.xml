@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/61639b75deae2916eabeb036313dc8089da40e5e/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
         <fileDesc>
@@ -16,6 +16,13 @@
                 </author>
                 <principal xml:id="uh">Ulrike Henny</principal>
             </titleStmt>
+			<extent>
+				<measure unit="lines">5471</measure>
+				<measure unit="divs">22</measure>
+				<measure unit="words">59210</measure>
+				<measure unit="chars">346585</measure>
+				<measure unit="size_kb">463</measure>
+			</extent>
             <publicationStmt>
                 <publisher>
                     <ref target="http://cligs.hypotheses.org/">CLiGS</ref>
@@ -26,7 +33,8 @@
                 </availability>
                 <date>2016</date>
                 <idno type="cligs">rp0024</idno>
-                <idno type="url"/>
+                <idno type="url"
+                    >https://raw.githubusercontent.com/cligs/textbox/master/portuguese/romancesportugueses/tei/rp0024.xml</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="digital-source"> "A Rosa do Adro." <seg rend="italic">Luso Livros</seg>,
